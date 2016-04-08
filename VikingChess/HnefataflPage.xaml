@@ -1,0 +1,377 @@
+﻿<Page
+    x:Class="VikingChess.HnefataflPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:VikingChess"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <VisualStateManager.VisualStateGroups>
+        <VisualStateGroup x:Name="ApplicationViewStates">
+            <VisualState x:Name="FullScreenLandscapeOrWide"/>
+            <VisualState x:Name="FilledOrNarrow" />
+            <VisualState x:Name="FullScreenPortrait" />
+            <VisualState x:Name="FullScreenPortrait_Detail" />
+            <VisualState x:Name="Snapped" />
+            <VisualState x:Name="Snapped_Detail" />
+        </VisualStateGroup>
+    </VisualStateManager.VisualStateGroups>
+
+    <Page.Resources>
+
+        <Style x:Key="ButtonStyle1" TargetType="Button">
+            <Setter Property="Background" Value="{ThemeResource SystemControlBackgroundBaseLowBrush}"/>
+            <Setter Property="Foreground" Value="{ThemeResource SystemControlForegroundBaseHighBrush}"/>
+            <Setter Property="BorderBrush" Value="{ThemeResource SystemControlForegroundTransparentBrush}"/>
+            <Setter Property="BorderThickness" Value="{ThemeResource ButtonBorderThemeThickness}"/>
+            <Setter Property="Padding" Value="8,4,8,4"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="{ThemeResource ContentControlThemeFontFamily}"/>
+            <Setter Property="FontWeight" Value="Normal"/>
+            <Setter Property="FontSize" Value="{ThemeResource ControlContentThemeFontSize}"/>
+            <Setter Property="UseSystemFocusVisuals" Value="True"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid x:Name="RootGrid" Background="{TemplateBinding Background}">
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal">
+                                        <Storyboard>
+                                            <PointerUpThemeAnimation Storyboard.TargetName="RootGrid"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="PointerOver">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="BorderBrush" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="#FFFFA200"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource SystemControlHighlightBaseHighBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <PointerUpThemeAnimation Storyboard.TargetName="RootGrid"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource SystemControlHighlightBaseHighBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <PointerDownThemeAnimation Storyboard.TargetName="RootGrid"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Disabled">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Background" Storyboard.TargetName="RootGrid">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource SystemControlBackgroundBaseLowBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource SystemControlDisabledBaseLowBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="BorderBrush" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource SystemControlDisabledTransparentBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <ContentPresenter x:Name="ContentPresenter" AutomationProperties.AccessibilityView="Raw" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" ContentTemplate="{TemplateBinding ContentTemplate}" ContentTransitions="{TemplateBinding ContentTransitions}" Content="{TemplateBinding Content}" HorizontalContentAlignment="{TemplateBinding HorizontalContentAlignment}" Padding="{TemplateBinding Padding}" VerticalContentAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="topbarButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="{ThemeResource SystemControlBackgroundBaseLowBrush}"/>
+            <Setter Property="Foreground" Value="{ThemeResource SystemControlForegroundBaseHighBrush}"/>
+            <Setter Property="BorderBrush" Value="{ThemeResource SystemControlForegroundTransparentBrush}"/>
+            <Setter Property="BorderThickness" Value="{ThemeResource ButtonBorderThemeThickness}"/>
+            <Setter Property="Padding" Value="8,4,8,4"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="{ThemeResource ContentControlThemeFontFamily}"/>
+            <Setter Property="FontWeight" Value="Normal"/>
+            <Setter Property="FontSize" Value="{ThemeResource ControlContentThemeFontSize}"/>
+            <Setter Property="UseSystemFocusVisuals" Value="True"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid x:Name="RootGrid" Background="{TemplateBinding Background}">
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal">
+                                        <Storyboard>
+                                            <PointerUpThemeAnimation Storyboard.TargetName="RootGrid"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="PointerOver">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource SystemControlHighlightBaseHighBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <PointerUpThemeAnimation Storyboard.TargetName="RootGrid"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource SystemControlHighlightBaseHighBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <PointerDownThemeAnimation Storyboard.TargetName="RootGrid"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Disabled">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Background" Storyboard.TargetName="RootGrid">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource SystemControlBackgroundBaseLowBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource SystemControlDisabledBaseLowBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="BorderBrush" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource SystemControlDisabledTransparentBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <ContentPresenter x:Name="ContentPresenter" AutomationProperties.AccessibilityView="Raw" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" ContentTemplate="{TemplateBinding ContentTemplate}" ContentTransitions="{TemplateBinding ContentTransitions}" Content="{TemplateBinding Content}" HorizontalContentAlignment="{TemplateBinding HorizontalContentAlignment}" Padding="{TemplateBinding Padding}" VerticalContentAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="PageStyle1" TargetType="Page"/>
+    </Page.Resources>
+    <Page.Style>
+        <StaticResource ResourceKey="PageStyle1"/>
+    </Page.Style>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="UniformToFill" ImageSource="Assets/bg-wood.png"/>
+        </Grid.Background>
+        <RelativePanel Height="922" Margin="524,62,474,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5">
+            <RelativePanel.Background>
+                <ImageBrush ImageSource="Assets/Back-board.png"/>
+            </RelativePanel.Background>
+            <RelativePanel.RenderTransform>
+                <CompositeTransform ScaleY="0.8" ScaleX="0.8"/>
+            </RelativePanel.RenderTransform>
+            <Grid Margin="2,2,-2,-2" RenderTransformOrigin="0.5,0.5">
+                <Grid.RenderTransform>
+                    <CompositeTransform ScaleY="0.95999997854232788" ScaleX="0.95999997854232788"/>
+                </Grid.RenderTransform>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="117*"/>
+                    <RowDefinition Height="103*"/>
+                </Grid.RowDefinitions>
+
+                <!-- Row 11 -->
+                <Image Width="880" Height="880" Source="Assets/HnefataflBoard.png" Margin="20,20,-20,-20" Grid.RowSpan="2" />
+                <Rectangle x:Name="A11" HorizontalAlignment="Left" Height="80" Margin="20,20,0,0" VerticalAlignment="Top" Width="80" />
+                <Rectangle x:Name="B11" HorizontalAlignment="Left" Height="80" Margin="100,20,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="C11" HorizontalAlignment="Left" Height="80" Margin="180,20,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="D11" HorizontalAlignment="Left" Height="80" Margin="260,20,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="E11" HorizontalAlignment="Left" Height="80" Margin="340,20,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="F11" HorizontalAlignment="Left" Height="80" Margin="420,20,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="G11" HorizontalAlignment="Left" Height="80" Margin="500,20,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="H11" HorizontalAlignment="Left" Height="80" Margin="580,20,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="I11" HorizontalAlignment="Left" Height="80" Margin="660,20,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="J11" HorizontalAlignment="Left" Height="80" Margin="740,20,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="K11" HorizontalAlignment="Left" Height="80" Margin="820,20,-20,0" VerticalAlignment="Top" Width="80"/>
+                <!-- Row 10 -->
+                <Rectangle x:Name="A10" HorizontalAlignment="Left" Height="80" Margin="20,100,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="B10" HorizontalAlignment="Left" Height="80" Margin="100,100,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="C10" HorizontalAlignment="Left" Height="80" Margin="180,100,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="D10" HorizontalAlignment="Left" Height="80" Margin="260,100,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="E10" HorizontalAlignment="Left" Height="80" Margin="340,100,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="F10" HorizontalAlignment="Left" Height="80" Margin="420,100,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="G10" HorizontalAlignment="Left" Height="80" Margin="500,100,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="H10" HorizontalAlignment="Left" Height="80" Margin="580,100,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="I10" HorizontalAlignment="Left" Height="80" Margin="660,100,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="J10" HorizontalAlignment="Left" Height="80" Margin="740,100,0,0" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="K10" HorizontalAlignment="Left" Height="80" Margin="820,100,-20,0" VerticalAlignment="Top" Width="80"/>
+                <!-- Row 9 -->
+                <Rectangle x:Name="A9" HorizontalAlignment="Left" Margin="20,180,0,208.333" Width="80" d:LayoutOverrides="TopPosition, BottomPosition"/>
+                <Rectangle x:Name="B9" HorizontalAlignment="Left" Margin="100,180,0,208.333" Width="80" d:LayoutOverrides="TopPosition, BottomPosition"/>
+                <Rectangle x:Name="C9" HorizontalAlignment="Left" Margin="180,180,0,208.333" Width="80" d:LayoutOverrides="TopPosition, BottomPosition"/>
+                <Rectangle x:Name="D9" HorizontalAlignment="Left" Margin="260,180,0,208.333" Width="80" d:LayoutOverrides="TopPosition, BottomPosition"/>
+                <Rectangle x:Name="E9" HorizontalAlignment="Left" Margin="340,180,0,208.333" Width="80" d:LayoutOverrides="TopPosition, BottomPosition"/>
+                <Rectangle x:Name="F9" HorizontalAlignment="Left" Margin="420,180,0,208.333" Width="80" d:LayoutOverrides="TopPosition, BottomPosition"/>
+                <Rectangle x:Name="G9" HorizontalAlignment="Left" Margin="500,180,0,208.333" Width="80" d:LayoutOverrides="TopPosition, BottomPosition"/>
+                <Rectangle x:Name="H9" HorizontalAlignment="Left" Margin="580,180,0,208.333" Width="80" d:LayoutOverrides="TopPosition, BottomPosition"/>
+                <Rectangle x:Name="I9" HorizontalAlignment="Left" Margin="660,180,0,208.333" Width="80" d:LayoutOverrides="TopPosition, BottomPosition"/>
+                <Rectangle x:Name="J9" HorizontalAlignment="Left" Margin="740,180,0,208.333" Width="80" d:LayoutOverrides="TopPosition, BottomPosition"/>
+                <Rectangle x:Name="K9" HorizontalAlignment="Left" Margin="820,180,-20,208.333" Width="80" d:LayoutOverrides="TopPosition, BottomPosition"/>
+                <!-- Row 8 -->
+                <Rectangle x:Name="A8" HorizontalAlignment="Left" Height="80" Margin="20,0,0,128.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="B8" HorizontalAlignment="Left" Height="80" Margin="100,0,0,128.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="C8" HorizontalAlignment="Left" Height="80" Margin="180,0,0,128.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="D8" HorizontalAlignment="Left" Height="80" Margin="260,0,0,128.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="E8" HorizontalAlignment="Left" Height="80" Margin="340,0,0,128.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="F8" HorizontalAlignment="Left" Height="80" Margin="420,0,0,128.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="G8" HorizontalAlignment="Left" Height="80" Margin="500,0,0,128.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="H8" HorizontalAlignment="Left" Height="80" Margin="580,0,0,128.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="I8" HorizontalAlignment="Left" Height="80" Margin="660,0,0,128.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="J8" HorizontalAlignment="Left" Height="80" Margin="740,0,0,128.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="K8" HorizontalAlignment="Left" Height="80" Margin="820,0,-20,128.333" VerticalAlignment="Bottom" Width="80"/>
+                <!-- Row 7 -->
+                <Rectangle x:Name="A7" HorizontalAlignment="Left" Height="80" Margin="20,0,0,48.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="B7" HorizontalAlignment="Left" Height="80" Margin="100,0,0,48.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="C7" HorizontalAlignment="Left" Height="80" Margin="180,0,0,48.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="D7" HorizontalAlignment="Left" Height="80" Margin="260,0,0,48.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="E7" HorizontalAlignment="Left" Height="80" Margin="340,0,0,48.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="F7" HorizontalAlignment="Left" Height="80" Margin="420,0,0,48.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="G7" HorizontalAlignment="Left" Height="80" Margin="500,0,0,48.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="H7" HorizontalAlignment="Left" Height="80" Margin="580,0,0,48.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="I7" HorizontalAlignment="Left" Height="80" Margin="660,0,0,48.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="J7" HorizontalAlignment="Left" Height="80" Margin="740,0,0,48.333" VerticalAlignment="Bottom" Width="80"/>
+                <Rectangle x:Name="K7" HorizontalAlignment="Left" Height="80" Margin="820,0,-20,48.333" VerticalAlignment="Bottom" Width="80"/>
+                <!-- Row  6 -->
+                <Rectangle x:Name="A6" HorizontalAlignment="Left" Height="80" Margin="20,420,0,-31.667" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="B6" HorizontalAlignment="Left" Height="80" Margin="100,420,0,-31.667" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="C6" HorizontalAlignment="Left" Height="80" Margin="180,420,0,-31.667" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="D6" HorizontalAlignment="Left" Height="80" Margin="260,420,0,-31.667" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="E6" HorizontalAlignment="Left" Height="80" Margin="340,420,0,-31.667" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="F6" HorizontalAlignment="Left" Height="80" Margin="420,420,0,-31.667" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="G6" HorizontalAlignment="Left" Height="80" Margin="500,420,0,-31.667" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="H6" HorizontalAlignment="Left" Height="80" Margin="580,420,0,-31.667" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="I6" HorizontalAlignment="Left" Height="80" Margin="660,420,0,-31.667" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="J6" HorizontalAlignment="Left" Height="80" Margin="740,420,0,-31.667" VerticalAlignment="Top" Width="80"/>
+                <Rectangle x:Name="K6" HorizontalAlignment="Left" Height="80" Margin="820,420,-20,-31.667" VerticalAlignment="Top" Width="80"/>
+                <!-- Row 5 -->
+                <Rectangle x:Name="A5" HorizontalAlignment="Left" Height="80" Margin="20,31.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="B5" HorizontalAlignment="Left" Height="80" Margin="100,31.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="C5" HorizontalAlignment="Left" Height="80" Margin="180,31.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="D5" HorizontalAlignment="Left" Height="80" Margin="260,31.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="E5" HorizontalAlignment="Left" Height="80" Margin="340,31.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="F5" HorizontalAlignment="Left" Height="80" Margin="420,31.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="G5" HorizontalAlignment="Left" Height="80" Margin="500,31.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="H5" HorizontalAlignment="Left" Height="80" Margin="580,31.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="I5" HorizontalAlignment="Left" Height="80" Margin="660,31.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="J5" HorizontalAlignment="Left" Height="80" Margin="740,31.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="K5" HorizontalAlignment="Left" Height="80" Margin="820,31.667,-20,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <!-- Row 4 -->
+                <Rectangle x:Name="A4" HorizontalAlignment="Left" Height="80" Margin="20,111.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="B4" HorizontalAlignment="Left" Height="80" Margin="100,111.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="C4" HorizontalAlignment="Left" Height="80" Margin="180,111.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="D4" HorizontalAlignment="Left" Height="80" Margin="260,111.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="E4" HorizontalAlignment="Left" Height="80" Margin="340,111.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="F4" HorizontalAlignment="Left" Height="80" Margin="420,111.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="G4" HorizontalAlignment="Left" Height="80" Margin="500,111.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="H4" HorizontalAlignment="Left" Height="80" Margin="580,111.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="I4" HorizontalAlignment="Left" Height="80" Margin="660,111.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="J4" HorizontalAlignment="Left" Height="80" Margin="740,111.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <Rectangle x:Name="K4" HorizontalAlignment="Left" Height="80" Margin="820,111.667,-20,0" VerticalAlignment="Top" Width="80" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+                <!-- Row 3 -->
+                <Rectangle x:Name="A3" HorizontalAlignment="Left" Height="80" Margin="20,191.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="B3" HorizontalAlignment="Left" Height="80" Margin="100,191.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="C3" HorizontalAlignment="Left" Height="80" Margin="180,191.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="D3" HorizontalAlignment="Left" Height="80" Margin="260,191.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="E3" HorizontalAlignment="Left" Height="80" Margin="340,191.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="F3" HorizontalAlignment="Left" Height="80" Margin="420,191.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="G3" HorizontalAlignment="Left" Height="80" Margin="500,191.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="H3" HorizontalAlignment="Left" Height="80" Margin="580,191.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="I3" HorizontalAlignment="Left" Height="80" Margin="660,191.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="J3" HorizontalAlignment="Left" Height="80" Margin="740,191.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="K3" HorizontalAlignment="Left" Height="80" Margin="820,191.667,-20,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <!-- Row 2 -->
+                <Rectangle x:Name="A2" HorizontalAlignment="Left" Height="80" Margin="20,271.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="B2" HorizontalAlignment="Left" Height="80" Margin="100,271.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="C2" HorizontalAlignment="Left" Height="80" Margin="180,271.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="D2" HorizontalAlignment="Left" Height="80" Margin="260,271.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="E2" HorizontalAlignment="Left" Height="80" Margin="340,271.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="F2" HorizontalAlignment="Left" Height="80" Margin="420,271.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="G2" HorizontalAlignment="Left" Height="80" Margin="500,271.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="H2" HorizontalAlignment="Left" Height="80" Margin="580,271.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="I2" HorizontalAlignment="Left" Height="80" Margin="660,271.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="J2" HorizontalAlignment="Left" Height="80" Margin="740,271.667,0,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="K2" HorizontalAlignment="Left" Height="80" Margin="820,271.667,-20,0" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <!-- Row 1 -->
+                <Rectangle x:Name="A1" HorizontalAlignment="Left" Height="80" Margin="20,351.667,0,-20" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="B1" HorizontalAlignment="Left" Height="80" Margin="100,351.667,0,-20" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="C1" HorizontalAlignment="Left" Height="80" Margin="180,351.667,0,-20" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="D1" HorizontalAlignment="Left" Height="80" Margin="260,351.667,0,-20" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="E1" HorizontalAlignment="Left" Height="80" Margin="340,351.667,0,-20" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="F1" HorizontalAlignment="Left" Height="80" Margin="420,351.667,0,-20" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="G1" HorizontalAlignment="Left" Height="80" Margin="500,351.667,0,-20" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="H1" HorizontalAlignment="Left" Height="80" Margin="580,351.667,0,-20" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="I1" HorizontalAlignment="Left" Height="80" Margin="660,351.667,0,-20" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="J1" HorizontalAlignment="Left" Height="80" Margin="740,351.667,0,-20" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+                <Rectangle x:Name="K1" HorizontalAlignment="Left" Height="80" Margin="820,351.667,-20,-20" VerticalAlignment="Top" Width="80" Grid.Row="1"/>
+            </Grid>
+
+        </RelativePanel>
+        <Rectangle StrokeThickness="5" HorizontalAlignment="Left" Margin="135,196,0,435" Width="365">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Assets/OldPaperV2.png" Stretch="UniformToFill"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle StrokeThickness="5" HorizontalAlignment="Left" Margin="1475,196,0,435" Width="365">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Assets/OldPaperV2.png" Stretch="UniformToFill"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Button x:Name="resignBtn1" Style="{StaticResource ButtonStyle1}" Click="resignBtn1_tapped" Content="" Height="60" Margin="180,0,0,220" VerticalAlignment="Bottom" Width="120" ToolTipService.ToolTip="Resign">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/mini-btn-resign.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="UndoBtn1" Style="{StaticResource ButtonStyle1}" Click="undoBtn_tapped" Content="" Height="60" Margin="340,0,0,220" VerticalAlignment="Bottom" Width="120" ToolTipService.ToolTip="Undo Move">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/mini-btn-undo.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="resignBtn2" Style="{StaticResource ButtonStyle1}" Click="resignBtn2_tapped" Content="" Height="60" Margin="0,0,280,220" VerticalAlignment="Bottom" Width="120" HorizontalAlignment="Right" ToolTipService.ToolTip="Resign">
+            <Button.Background>
+                <ImageBrush Stretch="UniformToFill" ImageSource="Assets/mini-btn-resign.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="UndoBtn2" Style="{StaticResource ButtonStyle1}" Click="undoBtn_tapped" Content="" Height="60" Margin="0,0,120,220" VerticalAlignment="Bottom" Width="120" HorizontalAlignment="Right" FontFamily="Old English Text MT" Foreground="White" FontSize="26.667" ToolTipService.ToolTip="Undo Move">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/mini-btn-undo.png"/>
+            </Button.Background>
+        </Button>
+        <Rectangle x:Name="player1Rectangle" StrokeThickness="5" HorizontalAlignment="Left" Height="140" Margin="160,0,0,300" VerticalAlignment="Bottom" Width="320">
+            <Rectangle.Fill>
+                <ImageBrush Stretch="Uniform" ImageSource="Assets/playerPanel.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle  x:Name="player2Rectangle" StrokeThickness="5" HorizontalAlignment="Right" Height="140" Margin="0,0,100,300" VerticalAlignment="Bottom" Width="320">
+            <Rectangle.Fill>
+                <ImageBrush Stretch="Uniform" ImageSource="Assets/playerPanel.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <TextBlock x:Name="player1Text" HorizontalAlignment="Left" TextAlignment="Center" Height="38" Margin="284,0,0,386" TextWrapping="Wrap"  VerticalAlignment="Bottom" Width="181" FontSize="18.667" Text="" FontFamily="Assets/Fonts/VIKING-N.TTF#Viking-Normal" Foreground="White"/>
+        <TextBlock x:Name="player2Text" HorizontalAlignment="Right" TextAlignment="Center" Height="37" Margin="0,0,117,388" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="181" FontSize="18.667" Text="" Foreground="White" FontFamily="Assets/Fonts/VIKING-N.TTF#Viking-Normal"/>
+        <TextBlock x:Name="p1TurnIndicator" HorizontalAlignment="Left" Height="45" Margin="284,0,0,336" TextWrapping="Wrap" Text="" VerticalAlignment="Bottom" Width="181" FontFamily="Assets/Fonts/VIKING-N.TTF#Viking-Normal" FontSize="21.333" TextAlignment="Center" Foreground="White"/>
+        <TextBlock x:Name="p2TurnIndicator" HorizontalAlignment="Right" Height="44" Margin="0,0,117,339" TextWrapping="Wrap" Text="" VerticalAlignment="Bottom" Width="181" FontSize="21.333" FontFamily="Assets/Fonts/VIKING-N.TTF#Viking-Normal" TextAlignment="Center" Foreground="White"/>
+        <ScrollViewer x:Name="scrollViewerLeft"  Margin="179,222,0,461" HorizontalAlignment="Left" Width="263" HorizontalScrollMode="Disabled" VerticalScrollMode="Enabled">
+            <TextBlock x:Name="p1MoveListText" HorizontalAlignment="Left" TextWrapping="Wrap" Text="" FontSize="26.667" TextAlignment="Center" FontFamily="Segoe Script" FontWeight="Bold" ManipulationMode="None" Width="263" Foreground="#FF3E2B09"/>
+        </ScrollViewer>
+        <ScrollViewer x:Name="scrollViewerRight"  Margin="1520,222,0,461" HorizontalAlignment="Left" Width="263" HorizontalScrollMode="Disabled" VerticalScrollMode="Enabled">
+            <TextBlock x:Name="p2MoveListText" IsColorFontEnabled="true"  HorizontalAlignment="Left" TextWrapping="Wrap" Text="" FontSize="26.667" TextAlignment="Center" FontFamily="Segoe Script" FontWeight="Bold" ManipulationMode="None" Width="263" Foreground="#FF3E2B09"/>
+        </ScrollViewer>
+
+
+        <Image x:Name="image" HorizontalAlignment="Left" Height="103" Margin="178,0,0,321" VerticalAlignment="Bottom" Width="101" Source="Assets/PieceBlack.png"/>
+        <Image x:Name="image_Copy" HorizontalAlignment="Right" Height="104" Margin="0,0,303,321" VerticalAlignment="Bottom" Width="102" Source="Assets/PieceWhite.png"/>
+        <TextBlock x:Name="winText" IsHitTestVisible="False" HorizontalAlignment="Left" Margin="640,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="40" Width="640" TextAlignment="Center" FontSize="32" FontFamily="Assets/Fonts/VIKING-N.TTF#Viking-Normal" Foreground="#FFFFA200" IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsTapEnabled="False" IsRightTapEnabled="False" ManipulationMode="None" d:LayoutOverrides="VerticalAlignment"/>
+        <Rectangle Height="20" StrokeThickness="10" VerticalAlignment="Top" Fill="#FF6B2509" />
+        <Button x:Name="fullscreen_btn" Style="{StaticResource topbarButtonStyle}" Content="" Click="fullscreen_btn_clicked" HorizontalAlignment="Right" Height="18" VerticalAlignment="Top" Width="18" Margin="1,1,10,1">
+            <Button.Background>
+                <ImageBrush ImageSource="Assets/fullscreen-arrows.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="back_btn" Style="{StaticResource topbarButtonStyle}" Content=""  Click="back_btn_clicked" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="20">
+            <Button.Background>
+                <ImageBrush ImageSource="Assets/back-arrow.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <TextBlock x:Name="timer_text" IsHitTestVisible="False" HorizontalAlignment="Left" Margin="665,939,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="40" Width="640" TextAlignment="Center" FontSize="32" FontFamily="Assets/Fonts/VIKING-N.TTF#Viking-Normal" Foreground="#FFFFA200" IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsTapEnabled="False" IsRightTapEnabled="False" ManipulationMode="None"/>
+        <TextBlock x:Name="player_timer_text" IsHitTestVisible="False" HorizontalAlignment="Left" Margin="160,906,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="40" Width="320" TextAlignment="Center" FontSize="32" FontFamily="Assets/Fonts/VIKING-N.TTF#Viking-Normal" Foreground="#FFFFA200" IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsTapEnabled="False" IsRightTapEnabled="False" ManipulationMode="None"/>
+        <TextBlock x:Name="cpu_timer_text" IsHitTestVisible="False" HorizontalAlignment="Left" Margin="1500,906,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="40" Width="320" TextAlignment="Center" FontSize="32" FontFamily="Assets/Fonts/VIKING-N.TTF#Viking-Normal" Foreground="#FFFFA200" IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsTapEnabled="False" IsRightTapEnabled="False" ManipulationMode="None"/>
+    </Grid>
+</Page>

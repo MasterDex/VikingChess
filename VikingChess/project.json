@@ -1,0 +1,31 @@
+﻿{
+  "dependencies": {
+    "EWSoftware.SHFB": "2015.10.10",
+    "EWSoftware.SHFB.NETCore": "4.5.1",
+    "EWSoftware.SHFB.NETFramework": "4.6.0",
+    "EWSoftware.SHFB.NETMicroFramework": "4.3.0",
+    "EWSoftware.SHFB.NETPortable": "4.6.0",
+    "EWSoftware.SHFB.Silverlight": "5.0.0",
+    "EWSoftware.SHFB.UniversalWindows": "1.0.0",
+    "EWSoftware.SHFB.WindowsPhone": "8.1.0",
+    "EWSoftware.SHFB.WindowsPhoneApp": "8.1.0",
+    "Microsoft.ApplicationInsights": "1.0.0",
+    "Microsoft.ApplicationInsights.PersistenceChannel": "1.0.0",
+    "Microsoft.ApplicationInsights.WindowsApps": "1.0.0",
+    "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
+    "SHFB": "2014.5.31",
+    "SHFB.Patched": "2015.7.25",
+    "XamlAnimatedGif": "1.1.1"
+  },
+  "frameworks": {
+    "uap10.0": {}
+  },
+  "runtimes": {
+    "win10-arm": {},
+    "win10-arm-aot": {},
+    "win10-x86": {},
+    "win10-x86-aot": {},
+    "win10-x64": {},
+    "win10-x64-aot": {}
+  }
+}

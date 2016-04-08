@@ -1,0 +1,1580 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="0dcace37-ca4c-450c-8dd2-cb8392dbe249" Title="VikingChess Namespaces" Url="html/ca268e6e-4d83-c5ec-1f2e-69ee2eaa0e15.htm">
+    <HelpTOCNode Id="3461a848-e5a2-46ec-ae1d-03342b3f07fb" Title="VikingChess" Url="html/b755704e-91b4-b35a-02e3-bddba2d2e0fc.htm">
+      <HelpTOCNode Id="7f26a64f-5afc-4f52-9e1a-ad48b96978a1" Title="AboutPage Class" Url="html/3430641a-d930-e9fa-891a-5c1458ee18d6.htm">
+        <HelpTOCNode Title="AboutPage Constructor " Url="html/c1f15ef7-1453-d40a-a080-ab3b8fa13387.htm" />
+        <HelpTOCNode Title="AboutPage Properties" Url="html/6298452b-2ac9-22f5-d0ea-238af85ee89d.htm" />
+        <HelpTOCNode Id="49c2b096-b49b-488b-bd99-cc61eeb70523" Title="AboutPage Methods" Url="html/fca560cc-f78f-1549-f20f-f020c4f876cf.htm">
+          <HelpTOCNode Title="back_btn_clicked Method " Url="html/3558c952-2d4a-6bf5-8557-e85d2a798eaf.htm" />
+          <HelpTOCNode Title="Connect Method " Url="html/53b54d1d-c59b-2ac4-f959-cb7403ef9e10.htm" />
+          <HelpTOCNode Title="fullscreen_btn_clicked Method " Url="html/7ff0bf95-d737-b385-ac11-008c4a3b8745.htm" />
+          <HelpTOCNode Title="GetBindingConnector Method " Url="html/3ff61374-f468-2421-7079-761fcdcd41f3.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/d8da2956-5e54-06f8-09cb-781c122b86b9.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AboutPage Events" Url="html/3b0b59a7-9812-55a3-667b-da055099b4cb.htm" />
+        <HelpTOCNode Id="0ec89d37-a72d-4712-8fcb-d812aca1959e" Title="AboutPage Fields" Url="html/d42a4b37-d1d6-9b52-9a9b-b7280f8fffa7.htm">
+          <HelpTOCNode Title="_contentLoaded Field" Url="html/03938582-17d4-ba43-74f9-1b73d04dd28b.htm" />
+          <HelpTOCNode Title="back_btn Field" Url="html/0f70f41b-6fd6-cf51-bed8-739c1270edfe.htm" />
+          <HelpTOCNode Title="fullscreen_btn Field" Url="html/c4cf382c-f7ab-eac6-1803-02327f84f358.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="79c9ea35-eacb-40cb-9e75-41699f36984f" Title="App Class" Url="html/fcda28eb-4035-64d3-1de7-f74113ccca09.htm">
+        <HelpTOCNode Title="App Constructor " Url="html/5d9dbd21-9e59-2e84-eeac-5d7757cf7670.htm" />
+        <HelpTOCNode Title="App Properties" Url="html/b1ad3c2a-cbd7-fc1d-1581-281775ce9f0f.htm" />
+        <HelpTOCNode Id="bf45163a-a5f0-456f-a035-08e9b21b0c9c" Title="App Methods" Url="html/e742df72-53f9-f1a2-5909-e300ac5a15a3.htm">
+          <HelpTOCNode Id="4f59ce8b-55c0-47aa-860c-fa8850736cfc" Title="GetXamlType Method " Url="html/b3891016-d650-99c0-5cc3-2a026d140fef.htm">
+            <HelpTOCNode Title="GetXamlType Method (String)" Url="html/d4476143-13c6-aea5-297d-e001f4a25624.htm" />
+            <HelpTOCNode Title="GetXamlType Method (Type)" Url="html/38e96572-0a6d-4dc4-d956-5e8902eb7483.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetXmlnsDefinitions Method " Url="html/3eaa74e0-43c2-a74e-2e77-27455bcf52a0.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/f2912013-94cc-6984-bbc6-4f96b8a3189d.htm" />
+          <HelpTOCNode Title="OnLaunched Method " Url="html/5dca90cb-ff49-3bc1-fe2e-8bba67bfb9fd.htm" />
+          <HelpTOCNode Title="OnNavigationFailed Method " Url="html/522e3006-15e8-1427-2cca-1f12797bb56c.htm" />
+          <HelpTOCNode Title="OnSuspending Method " Url="html/f31ca807-21d6-3132-f956-b94713e55e28.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="App Events" Url="html/24c2f5d1-1342-6a45-8704-8a56ce1b1255.htm" />
+        <HelpTOCNode Id="54ef07ff-3b7f-4c86-b129-180f0faeed6f" Title="App Fields" Url="html/1c985c07-aae9-54f6-faa6-f923915236de.htm">
+          <HelpTOCNode Title="_contentLoaded Field" Url="html/363138bf-dc81-834f-a961-bd7240ebc67b.htm" />
+          <HelpTOCNode Title="_provider Field" Url="html/bf4fee68-3f56-db1c-f8ed-79627f1e893e.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7526d787-ef13-42cb-96b7-80f967e28f3b" Title="ArdRiPage Class" Url="html/e29ee9f0-b114-db72-2955-f682b6e28698.htm">
+        <HelpTOCNode Title="ArdRiPage Constructor " Url="html/f8467371-a895-0bea-4ad0-bbb2d0fbd5ce.htm" />
+        <HelpTOCNode Title="ArdRiPage Properties" Url="html/954dda3c-9838-2d39-9d3b-5adc10fc8816.htm" />
+        <HelpTOCNode Id="21630404-4b26-4633-8289-699caa2045eb" Title="ArdRiPage Methods" Url="html/93cd3ce2-20ec-fad9-3d40-0d762adec9d3.htm">
+          <HelpTOCNode Title="back_btn_clicked Method " Url="html/b7868f97-7937-40ed-ab05-64719d189d72.htm" />
+          <HelpTOCNode Title="bindRectangles Method " Url="html/cf361a8c-9cd4-d946-48d5-c13d998d07e8.htm" />
+          <HelpTOCNode Title="bw_DoWork Method " Url="html/4b05407b-6c96-aa7d-6f5e-f27d97891bbc.htm" />
+          <HelpTOCNode Title="bw_RunWorkerCompleted Method " Url="html/4e3aa571-f295-fb47-b3e2-63a25b25babd.htm" />
+          <HelpTOCNode Title="canEscape Method " Url="html/e6c8724f-2c03-93e1-71c4-d12ba4eff0ee.htm" />
+          <HelpTOCNode Title="checkWinAndDisplay Method " Url="html/0f132fe2-dbeb-26e5-a974-a72c31bbd7a4.htm" />
+          <HelpTOCNode Title="Connect Method " Url="html/56467f67-4109-47cd-2bac-bff289127dbd.htm" />
+          <HelpTOCNode Title="displayLegalMoves Method " Url="html/e202d11d-32a7-7de7-1303-c27306530274.htm" />
+          <HelpTOCNode Title="displayMoveNotation Method " Url="html/1d71dc77-e7ce-b8c1-a86f-62f39d155a4e.htm" />
+          <HelpTOCNode Title="displayPieces Method " Url="html/77e219ef-1cd6-e731-e9d2-4dc57076a795.htm" />
+          <HelpTOCNode Title="fullscreen_btn_clicked Method " Url="html/fc6da063-f484-71c0-1745-b6129186ae35.htm" />
+          <HelpTOCNode Title="gameTimer_Tick Method " Url="html/c3c6720b-8368-1274-1776-270968ee6417.htm" />
+          <HelpTOCNode Title="GetBindingConnector Method " Url="html/574bc7f4-d6f2-a358-82b5-c9e1175dc229.htm" />
+          <HelpTOCNode Title="getCPURect Method " Url="html/7aa5b686-8e4b-fc77-7b69-06e849b9b9cb.htm" />
+          <HelpTOCNode Title="getRectSquare Method " Url="html/cb955d03-1b4e-7221-a888-d325328889fe.htm" />
+          <HelpTOCNode Title="highlightPieces Method " Url="html/762ad17b-a3c6-43bd-b849-196d702d5fbf.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/3efde320-9125-bfa8-8df7-f8c7f9e4be2b.htm" />
+          <HelpTOCNode Title="moveCPU Method " Url="html/16a73677-abd3-8cc7-7f82-b5a5e256766d.htm" />
+          <HelpTOCNode Title="notifyPlayer Method " Url="html/e7958b61-5c02-e6fd-58dd-9d6dc3c51ecd.htm" />
+          <HelpTOCNode Title="OnNavigatedTo Method " Url="html/d402148d-1e54-1841-0190-1146e036acdd.htm" />
+          <HelpTOCNode Title="playerOneTimer_Tick Method " Url="html/3693bb48-e8f2-837f-ff57-ce2d560831ac.htm" />
+          <HelpTOCNode Title="playerTwoTimer_Tick Method " Url="html/90c31354-6703-9a64-749a-4fd8e98a0c82.htm" />
+          <HelpTOCNode Title="processMove Method " Url="html/5a3a96fe-86e9-d910-6a8c-c2e24ff7952b.htm" />
+          <HelpTOCNode Title="rectangle_tapped Method " Url="html/d04b6c44-6af2-4bce-6f57-586c85da86b9.htm" />
+          <HelpTOCNode Title="resetPlayerOneTimer Method " Url="html/ef96ec73-8c06-9c3f-ab50-33dd44cf1d00.htm" />
+          <HelpTOCNode Title="resetPlayerTwoTimer Method " Url="html/ef3f1cfe-1eb1-ccf6-1074-7875fe41dfdd.htm" />
+          <HelpTOCNode Title="resignBtn1_tapped Method " Url="html/92594112-6b43-1746-8939-7849ebcb10a7.htm" />
+          <HelpTOCNode Title="resignBtn2_tapped Method " Url="html/9bd11482-1de4-7ab8-882b-8bf3e755f4ef.htm" />
+          <HelpTOCNode Title="undoBtn_tapped Method " Url="html/93da6c1c-67cc-5ef7-6ebf-23fc505f594d.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ArdRiPage Events" Url="html/02a4c92b-ea7d-4fb0-9392-643f5a403f7b.htm" />
+        <HelpTOCNode Id="dc425c4c-aefa-4abc-83c7-d4f489ace9fa" Title="ArdRiPage Fields" Url="html/8d1fc62d-8540-60f0-c88a-84b80e32edbd.htm">
+          <HelpTOCNode Title="_contentLoaded Field" Url="html/4cde49bb-8075-8ea8-beab-d8dc1389ede4.htm" />
+          <HelpTOCNode Title="A1 Field" Url="html/71ca8d90-ce39-8599-787c-2f64fe7ecbcf.htm" />
+          <HelpTOCNode Title="A2 Field" Url="html/ade512a1-b147-a902-257c-b5d2a3d1cf5e.htm" />
+          <HelpTOCNode Title="A3 Field" Url="html/37caeae3-dbf5-fda9-f3c2-3c38e7616750.htm" />
+          <HelpTOCNode Title="A4 Field" Url="html/4056d0c0-cea8-272d-5a20-e43d82a78fa3.htm" />
+          <HelpTOCNode Title="A5 Field" Url="html/ba716fde-1d70-bb13-f162-4498a7168dd3.htm" />
+          <HelpTOCNode Title="A6 Field" Url="html/6b720f9a-215d-6fa0-8128-d47a7a70c615.htm" />
+          <HelpTOCNode Title="A7 Field" Url="html/84adb4e3-9ea9-2ebc-73d8-7ed2a9cd6197.htm" />
+          <HelpTOCNode Title="B1 Field" Url="html/c7a6d010-c126-318c-a6df-9424016cd619.htm" />
+          <HelpTOCNode Title="B2 Field" Url="html/3415c4a9-fa17-2524-7ac3-f7a17c260ce7.htm" />
+          <HelpTOCNode Title="B3 Field" Url="html/ae54eacd-4375-c261-e250-ef2a37415613.htm" />
+          <HelpTOCNode Title="B4 Field" Url="html/54181c12-ae21-90b6-b785-cbe94a65e3ef.htm" />
+          <HelpTOCNode Title="B5 Field" Url="html/a6b5d32c-7c2f-a45a-c41e-a9b760d9de08.htm" />
+          <HelpTOCNode Title="B6 Field" Url="html/5825c295-ec10-17c0-28ae-4d3c111cc5b4.htm" />
+          <HelpTOCNode Title="B7 Field" Url="html/513e4509-1a46-a467-8aa8-ae97a71575a7.htm" />
+          <HelpTOCNode Title="back_btn Field" Url="html/96bc301b-6bd7-acd0-5bc2-ecfe3b6ff333.htm" />
+          <HelpTOCNode Title="blackImageBrush Field" Url="html/94c6479a-281f-7625-0518-8b932e1c6716.htm" />
+          <HelpTOCNode Title="board Field" Url="html/70dbde09-3a39-704f-1231-7b8ab6a26521.htm" />
+          <HelpTOCNode Title="bw Field" Url="html/7e976aa7-855e-8b4c-26f1-bb92b742f961.htm" />
+          <HelpTOCNode Title="c_minuteCount Field" Url="html/24008437-0899-c920-3432-f0c39f2199af.htm" />
+          <HelpTOCNode Title="c_msCount Field" Url="html/7a2b6911-1544-40cc-465e-2f9d62d28d8f.htm" />
+          <HelpTOCNode Title="c_secondCount Field" Url="html/9b406ce5-afc8-5aec-c4cc-7936dd042ad7.htm" />
+          <HelpTOCNode Title="C1 Field" Url="html/733b7da3-eeb0-0867-9d73-7630906f56da.htm" />
+          <HelpTOCNode Title="C2 Field" Url="html/2aefd4dd-7590-9bff-1659-e7ffe41465c6.htm" />
+          <HelpTOCNode Title="C3 Field" Url="html/f3a40764-ae03-eac9-c191-057fed1c7cfa.htm" />
+          <HelpTOCNode Title="C4 Field" Url="html/11040e12-c30c-7535-6220-e2b9ea11b3ba.htm" />
+          <HelpTOCNode Title="C5 Field" Url="html/44cf56d1-9bb5-58dc-e42a-abcc08ca3f88.htm" />
+          <HelpTOCNode Title="C6 Field" Url="html/23547228-e573-1d37-e266-75b9ace14fce.htm" />
+          <HelpTOCNode Title="C7 Field" Url="html/b33a6168-4c4b-1751-cb5a-28220f13310f.htm" />
+          <HelpTOCNode Title="checkMate Field" Url="html/3ef7e36c-ac2e-8c58-0746-752bb6ea5e3f.htm" />
+          <HelpTOCNode Title="cpu_timer_text Field" Url="html/6c8c2bd9-be66-a18a-622d-aa0058f1bd71.htm" />
+          <HelpTOCNode Title="cpuMovesTuple Field" Url="html/5a9e0f1e-e9bc-f2c0-b1cb-22f5db52a2e7.htm" />
+          <HelpTOCNode Title="D1 Field" Url="html/c504008b-eaeb-0856-8815-43f6e761dbe0.htm" />
+          <HelpTOCNode Title="D2 Field" Url="html/52867280-ade2-7232-1a30-356a94006478.htm" />
+          <HelpTOCNode Title="D3 Field" Url="html/009cc8be-1847-8f5d-d0e0-69550bb43ded.htm" />
+          <HelpTOCNode Title="D4 Field" Url="html/f53b6d1c-008f-df87-fe8f-754485c1a4ec.htm" />
+          <HelpTOCNode Title="D5 Field" Url="html/45ec57a6-7933-9383-436f-3501b0971f4a.htm" />
+          <HelpTOCNode Title="D6 Field" Url="html/2b24fe3c-a17d-8019-2baa-9c867c3a8dd7.htm" />
+          <HelpTOCNode Title="D7 Field" Url="html/0fc073cc-7446-64b8-1c8a-8c089a41a03d.htm" />
+          <HelpTOCNode Title="E1 Field" Url="html/3b10fbe3-6682-25ce-fa82-a415c70a73cc.htm" />
+          <HelpTOCNode Title="E2 Field" Url="html/afa1318e-5964-931b-d621-b7c933bc00a5.htm" />
+          <HelpTOCNode Title="E3 Field" Url="html/e3e88cb7-45f9-02e9-31f1-5923e35152f1.htm" />
+          <HelpTOCNode Title="E4 Field" Url="html/adee6d23-826a-bdd9-a988-50eb6392ed22.htm" />
+          <HelpTOCNode Title="E5 Field" Url="html/134f6711-b043-4b8c-9a39-4dc32f20570f.htm" />
+          <HelpTOCNode Title="E6 Field" Url="html/5acf359c-c5bc-cb0d-8241-43d1d601edc6.htm" />
+          <HelpTOCNode Title="E7 Field" Url="html/588631a5-bc99-010f-3b28-6864b6031719.htm" />
+          <HelpTOCNode Title="F1 Field" Url="html/8c911bb3-48a8-926c-d5a6-8b19f566bdf6.htm" />
+          <HelpTOCNode Title="F2 Field" Url="html/e8501034-f22f-7dbf-34d9-6c274ec4fadb.htm" />
+          <HelpTOCNode Title="F3 Field" Url="html/2909bd15-0d8a-441c-fb82-b23cf35c2576.htm" />
+          <HelpTOCNode Title="F4 Field" Url="html/5272aef6-2973-4a71-88ff-4cddba06839c.htm" />
+          <HelpTOCNode Title="F5 Field" Url="html/04c6c35f-1725-e6c1-b1af-0a6281601f3f.htm" />
+          <HelpTOCNode Title="F6 Field" Url="html/dfa6b975-3dfa-cd7e-5e74-520b34ebfab1.htm" />
+          <HelpTOCNode Title="F7 Field" Url="html/e6e1ce06-da8e-6462-5abf-5b14f51b640f.htm" />
+          <HelpTOCNode Title="fullscreen_btn Field" Url="html/a123ddec-924f-8797-5721-6b73b34f5e9f.htm" />
+          <HelpTOCNode Title="G1 Field" Url="html/cca5be59-e98d-010e-ca7e-39bcc4c0ee9c.htm" />
+          <HelpTOCNode Title="G2 Field" Url="html/c028496d-39cb-2aca-a16c-c42130cea8ec.htm" />
+          <HelpTOCNode Title="G3 Field" Url="html/7ae9c202-f77e-fc1f-7000-18af11bcf40c.htm" />
+          <HelpTOCNode Title="G4 Field" Url="html/437e1356-d86e-4531-f49c-9b5abfbc5293.htm" />
+          <HelpTOCNode Title="G5 Field" Url="html/a6678da2-0cbc-b1dc-cd88-24cdf05ccfbe.htm" />
+          <HelpTOCNode Title="G6 Field" Url="html/355c66c5-8027-2dfd-e828-48fec51a99a1.htm" />
+          <HelpTOCNode Title="G7 Field" Url="html/ba69c482-671f-3d33-4564-1fe7b742def4.htm" />
+          <HelpTOCNode Title="game Field" Url="html/bf317b13-bbb4-db6a-5b59-192b04935c06.htm" />
+          <HelpTOCNode Title="gameStarted Field" Url="html/6920a1c5-0c56-5bd1-03be-ed228ce6f0fc.htm" />
+          <HelpTOCNode Title="gameTimer Field" Url="html/0e6894ae-e063-b4da-f3a9-83c517761d26.htm" />
+          <HelpTOCNode Title="image Field" Url="html/8b06050e-26e9-df52-2d5b-af0b90c6e182.htm" />
+          <HelpTOCNode Title="image_Copy Field" Url="html/7c299346-8424-f8f9-d655-ced5a29b3ed4.htm" />
+          <HelpTOCNode Title="kingImageBrush Field" Url="html/9cf45a55-a673-f05c-7ab7-863891d5f426.htm" />
+          <HelpTOCNode Title="lastTappedRect Field" Url="html/6c205c1c-fd65-db8b-fbac-c0ba6ac752a1.htm" />
+          <HelpTOCNode Title="mctsBoard Field" Url="html/2bc4b5ff-02b3-eb87-4ae5-1d3e17c29ca1.htm" />
+          <HelpTOCNode Title="minuteCount Field" Url="html/002c9922-983a-02b0-630c-50924aaa383d.htm" />
+          <HelpTOCNode Title="msCount Field" Url="html/f3b6b78a-2bcc-025a-e96c-285a8a0565d5.htm" />
+          <HelpTOCNode Title="p_minuteCount Field" Url="html/15ac7df3-fddc-c5bd-fe5d-1fac9e75add2.htm" />
+          <HelpTOCNode Title="p_msCount Field" Url="html/27baa89d-0391-62e6-08e2-d20bd189cff4.htm" />
+          <HelpTOCNode Title="p_secondCount Field" Url="html/833cf9d0-08a1-0ea8-2b9d-920d63d713ef.htm" />
+          <HelpTOCNode Title="p1MoveList Field" Url="html/0919c0d8-cc56-4c19-c62e-03882dab1ac0.htm" />
+          <HelpTOCNode Title="p1MoveListText Field" Url="html/71826514-5a15-1d57-bf6f-107a6f65591d.htm" />
+          <HelpTOCNode Title="p1TurnIndicator Field" Url="html/8bf9349f-d68e-34d1-096f-0cf89c617d6a.htm" />
+          <HelpTOCNode Title="p2MoveList Field" Url="html/a2888c9e-d098-9285-6827-3d9d9f12bcfb.htm" />
+          <HelpTOCNode Title="p2MoveListText Field" Url="html/c0dbb575-7bcd-c024-067f-b8ce8319c0d9.htm" />
+          <HelpTOCNode Title="p2TurnIndicator Field" Url="html/ac58a967-a60e-ccf7-696a-5c0bdcf08ee2.htm" />
+          <HelpTOCNode Title="parameters Field" Url="html/5a9114a1-7f54-2a5e-4783-cecd3dc14053.htm" />
+          <HelpTOCNode Title="player_timer_text Field" Url="html/208591e1-4fc6-27dd-0616-2deaa8bdc996.htm" />
+          <HelpTOCNode Title="player1Rectangle Field" Url="html/9b0e9922-6799-70b4-b289-f3b036f49d2c.htm" />
+          <HelpTOCNode Title="player1Text Field" Url="html/e868140b-3fdd-25a6-6f8f-d892bd1dbe54.htm" />
+          <HelpTOCNode Title="player2Rectangle Field" Url="html/10eecf59-b441-4954-7871-b01ab5da1115.htm" />
+          <HelpTOCNode Title="player2Text Field" Url="html/9a4bee34-135d-8815-e6df-906e993613eb.htm" />
+          <HelpTOCNode Title="playerOneStarted Field" Url="html/99c28679-4d44-4dba-8da4-11473b1af932.htm" />
+          <HelpTOCNode Title="playerOneTimer Field" Url="html/cb0ac311-1d99-afb0-6e0b-113010ccd236.htm" />
+          <HelpTOCNode Title="playerTwoStarted Field" Url="html/3bf64528-2234-f5fc-4142-01bce232928b.htm" />
+          <HelpTOCNode Title="playerTwoTimer Field" Url="html/32ff99b4-1ab0-508a-5ed2-6e765f2e723c.htm" />
+          <HelpTOCNode Title="rectArr Field" Url="html/41dd32db-2075-65c2-f5d5-603cb60e171e.htm" />
+          <HelpTOCNode Title="resignBtn1 Field" Url="html/1b7edded-805c-0e7e-f8e7-daea36fe3ee9.htm" />
+          <HelpTOCNode Title="resignBtn2 Field" Url="html/f82d0592-e796-1d81-a3ca-68baa278d23e.htm" />
+          <HelpTOCNode Title="scrollViewerLeft Field" Url="html/1cb50684-4494-9402-05a1-76f9e9b67f6a.htm" />
+          <HelpTOCNode Title="scrollViewerRight Field" Url="html/d7f28536-ce39-2114-204e-fe23065fe534.htm" />
+          <HelpTOCNode Title="secondCount Field" Url="html/48a8591a-e073-b26b-2397-6b0fac1f473f.htm" />
+          <HelpTOCNode Title="stationaryStrokeBrush Field" Url="html/915c33dd-9ae7-de48-565b-e2032c47b974.htm" />
+          <HelpTOCNode Title="strokeThickness Field" Url="html/7b2499b5-f8dc-2204-a4cb-29148eec50f0.htm" />
+          <HelpTOCNode Title="timer_text Field" Url="html/4a8ad253-a324-1483-970f-3e575f8d33cf.htm" />
+          <HelpTOCNode Title="transformingStrokeBrush Field" Url="html/bb9a4dbd-786f-9d07-460b-a755f6b0f8f2.htm" />
+          <HelpTOCNode Title="transformingStrokeThickness Field" Url="html/4859dc59-9fac-b771-f011-9dc8ffa7f1cc.htm" />
+          <HelpTOCNode Title="UndoBtn1 Field" Url="html/488bf674-d316-5363-a6b2-0f6640c25fcc.htm" />
+          <HelpTOCNode Title="UndoBtn2 Field" Url="html/be1999a7-eb34-22ce-1695-54d66f2b83be.htm" />
+          <HelpTOCNode Title="whiteImageBrush Field" Url="html/540a15c3-dd9c-0836-bc24-42ddc50e1565.htm" />
+          <HelpTOCNode Title="winText Field" Url="html/8c015382-1d35-243a-58e6-ebaff87e0440.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="24cb3348-06bb-40a7-87e8-62f0458a6ede" Title="BrandubhPage Class" Url="html/0821f5b1-2271-8a8f-4557-eea6b7f5da6d.htm">
+        <HelpTOCNode Title="BrandubhPage Constructor " Url="html/d357aab7-680d-b059-6e64-7ca004be7d9d.htm" />
+        <HelpTOCNode Title="BrandubhPage Properties" Url="html/ac3546a5-a8f3-15ef-bbfe-94e2ba33b455.htm" />
+        <HelpTOCNode Id="7cbb16f8-970a-4e78-9f41-0dc178e323fb" Title="BrandubhPage Methods" Url="html/70930e98-b8df-f141-036e-d7b505271407.htm">
+          <HelpTOCNode Title="back_btn_clicked Method " Url="html/35ac9b82-ceae-94ff-57a4-e692e989d8df.htm" />
+          <HelpTOCNode Title="bindRectangles Method " Url="html/c3af1ba1-e11b-dda9-1d19-39624c58cabb.htm" />
+          <HelpTOCNode Title="bw_DoWork Method " Url="html/2c9108f3-5a38-26fb-3d62-810d033719d3.htm" />
+          <HelpTOCNode Title="bw_RunWorkerCompleted Method " Url="html/e554d356-aa60-1cc6-9dae-c57a71861a32.htm" />
+          <HelpTOCNode Title="canEscape Method " Url="html/1368f78b-de6a-f183-cc77-a32e1356ecee.htm" />
+          <HelpTOCNode Title="checkWinAndDisplay Method " Url="html/f1e2b74c-3371-7a40-1356-8bd6a4ce0837.htm" />
+          <HelpTOCNode Title="Connect Method " Url="html/059a90d8-ef7b-de60-f69b-263666e4c538.htm" />
+          <HelpTOCNode Title="displayLegalMoves Method " Url="html/277c57b1-415d-2b30-3f40-c953c0d8b598.htm" />
+          <HelpTOCNode Title="displayMoveNotation Method " Url="html/d5bc7741-9131-3193-0ba8-e4651a3e3d15.htm" />
+          <HelpTOCNode Title="displayPieces Method " Url="html/fd38b7be-3477-8aa3-304b-b0851ce738cf.htm" />
+          <HelpTOCNode Title="fullscreen_btn_clicked Method " Url="html/3aee8f2c-4748-d7f6-a904-0e71f61163c8.htm" />
+          <HelpTOCNode Title="gameTimer_Tick Method " Url="html/32766e95-70a9-9121-6217-4bfd9ac563a0.htm" />
+          <HelpTOCNode Title="GetBindingConnector Method " Url="html/7759b384-951b-935b-55af-6d3d9c86a756.htm" />
+          <HelpTOCNode Title="getCPURect Method " Url="html/2c9c0226-8d91-6513-82c9-e457dba530f3.htm" />
+          <HelpTOCNode Title="getRectSquare Method " Url="html/b3aaaa7b-a4f7-488a-bee9-dbd92aa2938c.htm" />
+          <HelpTOCNode Title="highlightPieces Method " Url="html/a83e0c09-ab7a-de46-1f1b-088bc4dcbb53.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/b7ee0600-3c4e-1aa1-705c-5c17ab7f20bc.htm" />
+          <HelpTOCNode Title="moveCPU Method " Url="html/64783d7d-3019-dee7-7d27-bc8c4979f670.htm" />
+          <HelpTOCNode Title="notifyPlayer Method " Url="html/7faf545b-8fba-51d2-5caf-d3256aa837e9.htm" />
+          <HelpTOCNode Title="OnNavigatedTo Method " Url="html/ec5b7015-17cf-b811-6ef5-db04162b0516.htm" />
+          <HelpTOCNode Title="playerOneTimer_Tick Method " Url="html/fc60ff52-4782-bd0b-8294-286957b4f455.htm" />
+          <HelpTOCNode Title="playerTwoTimer_Tick Method " Url="html/33c2878b-e588-3c72-9ae1-9c0e680019b2.htm" />
+          <HelpTOCNode Title="processMove Method " Url="html/74b6a28d-d753-89ef-52c6-bbd7cd61f0e5.htm" />
+          <HelpTOCNode Title="rectangle_tapped Method " Url="html/02a4d439-c952-126d-ea02-d343ffc42e6f.htm" />
+          <HelpTOCNode Title="resetPlayerOneTimer Method " Url="html/2a73039c-6fb2-1482-ded3-6fda8d415275.htm" />
+          <HelpTOCNode Title="resetPlayerTwoTimer Method " Url="html/1ec15e8a-a807-0a5f-3f8e-2b2d2fc7c1ca.htm" />
+          <HelpTOCNode Title="resignBtn1_tapped Method " Url="html/be4ac4a5-6bcb-ccaf-6e7c-d8b9553f2596.htm" />
+          <HelpTOCNode Title="resignBtn2_tapped Method " Url="html/e6c9f957-85d7-e3cf-35b3-7d3637bd8aee.htm" />
+          <HelpTOCNode Title="undoBtn_tapped Method " Url="html/48bc320c-3064-1d41-13b8-13eb31d1eb5e.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="BrandubhPage Events" Url="html/a0814e0c-da24-d7c8-83a6-1c0383e84292.htm" />
+        <HelpTOCNode Id="aaef92f3-0ac9-49cf-8bce-260de9c14aee" Title="BrandubhPage Fields" Url="html/7d6bd20d-9030-2e53-04aa-b2c3b247b3bf.htm">
+          <HelpTOCNode Title="_contentLoaded Field" Url="html/b4cc4196-ea5c-764c-638a-bf8f316e1537.htm" />
+          <HelpTOCNode Title="A1 Field" Url="html/90527378-d03e-302d-f625-f48df8b9c1e9.htm" />
+          <HelpTOCNode Title="A2 Field" Url="html/d61d15ae-59a7-367d-5d56-3d984953f87f.htm" />
+          <HelpTOCNode Title="A3 Field" Url="html/e047ab93-656f-c0a5-8f9e-b47bc3eb7e6a.htm" />
+          <HelpTOCNode Title="A4 Field" Url="html/db360696-c039-3ecc-f441-0d3add4d3b48.htm" />
+          <HelpTOCNode Title="A5 Field" Url="html/6af1add7-75ce-a391-971f-b0680a17f2c9.htm" />
+          <HelpTOCNode Title="A6 Field" Url="html/096c88e7-2158-18c4-b5be-2b4ecd013b74.htm" />
+          <HelpTOCNode Title="A7 Field" Url="html/2837f8ba-29be-f06b-e24d-ba053de86aaf.htm" />
+          <HelpTOCNode Title="B1 Field" Url="html/0bfe0267-ca2f-a64b-08e7-351f6c06a064.htm" />
+          <HelpTOCNode Title="B2 Field" Url="html/13778375-3bcd-bbf1-226d-16fe6a2b156b.htm" />
+          <HelpTOCNode Title="B3 Field" Url="html/145bb611-50fc-69b5-e609-193143d51554.htm" />
+          <HelpTOCNode Title="B4 Field" Url="html/5c8b627d-cef6-389e-2093-03216d549b0e.htm" />
+          <HelpTOCNode Title="B5 Field" Url="html/fe44f4ad-54fa-6142-b8e5-3af45ad09f22.htm" />
+          <HelpTOCNode Title="B6 Field" Url="html/fb8ad4da-5c04-bf3c-64ed-cdb33fb5dd78.htm" />
+          <HelpTOCNode Title="B7 Field" Url="html/39e4f8ab-771d-3947-cb8d-7d70e2bf3101.htm" />
+          <HelpTOCNode Title="back_btn Field" Url="html/458efa69-47e8-e87e-85dd-dc2c269c5296.htm" />
+          <HelpTOCNode Title="blackImageBrush Field" Url="html/99314c2d-aa55-7138-82f9-74578fa1c5b4.htm" />
+          <HelpTOCNode Title="board Field" Url="html/77d2d6cc-f203-ba9d-4b58-02b534d1f916.htm" />
+          <HelpTOCNode Title="bw Field" Url="html/80e11791-6184-4a8e-3545-79053bb9e709.htm" />
+          <HelpTOCNode Title="c_minuteCount Field" Url="html/92da45e0-8c4d-4380-9185-a200bb4b13c6.htm" />
+          <HelpTOCNode Title="c_msCount Field" Url="html/79b018c2-d68b-cbc9-ad33-f6faa246dfdf.htm" />
+          <HelpTOCNode Title="c_secondCount Field" Url="html/a55ddddd-0d21-b6be-cd04-db44858d352b.htm" />
+          <HelpTOCNode Title="C1 Field" Url="html/5bcd65af-5be3-c3d0-8d72-f230f68323f9.htm" />
+          <HelpTOCNode Title="C2 Field" Url="html/d32425f9-43c9-f930-2b53-b6e4f9380eef.htm" />
+          <HelpTOCNode Title="C3 Field" Url="html/47227127-19c6-672d-b52c-02fcf7089cae.htm" />
+          <HelpTOCNode Title="C4 Field" Url="html/99b9777d-294c-a05c-2a6e-d09141c0655d.htm" />
+          <HelpTOCNode Title="C5 Field" Url="html/9b2cd8f3-5a2f-af65-b533-77325b67764f.htm" />
+          <HelpTOCNode Title="C6 Field" Url="html/92c4daec-c58d-946c-e535-e1d861d252d9.htm" />
+          <HelpTOCNode Title="C7 Field" Url="html/60d862e8-5875-ce68-db62-35a92dbf0a4b.htm" />
+          <HelpTOCNode Title="checkMate Field" Url="html/8512fded-6f95-dac1-3e7c-485f05bd8646.htm" />
+          <HelpTOCNode Title="cpu_timer_text Field" Url="html/0ddce6a3-0bbc-84b4-eb86-8dc2c0b03504.htm" />
+          <HelpTOCNode Title="cpuMovesTuple Field" Url="html/9c597e44-ab27-653f-9099-85c7e9b697bb.htm" />
+          <HelpTOCNode Title="D1 Field" Url="html/0e723730-de6d-3406-bf78-e82e2a46000b.htm" />
+          <HelpTOCNode Title="D2 Field" Url="html/20607c20-13fc-36a3-0e26-a00332091e7f.htm" />
+          <HelpTOCNode Title="D3 Field" Url="html/f60f81db-ec95-629c-eff7-5b926e48b1ae.htm" />
+          <HelpTOCNode Title="D4 Field" Url="html/0fd5995b-df26-5954-b88a-3267a81204f5.htm" />
+          <HelpTOCNode Title="D5 Field" Url="html/0d8cc4c7-40f3-7168-e42d-e86216dc541b.htm" />
+          <HelpTOCNode Title="D6 Field" Url="html/47c78e57-64c2-c6ac-f3de-04683a1fe822.htm" />
+          <HelpTOCNode Title="D7 Field" Url="html/9da02bbf-748a-d36e-516f-b7570b0b7fdc.htm" />
+          <HelpTOCNode Title="E1 Field" Url="html/acac6f6c-d3d1-41b6-1ca2-55466b4fd881.htm" />
+          <HelpTOCNode Title="E2 Field" Url="html/55ac1b9b-3e1f-2d09-0e75-30912566206c.htm" />
+          <HelpTOCNode Title="E3 Field" Url="html/7ce8ef6e-9f37-482c-12fb-195a4d8eeee3.htm" />
+          <HelpTOCNode Title="E4 Field" Url="html/492b37b2-b76a-632e-12cd-3d1274c3fb88.htm" />
+          <HelpTOCNode Title="E5 Field" Url="html/f1112ed8-f2ad-3821-dfe5-bd9c1f1a0175.htm" />
+          <HelpTOCNode Title="E6 Field" Url="html/749ef6aa-a48f-36a9-75a3-6cd108c0dff8.htm" />
+          <HelpTOCNode Title="E7 Field" Url="html/3f6ed6ec-801a-3a0f-92bf-94420ef94d1c.htm" />
+          <HelpTOCNode Title="F1 Field" Url="html/3f484171-dbaf-ae03-2b3e-5f3662e23cab.htm" />
+          <HelpTOCNode Title="F2 Field" Url="html/9d20867e-0e6f-7c0d-13d6-ea2afc3ef12a.htm" />
+          <HelpTOCNode Title="F3 Field" Url="html/bd2bdd91-23d5-2dcb-e265-7c2e5ba0ca74.htm" />
+          <HelpTOCNode Title="F4 Field" Url="html/b2031742-26cc-1caf-2d6d-a7f503daae7e.htm" />
+          <HelpTOCNode Title="F5 Field" Url="html/cf9b01fd-df50-d932-f812-c7ffa8075476.htm" />
+          <HelpTOCNode Title="F6 Field" Url="html/b54691ed-1de5-a070-7deb-04e9a9160b5b.htm" />
+          <HelpTOCNode Title="F7 Field" Url="html/95b4d48e-7184-6b02-1d65-de89df2424b7.htm" />
+          <HelpTOCNode Title="fullscreen_btn Field" Url="html/33bdd621-4749-a028-c5d6-ac1154b84029.htm" />
+          <HelpTOCNode Title="G1 Field" Url="html/326231c2-2677-b9a6-b269-40cc37ea1887.htm" />
+          <HelpTOCNode Title="G2 Field" Url="html/ec6482e2-a513-fe6d-48f9-b1ba318ee2af.htm" />
+          <HelpTOCNode Title="G3 Field" Url="html/e0e550d2-3894-1b78-d47a-12a1becbf6fb.htm" />
+          <HelpTOCNode Title="G4 Field" Url="html/f3e1a3f1-a29b-aa10-16bd-0cbad4f17ca9.htm" />
+          <HelpTOCNode Title="G5 Field" Url="html/e089f3ed-8110-6f41-7751-e8e4e023124a.htm" />
+          <HelpTOCNode Title="G6 Field" Url="html/e861aab3-0d5c-87f5-932c-2b22e6614d9e.htm" />
+          <HelpTOCNode Title="G7 Field" Url="html/0332756f-3baf-b915-4053-657a5fde3bbc.htm" />
+          <HelpTOCNode Title="game Field" Url="html/b7052ef3-b505-801d-6a38-165e489d3796.htm" />
+          <HelpTOCNode Title="gameStarted Field" Url="html/d59afcf8-8b3c-991a-b706-fd894b143ef2.htm" />
+          <HelpTOCNode Title="gameTimer Field" Url="html/5df1dd9b-4688-91c2-66d4-77c214fa1512.htm" />
+          <HelpTOCNode Title="image Field" Url="html/08512fdc-95ba-41d3-6743-2fb3a4ad350d.htm" />
+          <HelpTOCNode Title="image_Copy Field" Url="html/61e37cd6-753c-19ae-895b-44b0e91c8d32.htm" />
+          <HelpTOCNode Title="kingImageBrush Field" Url="html/f66cfc66-9dac-e04d-36ff-bb915e677f7e.htm" />
+          <HelpTOCNode Title="lastTappedRect Field" Url="html/1bb38a7f-739b-9bb2-be78-4bf6de5f0da7.htm" />
+          <HelpTOCNode Title="mctsBoard Field" Url="html/3c622e15-08e2-45e6-c868-9552c1cd83cb.htm" />
+          <HelpTOCNode Title="minuteCount Field" Url="html/29813889-ce44-525d-9510-cb9992a79927.htm" />
+          <HelpTOCNode Title="msCount Field" Url="html/af129a8f-3895-2e13-cb51-02f128611c5a.htm" />
+          <HelpTOCNode Title="p_minuteCount Field" Url="html/a9ff3181-90be-13bb-d4cd-2813e24f97e5.htm" />
+          <HelpTOCNode Title="p_msCount Field" Url="html/847ed570-c1ef-99fc-e9a7-d5200a7b20a4.htm" />
+          <HelpTOCNode Title="p_secondCount Field" Url="html/44ca10d2-4ce2-095b-5b02-19f3cee2ea31.htm" />
+          <HelpTOCNode Title="p1MoveList Field" Url="html/b986d790-8f2e-3ba9-fefa-36120a19904c.htm" />
+          <HelpTOCNode Title="p1MoveListText Field" Url="html/edbfc489-718f-99f9-f6fb-49df3bc05692.htm" />
+          <HelpTOCNode Title="p1TurnIndicator Field" Url="html/33fc2753-7a24-c07a-9119-86b06bd97328.htm" />
+          <HelpTOCNode Title="p2MoveList Field" Url="html/c53c0e1f-c231-d7e6-4c7a-844f6e04ee1d.htm" />
+          <HelpTOCNode Title="p2MoveListText Field" Url="html/2ae03987-3c2a-7535-d167-8c69a1cf79cc.htm" />
+          <HelpTOCNode Title="p2TurnIndicator Field" Url="html/dc0f3ce3-01cb-f334-25f7-f3a8183f9ce2.htm" />
+          <HelpTOCNode Title="parameters Field" Url="html/acaadbb4-4e5d-02b6-b838-ffd0f1c4cc84.htm" />
+          <HelpTOCNode Title="player_timer_text Field" Url="html/bb71274e-4fa2-56db-08a2-82b7f7bb6574.htm" />
+          <HelpTOCNode Title="player1Rectangle Field" Url="html/0d2d5de8-4f6a-6a78-5218-beb0f978624b.htm" />
+          <HelpTOCNode Title="player1Text Field" Url="html/950d3418-7cb1-7f1b-07a5-9e1aa30a1f46.htm" />
+          <HelpTOCNode Title="player2Rectangle Field" Url="html/e3ce5e74-f2f7-3082-58f5-d8be823ef167.htm" />
+          <HelpTOCNode Title="player2Text Field" Url="html/7f59b15b-5f3a-f46b-03da-2ab5e91d4eb8.htm" />
+          <HelpTOCNode Title="playerOneStarted Field" Url="html/95b6a6fe-f9d0-601f-a423-f607c4cdaa88.htm" />
+          <HelpTOCNode Title="playerOneTimer Field" Url="html/f9084a11-a8d0-77bd-511c-494e528abcf3.htm" />
+          <HelpTOCNode Title="playerTwoStarted Field" Url="html/a754ea69-0267-26ba-bb5e-95f56dd87b78.htm" />
+          <HelpTOCNode Title="playerTwoTimer Field" Url="html/0ebf98da-970c-06c2-b444-27d2ee265b26.htm" />
+          <HelpTOCNode Title="rectArr Field" Url="html/e22caec1-5f3a-1f61-c0d4-b3f95c672dee.htm" />
+          <HelpTOCNode Title="resignBtn1 Field" Url="html/9bcdbd08-30ca-86b5-033c-3bdbc1a0895a.htm" />
+          <HelpTOCNode Title="resignBtn2 Field" Url="html/ba78ca71-3eaa-40e1-9c13-bcb2d6e9827a.htm" />
+          <HelpTOCNode Title="scrollViewerLeft Field" Url="html/095c7345-2a71-3d0a-3d6d-7466ea2847a8.htm" />
+          <HelpTOCNode Title="scrollViewerRight Field" Url="html/6292dfcd-ede3-40f7-5128-98ed3621ad9e.htm" />
+          <HelpTOCNode Title="secondCount Field" Url="html/8bfb4526-4a22-fe33-8c54-743c499c7411.htm" />
+          <HelpTOCNode Title="stationaryStrokeBrush Field" Url="html/9b17a304-9c67-2712-5d92-c0ed2687fd9a.htm" />
+          <HelpTOCNode Title="strokeThickness Field" Url="html/0b16f329-3ad5-44a4-3c88-0a03889cfcd3.htm" />
+          <HelpTOCNode Title="timer_text Field" Url="html/0e7d93e5-2de6-b09d-1704-df6c55d03176.htm" />
+          <HelpTOCNode Title="transformingStrokeBrush Field" Url="html/a7a27288-b97c-8584-e8b0-2115b98aaf7c.htm" />
+          <HelpTOCNode Title="transformingStrokeThickness Field" Url="html/ee3c7e50-6e1a-ccb9-6ce4-3abefdb144e2.htm" />
+          <HelpTOCNode Title="UndoBtn1 Field" Url="html/33c91120-81a0-ea1b-929c-c85d25430f84.htm" />
+          <HelpTOCNode Title="UndoBtn2 Field" Url="html/d99e61ff-6eb6-2441-2e8d-07c80cd1969f.htm" />
+          <HelpTOCNode Title="whiteImageBrush Field" Url="html/f05344ec-8a61-34f2-5376-1d4ca8650e35.htm" />
+          <HelpTOCNode Title="winText Field" Url="html/1967b765-220b-b6ec-fd14-ef1db744e2cc.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2ab8891b-2c10-4b1d-9243-ff25ef8d4f3d" Title="HnefataflPage Class" Url="html/e2638056-1ecd-c480-5c1d-b37663cd1e39.htm">
+        <HelpTOCNode Title="HnefataflPage Constructor " Url="html/fbba1bf0-dd97-9f4e-908d-95ca5b10c617.htm" />
+        <HelpTOCNode Title="HnefataflPage Properties" Url="html/ec072bcd-fbd1-1129-dbc1-52a5af37db63.htm" />
+        <HelpTOCNode Id="dd71d7b8-e043-4b50-af96-6a57091f7bef" Title="HnefataflPage Methods" Url="html/8762e4ac-305d-25ea-e794-d0f14b401fc3.htm">
+          <HelpTOCNode Title="back_btn_clicked Method " Url="html/16c249d5-9a55-9ca5-0999-ce2da3cc9fb4.htm" />
+          <HelpTOCNode Title="bindRectangles Method " Url="html/c40d92ef-a4b9-7fc0-6500-1cb5ff2b273b.htm" />
+          <HelpTOCNode Title="bw_DoWork Method " Url="html/7ef292de-ae13-5818-57a6-048d3ae67fdc.htm" />
+          <HelpTOCNode Title="bw_RunWorkerCompleted Method " Url="html/74a4acdb-8a9c-862a-20ff-072cb2841175.htm" />
+          <HelpTOCNode Title="canEscape Method " Url="html/d2e57922-9ce7-40d1-2742-6b663c7dce62.htm" />
+          <HelpTOCNode Title="checkWinAndDisplay Method " Url="html/574fa88c-11a0-94e1-eb28-d1f11d09c1de.htm" />
+          <HelpTOCNode Title="Connect Method " Url="html/01a01566-bffb-bfb2-ed4c-bab272c8fd55.htm" />
+          <HelpTOCNode Title="displayLegalMoves Method " Url="html/625aa027-3c51-830a-440b-da969ddeb586.htm" />
+          <HelpTOCNode Title="displayMoveNotation Method " Url="html/1d1db7c0-0011-9766-f225-24901afa4ebd.htm" />
+          <HelpTOCNode Title="displayPieces Method " Url="html/0e8cb8cb-2e08-dcd1-d4ce-58a9bdc356d4.htm" />
+          <HelpTOCNode Title="fullscreen_btn_clicked Method " Url="html/635701e4-1a39-996c-d2b4-706ffdbce021.htm" />
+          <HelpTOCNode Title="gameTimer_Tick Method " Url="html/8fe2031f-9ba7-4c74-cf87-3cd5aa5616a6.htm" />
+          <HelpTOCNode Title="GetBindingConnector Method " Url="html/b742b328-7628-6915-3c1f-fda9214fde2c.htm" />
+          <HelpTOCNode Title="getCPURect Method " Url="html/0db2854b-5414-bc7b-b80d-2b1829b260b3.htm" />
+          <HelpTOCNode Title="getRectSquare Method " Url="html/4e88460b-9856-b536-aa6f-00cb2bfc296e.htm" />
+          <HelpTOCNode Title="highlightPieces Method " Url="html/6aae5371-f890-731d-5300-ea077588b3a1.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/71274ae0-7036-4f2e-62bb-d79f79979800.htm" />
+          <HelpTOCNode Title="moveCPU Method " Url="html/87ba4e00-6ab9-1fb1-2ba1-8f64f0b1a45e.htm" />
+          <HelpTOCNode Title="notifyPlayer Method " Url="html/d81b0261-b81a-e886-dc3d-b04a8d35f8f9.htm" />
+          <HelpTOCNode Title="OnNavigatedTo Method " Url="html/77a9240f-ad2f-b5f1-bfe1-bc9745843f36.htm" />
+          <HelpTOCNode Title="playerOneTimer_Tick Method " Url="html/bb3fe1cb-7294-f995-03ba-01027be15017.htm" />
+          <HelpTOCNode Title="playerTwoTimer_Tick Method " Url="html/d9efb098-7181-ebba-296d-1c2fed7f3446.htm" />
+          <HelpTOCNode Title="processMove Method " Url="html/546f7c84-a978-b281-dc5a-006cc756119c.htm" />
+          <HelpTOCNode Title="rectangle_tapped Method " Url="html/5fed86cc-086f-c910-b8b7-237666c7a748.htm" />
+          <HelpTOCNode Title="resetPlayerOneTimer Method " Url="html/9c4178e9-bcbe-6f00-4690-d5e3f4eccb68.htm" />
+          <HelpTOCNode Title="resetPlayerTwoTimer Method " Url="html/3602f933-389e-c46e-853a-453e3a898c36.htm" />
+          <HelpTOCNode Title="resignBtn1_tapped Method " Url="html/89734b0f-921c-6408-db26-78bf55cf4e2f.htm" />
+          <HelpTOCNode Title="resignBtn2_tapped Method " Url="html/4b3e9c91-f48b-a0e2-036d-2da7a3534c01.htm" />
+          <HelpTOCNode Title="undoBtn_tapped Method " Url="html/d802b12b-b12b-ba19-8b85-880516b9543e.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="HnefataflPage Events" Url="html/279e6028-e475-70d9-b4b4-7f67f7cb5a7c.htm" />
+        <HelpTOCNode Id="e8379e07-d2c3-4dd7-88a9-e2c1624e8845" Title="HnefataflPage Fields" Url="html/14a7fef4-fe41-ce42-de37-9f0b04b0b613.htm">
+          <HelpTOCNode Title="_contentLoaded Field" Url="html/f7a56e1d-5376-5fac-0e8a-d25fe05b4d48.htm" />
+          <HelpTOCNode Title="A1 Field" Url="html/0c4ccc23-1197-4477-71bd-f981c6c875cf.htm" />
+          <HelpTOCNode Title="A10 Field" Url="html/a144bed0-f8c2-0073-903f-86bf8bb2c9c8.htm" />
+          <HelpTOCNode Title="A11 Field" Url="html/0a3e1d41-f221-e018-403d-2b26d6ce5b92.htm" />
+          <HelpTOCNode Title="A2 Field" Url="html/93336102-5e8a-03bf-1fbc-aa59419122eb.htm" />
+          <HelpTOCNode Title="A3 Field" Url="html/fbaad84a-6bd6-02dc-32fd-4ac103c13a75.htm" />
+          <HelpTOCNode Title="A4 Field" Url="html/3477278a-c4ee-a87c-d2d0-a5f4c656e6d1.htm" />
+          <HelpTOCNode Title="A5 Field" Url="html/5125bb30-ee9e-c780-46fa-0df306a2d067.htm" />
+          <HelpTOCNode Title="A6 Field" Url="html/9e503b3b-6d02-6e3f-9526-82513763db9b.htm" />
+          <HelpTOCNode Title="A7 Field" Url="html/63e4d600-8bf2-ee1a-9eb9-96afb9225fdb.htm" />
+          <HelpTOCNode Title="A8 Field" Url="html/a1325d34-8dcf-b663-ef56-56bb2849a117.htm" />
+          <HelpTOCNode Title="A9 Field" Url="html/53473da6-4bd0-6905-fbf9-d30b8f18f105.htm" />
+          <HelpTOCNode Title="ApplicationViewStates Field" Url="html/8f3e78a8-1738-fdbc-091c-97ce89da1528.htm" />
+          <HelpTOCNode Title="B1 Field" Url="html/27829fcd-009c-2d35-525f-9f9202d0b37d.htm" />
+          <HelpTOCNode Title="B10 Field" Url="html/e7e63145-7f9d-8078-531e-a04944f46358.htm" />
+          <HelpTOCNode Title="B11 Field" Url="html/bbadf917-b29e-fdce-e82f-2720aa87622f.htm" />
+          <HelpTOCNode Title="B2 Field" Url="html/178d520d-e223-a374-5cf6-ffb7b92ded17.htm" />
+          <HelpTOCNode Title="B3 Field" Url="html/bde136cb-e089-2e94-2797-6c0b4802f3b4.htm" />
+          <HelpTOCNode Title="B4 Field" Url="html/44bc4f73-800a-03d3-7984-3b0dc165ae8f.htm" />
+          <HelpTOCNode Title="B5 Field" Url="html/2ef26845-8831-5ea1-d80e-93d39d49c105.htm" />
+          <HelpTOCNode Title="B6 Field" Url="html/398e2f7a-5327-5019-5bd2-f4a4c60ff80d.htm" />
+          <HelpTOCNode Title="B7 Field" Url="html/9c13af47-fe0e-8fb1-79e7-fffc0fcbd8de.htm" />
+          <HelpTOCNode Title="B8 Field" Url="html/6887ce52-674a-cef5-dec4-59bd8b0542ed.htm" />
+          <HelpTOCNode Title="B9 Field" Url="html/eae0ae21-034a-3e3f-c7e8-fb905da34f4f.htm" />
+          <HelpTOCNode Title="back_btn Field" Url="html/60300b44-87c0-6ab5-18a8-d141eefb9008.htm" />
+          <HelpTOCNode Title="blackImageBrush Field" Url="html/f469ee11-2ef4-9d3b-71ae-336aa0749bf3.htm" />
+          <HelpTOCNode Title="board Field" Url="html/fa73017a-72ee-a596-1130-b45378caccc6.htm" />
+          <HelpTOCNode Title="bw Field" Url="html/60b9fd23-6dfc-bd1e-8e88-718d81a1701b.htm" />
+          <HelpTOCNode Title="c_minuteCount Field" Url="html/234ff8c4-308e-dea0-6cd2-bc39432b12c9.htm" />
+          <HelpTOCNode Title="c_msCount Field" Url="html/95142906-5e73-bef5-9764-88bc7ce14acc.htm" />
+          <HelpTOCNode Title="c_secondCount Field" Url="html/d030d7ad-f79e-5b93-987d-345b7eeeff69.htm" />
+          <HelpTOCNode Title="C1 Field" Url="html/79bbc4b4-55c5-7119-2ed7-d112e619a1d0.htm" />
+          <HelpTOCNode Title="C10 Field" Url="html/7fdfb6b8-18aa-51d4-901d-1445cf6b5322.htm" />
+          <HelpTOCNode Title="C11 Field" Url="html/f0e6717a-6ca8-9a94-12a3-a65edc18ce66.htm" />
+          <HelpTOCNode Title="C2 Field" Url="html/051a2cfe-61fe-95ce-aae4-b0864e51f251.htm" />
+          <HelpTOCNode Title="C3 Field" Url="html/359a63c6-c0a5-ecbc-1f3c-c0e945ab86c4.htm" />
+          <HelpTOCNode Title="C4 Field" Url="html/d0c8cf2f-a4fa-41aa-e31b-20aaf4362a0e.htm" />
+          <HelpTOCNode Title="C5 Field" Url="html/657b7d03-02bd-f1a6-f758-eaf69d53ac5f.htm" />
+          <HelpTOCNode Title="C6 Field" Url="html/8ace3133-d7ce-04f1-d924-abbca30b0233.htm" />
+          <HelpTOCNode Title="C7 Field" Url="html/ebf1b7c3-3e04-38b2-ad2e-a67412a1f3fd.htm" />
+          <HelpTOCNode Title="C8 Field" Url="html/3eb1d4b5-1c21-3105-025a-6249fbfb1c0e.htm" />
+          <HelpTOCNode Title="C9 Field" Url="html/cf287d91-3176-b054-7cd2-211e40565a67.htm" />
+          <HelpTOCNode Title="checkMate Field" Url="html/c1737b35-54c0-ceb9-faaf-d863a94f124c.htm" />
+          <HelpTOCNode Title="cpu_timer_text Field" Url="html/f5a7a551-dd91-1225-29ed-fa4d0f5a160f.htm" />
+          <HelpTOCNode Title="cpuMovesTuple Field" Url="html/a2c7c3cd-9912-b44a-427b-83081db9a453.htm" />
+          <HelpTOCNode Title="D1 Field" Url="html/6c2a12dd-dd6e-6de0-67a1-8ed9b94d33e6.htm" />
+          <HelpTOCNode Title="D10 Field" Url="html/308c6b79-e8cd-2434-f145-4ead3b658e78.htm" />
+          <HelpTOCNode Title="D11 Field" Url="html/ea28e8ba-fba0-1424-c928-65a5c8b6d62b.htm" />
+          <HelpTOCNode Title="D2 Field" Url="html/8543eb90-293f-5176-bc71-064f8e254bec.htm" />
+          <HelpTOCNode Title="D3 Field" Url="html/d60c93e0-54e8-fbbc-733f-19e0e850169c.htm" />
+          <HelpTOCNode Title="D4 Field" Url="html/91d70de4-d8eb-5e25-886b-c542ca624c1b.htm" />
+          <HelpTOCNode Title="D5 Field" Url="html/5d57693f-efc1-b57a-47cc-fb70cc986a02.htm" />
+          <HelpTOCNode Title="D6 Field" Url="html/77c7f069-8afd-d4c9-3049-565d61cd64ac.htm" />
+          <HelpTOCNode Title="D7 Field" Url="html/2a13f985-770a-fe32-55cb-9a6c1af7f119.htm" />
+          <HelpTOCNode Title="D8 Field" Url="html/d22b6be6-c034-4061-6f7d-8951b19ae53c.htm" />
+          <HelpTOCNode Title="D9 Field" Url="html/c93f11c1-f007-6f30-13ec-bd72d2d3b91e.htm" />
+          <HelpTOCNode Title="E1 Field" Url="html/71e8bb88-c27c-4bcb-f7b3-b0c94e96c214.htm" />
+          <HelpTOCNode Title="E10 Field" Url="html/b02ee11f-8620-2e55-9d33-c3a99fe8de34.htm" />
+          <HelpTOCNode Title="E11 Field" Url="html/e5d60ddb-b564-9419-5b56-18a164f40029.htm" />
+          <HelpTOCNode Title="E2 Field" Url="html/79ea02f7-9c4e-538c-ec67-155c0b18dd1a.htm" />
+          <HelpTOCNode Title="E3 Field" Url="html/91098898-d4b3-da30-705e-6386118e545d.htm" />
+          <HelpTOCNode Title="E4 Field" Url="html/9d81ca74-8bdd-ceb7-984c-ce16b992d140.htm" />
+          <HelpTOCNode Title="E5 Field" Url="html/38937f6d-9e61-c760-2f41-e688ce18e181.htm" />
+          <HelpTOCNode Title="E6 Field" Url="html/5b5e058c-2fac-949d-e543-6482fde1a32f.htm" />
+          <HelpTOCNode Title="E7 Field" Url="html/e11b76eb-5206-b775-c7a9-5fa36d673746.htm" />
+          <HelpTOCNode Title="E8 Field" Url="html/b4c9043c-2af9-cd8d-eff9-f4ebb962d7dc.htm" />
+          <HelpTOCNode Title="E9 Field" Url="html/b7c4399d-481d-03ef-3e3b-fd096d8ca3be.htm" />
+          <HelpTOCNode Title="F1 Field" Url="html/b70735f7-8368-942a-0f97-54af7d11ffe9.htm" />
+          <HelpTOCNode Title="F10 Field" Url="html/06afb74c-2aff-993a-1a88-660e6ce4c00b.htm" />
+          <HelpTOCNode Title="F11 Field" Url="html/45238a5c-6e9a-9862-480e-e1f1e13c13b0.htm" />
+          <HelpTOCNode Title="F2 Field" Url="html/9f3deca7-892f-5b2c-03a7-ea26cf25c26b.htm" />
+          <HelpTOCNode Title="F3 Field" Url="html/027419c8-d250-5abb-128b-5c12aff6a882.htm" />
+          <HelpTOCNode Title="F4 Field" Url="html/11602008-b033-201c-2e55-e270f469e0e3.htm" />
+          <HelpTOCNode Title="F5 Field" Url="html/6aa6ac77-016f-b605-57d9-44b605bb9da9.htm" />
+          <HelpTOCNode Title="F6 Field" Url="html/c1e28324-cbe6-2b94-ce13-df3e6980c9d1.htm" />
+          <HelpTOCNode Title="F7 Field" Url="html/43ccf20e-1a8f-9c16-ea01-a50fe9a121ca.htm" />
+          <HelpTOCNode Title="F8 Field" Url="html/34b26632-d8f7-f04e-6c21-cfd19d9e98bb.htm" />
+          <HelpTOCNode Title="F9 Field" Url="html/a559c168-d8c5-4ece-a2d3-ebd957b39fba.htm" />
+          <HelpTOCNode Title="FilledOrNarrow Field" Url="html/11716da6-57e3-60fa-0161-b3dfd42bdf6c.htm" />
+          <HelpTOCNode Title="fullscreen_btn Field" Url="html/a774c881-06c5-9cad-23a5-0e4d4daab4ca.htm" />
+          <HelpTOCNode Title="FullScreenLandscapeOrWide Field" Url="html/f6c391cb-5f7c-d794-eae0-2e881084ffc6.htm" />
+          <HelpTOCNode Title="FullScreenPortrait Field" Url="html/371044fe-04d3-2a83-89a2-3c900a580260.htm" />
+          <HelpTOCNode Title="FullScreenPortrait_Detail Field" Url="html/b5247f4d-c0f2-e7b2-824c-9414ae44a367.htm" />
+          <HelpTOCNode Title="G1 Field" Url="html/620c99c9-360d-f8d5-457c-6706700a9b36.htm" />
+          <HelpTOCNode Title="G10 Field" Url="html/32da85cc-aa01-155f-b014-0c8db08a7b2f.htm" />
+          <HelpTOCNode Title="G11 Field" Url="html/d3a5269e-c005-846e-a864-9a0c68e564cb.htm" />
+          <HelpTOCNode Title="G2 Field" Url="html/3a14d5d9-be4d-ed6c-b358-9f72a80f7e8b.htm" />
+          <HelpTOCNode Title="G3 Field" Url="html/fe92ef6d-51fc-4e02-c986-23fa48dc7399.htm" />
+          <HelpTOCNode Title="G4 Field" Url="html/5bc92b1d-8846-20e1-22ce-77977ea2f5c5.htm" />
+          <HelpTOCNode Title="G5 Field" Url="html/22e6a0dc-7184-4ad3-899d-3a8d200f7e7a.htm" />
+          <HelpTOCNode Title="G6 Field" Url="html/af49d9c3-915a-3e2e-077a-e4e024546961.htm" />
+          <HelpTOCNode Title="G7 Field" Url="html/2ec206c2-a69d-a773-35cf-a1167c6f1d0d.htm" />
+          <HelpTOCNode Title="G8 Field" Url="html/94fae18b-f2da-c32d-da54-28bfe94d545f.htm" />
+          <HelpTOCNode Title="G9 Field" Url="html/42b6a12a-86b4-a45c-cfb9-7afa6692b6dd.htm" />
+          <HelpTOCNode Title="game Field" Url="html/3f90a811-046e-35f7-5c3f-1f512bb568a2.htm" />
+          <HelpTOCNode Title="gameStarted Field" Url="html/c73ee4ca-f9df-7ca3-cbff-26180ac5f994.htm" />
+          <HelpTOCNode Title="gameTimer Field" Url="html/a1fe2987-a39b-fa11-0927-2d2fab90c1c5.htm" />
+          <HelpTOCNode Title="H1 Field" Url="html/eefdb574-0b73-c53b-bab7-0739172e8433.htm" />
+          <HelpTOCNode Title="H10 Field" Url="html/8cb4078a-eee5-12ff-04c2-d3fccf562da7.htm" />
+          <HelpTOCNode Title="H11 Field" Url="html/7d2fc0b3-f980-8505-6948-b07de8cd5357.htm" />
+          <HelpTOCNode Title="H2 Field" Url="html/7b984461-87e1-fc2a-3335-78adbd48a2b6.htm" />
+          <HelpTOCNode Title="H3 Field" Url="html/0c505d1c-c620-b2ae-8245-891b199d613e.htm" />
+          <HelpTOCNode Title="H4 Field" Url="html/1273d2c5-82f3-877f-c765-c4da12af2ca6.htm" />
+          <HelpTOCNode Title="H5 Field" Url="html/cbd15b27-0d0d-ff04-cb2b-ecf982c9f453.htm" />
+          <HelpTOCNode Title="H6 Field" Url="html/990b70f0-d1d0-a92b-7c6b-7e7602947354.htm" />
+          <HelpTOCNode Title="H7 Field" Url="html/a7de2818-4752-1223-10f5-ab19d6cf4247.htm" />
+          <HelpTOCNode Title="H8 Field" Url="html/968e9d89-44dd-ce46-bd11-fa3aef037bf2.htm" />
+          <HelpTOCNode Title="H9 Field" Url="html/b40e152c-ed8a-bbc0-fa25-d7ae39975db4.htm" />
+          <HelpTOCNode Title="I1 Field" Url="html/e835e2cd-6231-584f-d704-2b8d1ec04d9e.htm" />
+          <HelpTOCNode Title="I10 Field" Url="html/cb77d1d1-81ef-388d-7985-ef0341477105.htm" />
+          <HelpTOCNode Title="I11 Field" Url="html/5639ccb3-2891-bde5-59a9-95cc4aff911c.htm" />
+          <HelpTOCNode Title="I2 Field" Url="html/c98eaff7-7120-34d7-2c3e-962eb69c3d9e.htm" />
+          <HelpTOCNode Title="I3 Field" Url="html/90125e47-be39-0797-53bf-b8bb3af7d402.htm" />
+          <HelpTOCNode Title="I4 Field" Url="html/2d60fb9d-d87b-e6b0-be8e-f0aa526cccca.htm" />
+          <HelpTOCNode Title="I5 Field" Url="html/78f9dc49-be2e-8ac3-7787-48f0a05e23a8.htm" />
+          <HelpTOCNode Title="I6 Field" Url="html/fa58edd4-742d-ec78-930f-291ae9a8e75b.htm" />
+          <HelpTOCNode Title="I7 Field" Url="html/9b1f645b-db3e-eb68-99af-46bd643e06e4.htm" />
+          <HelpTOCNode Title="I8 Field" Url="html/4fb6f7b5-db06-0ab2-547f-206159005caa.htm" />
+          <HelpTOCNode Title="I9 Field" Url="html/807565a1-953f-bdc8-a799-970d3bf4968d.htm" />
+          <HelpTOCNode Title="image Field" Url="html/147d64c6-2c2d-ee53-7c57-f3f1b95cb145.htm" />
+          <HelpTOCNode Title="image_Copy Field" Url="html/843fa5e4-0841-85b2-5f42-233c20c13df3.htm" />
+          <HelpTOCNode Title="J1 Field" Url="html/4b942810-add3-695b-6dc6-6c38a714d1d0.htm" />
+          <HelpTOCNode Title="J10 Field" Url="html/d20bc525-0d73-38ff-4b2b-39c2811cdac3.htm" />
+          <HelpTOCNode Title="J11 Field" Url="html/310cd69c-d252-8730-9815-aa9d6bae2d10.htm" />
+          <HelpTOCNode Title="J2 Field" Url="html/81eb4798-52cc-f631-c7b8-88548a4dce45.htm" />
+          <HelpTOCNode Title="J3 Field" Url="html/257c5a3d-f42e-776a-bfc5-ed106f2b5743.htm" />
+          <HelpTOCNode Title="J4 Field" Url="html/46a5201b-9459-f6f5-5383-4bfb9be89cb1.htm" />
+          <HelpTOCNode Title="J5 Field" Url="html/44734656-c201-32b6-2c74-03a1edaa1e31.htm" />
+          <HelpTOCNode Title="J6 Field" Url="html/7dcef034-b8e0-36fc-d787-852f080f6f37.htm" />
+          <HelpTOCNode Title="J7 Field" Url="html/b88de6c0-523b-2274-6cc1-42945c9dd9cf.htm" />
+          <HelpTOCNode Title="J8 Field" Url="html/88871dcf-c9f1-112a-de81-d7fcd8b9f810.htm" />
+          <HelpTOCNode Title="J9 Field" Url="html/bcd05b28-133d-0957-bb7d-2a4749a0d4f2.htm" />
+          <HelpTOCNode Title="K1 Field" Url="html/6ad21074-a55f-bb42-bca5-8d22fc4d7543.htm" />
+          <HelpTOCNode Title="K10 Field" Url="html/667f1fd7-a27f-e5ff-1ac0-c74bcf86897c.htm" />
+          <HelpTOCNode Title="K11 Field" Url="html/437ed28d-61e3-6526-f626-16a7eaf1afd9.htm" />
+          <HelpTOCNode Title="K2 Field" Url="html/cd69453d-0d39-509b-24af-c88da43008af.htm" />
+          <HelpTOCNode Title="K3 Field" Url="html/24123f50-b791-b586-c712-45fd44fba83b.htm" />
+          <HelpTOCNode Title="K4 Field" Url="html/029974b2-104f-a253-7905-873059dc980b.htm" />
+          <HelpTOCNode Title="K5 Field" Url="html/47861733-9b0a-c2d1-319d-5e531b0f830c.htm" />
+          <HelpTOCNode Title="K6 Field" Url="html/83aeac59-9a0b-76b0-a930-27f701cbdd91.htm" />
+          <HelpTOCNode Title="K7 Field" Url="html/48ba8339-1ef7-6160-a67a-20ffd57e97b9.htm" />
+          <HelpTOCNode Title="K8 Field" Url="html/4ea4c20c-ee3d-b6a4-761f-b5636cff865e.htm" />
+          <HelpTOCNode Title="K9 Field" Url="html/b6cbe3b0-2ce9-cfec-3ee0-b19f2328485b.htm" />
+          <HelpTOCNode Title="kingImageBrush Field" Url="html/9d5163b0-bf79-8499-12c6-a320a52daf12.htm" />
+          <HelpTOCNode Title="lastTappedRect Field" Url="html/8d3152a0-2faf-e26f-fb8a-9429a24202fd.htm" />
+          <HelpTOCNode Title="mctsBoard Field" Url="html/3bc9ff7d-3274-0180-8ac7-c9d9d46ba9fb.htm" />
+          <HelpTOCNode Title="minuteCount Field" Url="html/33466a11-7534-c23c-e16c-1436b63b62c6.htm" />
+          <HelpTOCNode Title="msCount Field" Url="html/7c4884fa-710f-cb6b-f5fe-88b9a8e453a2.htm" />
+          <HelpTOCNode Title="p_minuteCount Field" Url="html/7ffa795f-8d7b-46ab-58b5-a6b6b8a045ac.htm" />
+          <HelpTOCNode Title="p_msCount Field" Url="html/892fdb64-54fd-1c70-85f9-31746e7cab81.htm" />
+          <HelpTOCNode Title="p_secondCount Field" Url="html/1db7d28b-df5d-bbd4-1e97-4485e8b20590.htm" />
+          <HelpTOCNode Title="p1MoveList Field" Url="html/282fc29a-3ef4-8bd3-4c6a-187769666a02.htm" />
+          <HelpTOCNode Title="p1MoveListText Field" Url="html/e18376a5-fe1b-c4d5-3d99-3679ea863025.htm" />
+          <HelpTOCNode Title="p1TurnIndicator Field" Url="html/13c2ec0d-9e39-9fc1-2008-bf3533090cdd.htm" />
+          <HelpTOCNode Title="p2MoveList Field" Url="html/fb32c87a-9001-9abb-e27f-258c46507da5.htm" />
+          <HelpTOCNode Title="p2MoveListText Field" Url="html/bbd25b2b-6715-d2f0-f245-42feb75e1dc1.htm" />
+          <HelpTOCNode Title="p2TurnIndicator Field" Url="html/a9209e25-48b1-888d-37db-fac896544bf2.htm" />
+          <HelpTOCNode Title="parameters Field" Url="html/423e9213-a5c6-7527-5ba0-fe2b2e6f843c.htm" />
+          <HelpTOCNode Title="player_timer_text Field" Url="html/46c88fce-55ad-9318-6de6-6ce92ec38d78.htm" />
+          <HelpTOCNode Title="player1Rectangle Field" Url="html/30c17154-e529-0a71-2993-8e9768eba8c0.htm" />
+          <HelpTOCNode Title="player1Text Field" Url="html/1fa22099-73f8-94a0-292d-60d50720c848.htm" />
+          <HelpTOCNode Title="player2Rectangle Field" Url="html/70652d56-b676-a1e6-9db4-67c66b13cff0.htm" />
+          <HelpTOCNode Title="player2Text Field" Url="html/9be28ffb-4b12-525f-d937-aa748275a6c8.htm" />
+          <HelpTOCNode Title="playerOneStarted Field" Url="html/d046a885-a9e2-5278-1028-4a4acdaf9585.htm" />
+          <HelpTOCNode Title="playerOneTimer Field" Url="html/7ea36566-0be5-aeee-0fe3-e19f1a0f2165.htm" />
+          <HelpTOCNode Title="playerTwoStarted Field" Url="html/1923cc8c-6d71-2a82-c029-87a8e091f604.htm" />
+          <HelpTOCNode Title="playerTwoTimer Field" Url="html/ee14e624-9f61-b50c-1a69-c529da9edad8.htm" />
+          <HelpTOCNode Title="rectArr Field" Url="html/c00b47ee-54c9-d89d-995c-eed39be39af6.htm" />
+          <HelpTOCNode Title="resignBtn1 Field" Url="html/d33b61ee-b77b-2422-68d0-88aba42bcaa3.htm" />
+          <HelpTOCNode Title="resignBtn2 Field" Url="html/980d5fd2-c2c8-89cb-4a92-74807224b851.htm" />
+          <HelpTOCNode Title="scrollViewerLeft Field" Url="html/a32678c1-240b-054a-16ef-48d2e059e2e7.htm" />
+          <HelpTOCNode Title="scrollViewerRight Field" Url="html/7efef0bc-d946-bebc-919d-26ad1216f625.htm" />
+          <HelpTOCNode Title="secondCount Field" Url="html/c570427e-9322-cecb-a5a8-4ecbf39229c0.htm" />
+          <HelpTOCNode Title="Snapped Field" Url="html/6c9a2efa-4930-b795-0790-8781f0d6b865.htm" />
+          <HelpTOCNode Title="Snapped_Detail Field" Url="html/d38b0d2a-84e3-44f2-576d-9672bd50358c.htm" />
+          <HelpTOCNode Title="stationaryStrokeBrush Field" Url="html/f6eeeec2-64ad-1a0c-8f84-806f24240dd5.htm" />
+          <HelpTOCNode Title="strokeThickness Field" Url="html/bc224967-826c-fe14-dcbe-3f6e63f73d77.htm" />
+          <HelpTOCNode Title="timer_text Field" Url="html/bd2ed3ff-1109-9544-cbca-2cedafdd7b86.htm" />
+          <HelpTOCNode Title="transformingStrokeBrush Field" Url="html/4aeacc9f-6743-f3fc-bcbe-f6e6cd5100fe.htm" />
+          <HelpTOCNode Title="transformingStrokeThickness Field" Url="html/316d83e6-b5a4-a1aa-06fa-3cf31adb9467.htm" />
+          <HelpTOCNode Title="UndoBtn1 Field" Url="html/aecd7e2c-3de7-d8d1-c715-748769890327.htm" />
+          <HelpTOCNode Title="UndoBtn2 Field" Url="html/3c7c212b-e38c-4cd5-3947-e322d015b28f.htm" />
+          <HelpTOCNode Title="whiteImageBrush Field" Url="html/81bbcd31-3526-eed7-70bd-b117adfabf60.htm" />
+          <HelpTOCNode Title="winText Field" Url="html/127ffacf-c746-a79f-0213-7f6f5a783f11.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a2cdb84f-7221-441c-ba31-5d3f07ac4b3a" Title="MainPage Class" Url="html/cfba5463-98fb-add1-9ae8-f11db277a556.htm">
+        <HelpTOCNode Title="MainPage Constructor " Url="html/de760d75-4660-e1d6-f9ec-fe314e799883.htm" />
+        <HelpTOCNode Title="MainPage Properties" Url="html/e1a21a20-282e-7e18-6c40-6cae3fe806fb.htm" />
+        <HelpTOCNode Id="11a59676-83d7-46df-9f94-ae147235d63a" Title="MainPage Methods" Url="html/f01e93c6-f9cf-eba4-d646-6611dc27e856.htm">
+          <HelpTOCNode Title="aboutBtn_Click Method " Url="html/70db3d01-7bd0-ed61-2317-949f0491e89c.htm" />
+          <HelpTOCNode Title="back_btn_clicked Method " Url="html/85d8e664-8b16-ed8f-34c2-00c66c6907e8.htm" />
+          <HelpTOCNode Title="Connect Method " Url="html/fbe08c08-dd0b-c316-c850-606153fff6ef.htm" />
+          <HelpTOCNode Title="fullscreen_btn_clicked Method " Url="html/c499b0a1-1b1e-ef4b-9e45-4b1abfbdf058.htm" />
+          <HelpTOCNode Title="GetBindingConnector Method " Url="html/c7236c3e-f81e-78b7-fdd4-09b499f01da3.htm" />
+          <HelpTOCNode Title="howToBtn_Click Method " Url="html/f02a364d-556a-ddff-e38e-e2880c339c8f.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/60f6549c-264c-1f32-75d7-2a28d8718a93.htm" />
+          <HelpTOCNode Title="newGameBtn_Click Method " Url="html/5c2c5df7-e0bb-811d-6390-72d026a5f67c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MainPage Events" Url="html/10df4084-a16c-472d-28e8-373ec849c682.htm" />
+        <HelpTOCNode Id="0f97b330-bfcb-46f2-bed3-10b3fe9a2b12" Title="MainPage Fields" Url="html/e3a099e1-f419-27eb-e1a5-0e759f5ae7a2.htm">
+          <HelpTOCNode Title="_1024x768 Field" Url="html/942e580e-e401-6639-7b76-53195a610b4f.htm" />
+          <HelpTOCNode Title="_1280x720 Field" Url="html/243c05e9-8a61-9ca8-322e-1cf946d486e5.htm" />
+          <HelpTOCNode Title="_1280x800 Field" Url="html/e55ae832-1236-b044-9db0-03d3335c8a15.htm" />
+          <HelpTOCNode Title="_1920x1080 Field" Url="html/8d6fdb63-c8be-2149-6e85-1b9885e39823.htm" />
+          <HelpTOCNode Title="_contentLoaded Field" Url="html/5b75fc13-f1d4-fc42-f51a-081f0b6859b0.htm" />
+          <HelpTOCNode Title="aboutBtn Field" Url="html/8a36c528-009c-4c19-949f-aee2a87c6b02.htm" />
+          <HelpTOCNode Title="back_btn Field" Url="html/20e0f8e5-41fa-1abf-d07c-cc6b06cf6efb.htm" />
+          <HelpTOCNode Title="fullscreen_btn Field" Url="html/6e14e95a-ffd8-20a4-7df9-0412046f0732.htm" />
+          <HelpTOCNode Title="game Field" Url="html/bbe35df0-9526-1ca6-c0f5-d1bd398582c3.htm" />
+          <HelpTOCNode Title="grid Field" Url="html/7fbf9f7b-fe30-b612-6096-faa9b702d344.htm" />
+          <HelpTOCNode Title="howtoBtn Field" Url="html/3badd55c-38de-a65f-5e58-9089bce44d94.htm" />
+          <HelpTOCNode Title="LoadingBar Field" Url="html/34c9e855-8a56-3344-b3ff-1799bdb2eadb.htm" />
+          <HelpTOCNode Title="newGameBtn Field" Url="html/c5483446-ffb1-7b8a-ea7b-3cc9ee9bc58a.htm" />
+          <HelpTOCNode Title="VisualStateGroup Field" Url="html/c441b34a-86ca-70a2-a354-62573ba2bc18.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e8e62ae7-e9e3-4bd1-b6a3-d35ee929696a" Title="NamespaceDoc Class" Url="html/5e5751ce-37cb-073a-b4ef-6fa008d46307.htm">
+        <HelpTOCNode Title="NamespaceDoc Constructor " Url="html/f926fe6a-1517-16bd-9312-3a363b6a2918.htm" />
+        <HelpTOCNode Title="NamespaceDoc Methods" Url="html/e4142d3e-7d69-af55-9cca-c23b02b0e40b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="13af26ff-5311-4863-b697-34a757dc8bf3" Title="Program Class" Url="html/bd766c7d-1471-ac2d-09c4-a85c6f53cf7e.htm">
+        <HelpTOCNode Id="917062b9-68ca-430c-95e4-bb8f7dd2dd9c" Title="Program Methods" Url="html/223cb21e-218a-b7d1-4b20-53c0ab463c32.htm">
+          <HelpTOCNode Title="Main Method " Url="html/39a5dddb-84ce-6704-4498-8c1819308025.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2358f5a0-77b6-453b-8197-a4972c0a55d7" Title="RulesPage Class" Url="html/8bd30ecb-13b4-14d7-fed5-9bc805abdae0.htm">
+        <HelpTOCNode Title="RulesPage Constructor " Url="html/3d426a9f-1b93-ab9b-a775-2a013a85f3cd.htm" />
+        <HelpTOCNode Title="RulesPage Properties" Url="html/f9a75b73-f047-a339-ced5-34b9f06b31b2.htm" />
+        <HelpTOCNode Id="d9f1f8d3-a4cd-4c89-88ef-6a98be95497a" Title="RulesPage Methods" Url="html/ace2b216-9f65-d3b8-9c87-df179e7c42b8.htm">
+          <HelpTOCNode Title="back_btn_clicked Method " Url="html/c11b0279-2b38-02cc-1fbe-eebab2c38b49.htm" />
+          <HelpTOCNode Title="blockBtn_clicked Method " Url="html/653cfd06-1fd2-705e-8ea9-50b27cde1105.htm" />
+          <HelpTOCNode Title="captureBtn_clicked Method " Url="html/882ee937-abcd-6955-6dc6-1c1693fa8c31.htm" />
+          <HelpTOCNode Title="Connect Method " Url="html/e1138c85-fe38-d9e7-af9e-e2af98dfeb08.htm" />
+          <HelpTOCNode Title="fullscreen_btn_clicked Method " Url="html/8de69136-5fd0-2464-7838-afea42f484d2.htm" />
+          <HelpTOCNode Title="GetBindingConnector Method " Url="html/0b9fc9c6-fb34-5460-0b9a-1a6760f62475.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/33550d4f-2462-092b-e0b9-b7c9b7184497.htm" />
+          <HelpTOCNode Title="movementBtn_clicked Method " Url="html/9119074d-cedb-8e1c-73e8-8c9c4d646acc.htm" />
+          <HelpTOCNode Title="towerBtn_clicked Method " Url="html/2b8b8180-38ad-7a00-c72a-d2afcf78d253.htm" />
+          <HelpTOCNode Title="winAttackBtn_clicked Method " Url="html/58813db4-00b9-5370-ee55-8a6bb589f3d2.htm" />
+          <HelpTOCNode Title="winDefBtn_clicked Method " Url="html/69b3b811-2d3b-33bc-c059-fbacd847ed79.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="RulesPage Events" Url="html/44ad4d51-88ff-99cf-8be8-986ab7c55e87.htm" />
+        <HelpTOCNode Id="f6039941-778d-4fba-9ece-c680ea131007" Title="RulesPage Fields" Url="html/4a2bbed7-e0f8-47a2-ecb4-044ad339e858.htm">
+          <HelpTOCNode Title="_contentLoaded Field" Url="html/3d2286d8-badc-af42-a311-12f41128416c.htm" />
+          <HelpTOCNode Title="back_btn Field" Url="html/ae3d00de-e8a5-2958-d7d3-269f59a0ab99.htm" />
+          <HelpTOCNode Title="captureBtn Field" Url="html/bc47f6c1-4d7e-e1de-0117-57fddd037ab9.htm" />
+          <HelpTOCNode Title="fullscreen_btn Field" Url="html/adf8226e-47e4-efa0-bd1b-da1d16cda122.htm" />
+          <HelpTOCNode Title="game Field" Url="html/2e092d45-13cc-7bca-bb17-4b7bbc7e728c.htm" />
+          <HelpTOCNode Title="gifImg Field" Url="html/1220bd00-fd48-c3f9-3273-4337e515a0ab.htm" />
+          <HelpTOCNode Title="movementBtn Field" Url="html/6d93e77f-d539-91ed-623f-95a7ecb030ee.htm" />
+          <HelpTOCNode Title="stratBlockBtn Field" Url="html/22d0126b-6163-d90e-f624-6542a36604b4.htm" />
+          <HelpTOCNode Title="stratTowerBtn Field" Url="html/536b691a-a713-66a6-6d8e-baedd43977f0.htm" />
+          <HelpTOCNode Title="textGif Field" Url="html/094cf331-c411-9eb0-4697-b495983ad39f.htm" />
+          <HelpTOCNode Title="winAttackBtn Field" Url="html/1f6b8fab-ae35-9d45-6fb7-25c3706f6120.htm" />
+          <HelpTOCNode Title="winDefendBtn Field" Url="html/3e6360d5-4188-6123-6dca-38366364d350.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="abef7749-f985-4826-9e8c-6e0ea6e51ba3" Title="SettingsPage Class" Url="html/bf972126-bf77-ca62-ec3a-851b86c212df.htm">
+        <HelpTOCNode Title="SettingsPage Constructor " Url="html/49d3b38a-b165-668d-b378-6dfe7b26e3d0.htm" />
+        <HelpTOCNode Title="SettingsPage Properties" Url="html/dc5c9cec-5bf2-d955-e5ad-7598070ea312.htm" />
+        <HelpTOCNode Id="a1c0bf3e-3371-4af6-ba1f-e2efbb0efbd8" Title="SettingsPage Methods" Url="html/57c535f7-d6ef-4ec3-df5f-9bd066e60d17.htm">
+          <HelpTOCNode Title="ArdRiBtn_Clicked Method " Url="html/27af98b4-202a-2650-d07d-e55bbd40f6d3.htm" />
+          <HelpTOCNode Title="back_btn_clicked Method " Url="html/55276a6b-3d20-ef43-dc4f-eb0ad89f6ca4.htm" />
+          <HelpTOCNode Title="BrandubhBtn_Clicked Method " Url="html/996fa225-a359-d32e-d3c5-c647903d34da.htm" />
+          <HelpTOCNode Title="Connect Method " Url="html/19cea98b-306f-1e33-f32a-155000fe255f.htm" />
+          <HelpTOCNode Title="fullscreen_btn_clicked Method " Url="html/a1083f05-6574-2781-9c28-2d453eb2c742.htm" />
+          <HelpTOCNode Title="GetBindingConnector Method " Url="html/6cc5d962-20cd-4e98-b8f2-153c81bb768e.htm" />
+          <HelpTOCNode Title="getParameters Method " Url="html/fbb37e6e-de4c-9267-06cd-658b41b5d1a4.htm" />
+          <HelpTOCNode Title="HnefataflBtn_Clicked Method " Url="html/6bd6680e-7842-9d62-5f98-9d2cb7a59d4d.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/0fa92eb5-74d6-7c34-e59c-446b7247066b.htm" />
+          <HelpTOCNode Title="TablutBtn_Clicked Method " Url="html/5149a33a-a828-0eaf-1125-ab56afaedaf3.htm" />
+          <HelpTOCNode Title="TawlbwrddBtn_Clicked Method " Url="html/5f394157-8e1b-a851-606a-d9729fba1a5f.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SettingsPage Events" Url="html/c56891df-b1d4-3873-fd68-5cd2979b8e5c.htm" />
+        <HelpTOCNode Id="8f0c3e3c-77de-4e81-bf9f-260880283598" Title="SettingsPage Fields" Url="html/29842e77-bf31-edee-1b96-2517b7fb0bdf.htm">
+          <HelpTOCNode Title="_contentLoaded Field" Url="html/5e3427e4-601a-775b-8176-3f4246764e34.htm" />
+          <HelpTOCNode Title="ArdRiBtn Field" Url="html/63b12e1a-ea17-62f0-ba00-27385b170469.htm" />
+          <HelpTOCNode Title="ArdRiLabel Field" Url="html/eca3e6e2-5c9d-7196-cb1d-ee772e67b245.htm" />
+          <HelpTOCNode Title="back_btn Field" Url="html/7bf807d3-c533-f600-1371-65f58249b68c.htm" />
+          <HelpTOCNode Title="BoardSelectionLabel Field" Url="html/8f3289b2-d677-574e-0fa8-5db714f384c5.htm" />
+          <HelpTOCNode Title="BrandubhBtn Field" Url="html/74378340-b991-ec39-f40c-804426d64bac.htm" />
+          <HelpTOCNode Title="BrandubhLabel Field" Url="html/f6d0ce38-e51d-66e5-ff23-372570ebc6fe.htm" />
+          <HelpTOCNode Title="colorBlack Field" Url="html/543a6269-f7c9-9947-37df-7c2c126dd3ed.htm" />
+          <HelpTOCNode Title="colorSwitch Field" Url="html/62ad84a8-d1af-898f-06d7-51fef2ff9667.htm" />
+          <HelpTOCNode Title="colorSwitchLabel Field" Url="html/f63c7222-7452-3ba2-2721-ded98cd91c0c.htm" />
+          <HelpTOCNode Title="colorWhite Field" Url="html/d3198840-443a-0fcb-06ce-c340ba5fdd03.htm" />
+          <HelpTOCNode Title="fullscreen_btn Field" Url="html/04b7ee44-89a4-0b8a-5709-c807111ededa.htm" />
+          <HelpTOCNode Title="game Field" Url="html/0128dd25-8c01-734e-60c3-ae347990ad89.htm" />
+          <HelpTOCNode Title="HnefataflBtn Field" Url="html/865062d2-3d0c-a020-0e16-c2d393d0670c.htm" />
+          <HelpTOCNode Title="HnefataflLabel Field" Url="html/40ef5961-f04f-4e1b-d43c-8dc20db3d358.htm" />
+          <HelpTOCNode Title="p1NameLabel Field" Url="html/7a245baf-87e6-f8e2-f92c-a598d5d04c40.htm" />
+          <HelpTOCNode Title="p1NameTextBox Field" Url="html/3fb2bfe4-63c1-e5be-a72c-cfd57da85a5d.htm" />
+          <HelpTOCNode Title="p2NameLabel Field" Url="html/2de01f73-0878-1ef5-3013-1d1d2f9464f3.htm" />
+          <HelpTOCNode Title="p2NameTextBox Field" Url="html/bb23a8e4-74d6-f6fd-bd55-ab3ed6e754cc.htm" />
+          <HelpTOCNode Title="TablutBtn Field" Url="html/f738b8bf-bbcf-01be-3f0c-7dad1ec48495.htm" />
+          <HelpTOCNode Title="TablutLabel Field" Url="html/37e21d1b-de64-261a-625d-65401396992b.htm" />
+          <HelpTOCNode Title="TawlbwrddBtn Field" Url="html/643d863b-646e-343b-43c5-b63b63b64ce6.htm" />
+          <HelpTOCNode Title="TawlbwrddLabel Field" Url="html/733a8219-443f-2180-7214-583f24358ad7.htm" />
+          <HelpTOCNode Title="vsCpuLabel Field" Url="html/bf1c9a17-a7a9-cd0e-00ab-59c2ac08a52e.htm" />
+          <HelpTOCNode Title="vsHumanLabel Field" Url="html/e5b4b3f9-1679-47de-da80-b60c1ef62cc2.htm" />
+          <HelpTOCNode Title="vsSwitchLabel Field" Url="html/33f30bdf-497c-95cd-77c2-dedb822d3dc6.htm" />
+          <HelpTOCNode Title="vsToggleSwitch Field" Url="html/b8e5e152-0a7b-8647-0fc2-128b5d9798a7.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0384d4d6-242e-4bd1-a695-b4860b027504" Title="TablutPage Class" Url="html/48302e70-5b61-7252-81b8-cd4c2b63653e.htm">
+        <HelpTOCNode Title="TablutPage Constructor " Url="html/1c4e8130-8e4e-fd78-3978-0bc7c0b9aae2.htm" />
+        <HelpTOCNode Title="TablutPage Properties" Url="html/c520b42f-c4e0-5fbe-1d9f-bbb897281260.htm" />
+        <HelpTOCNode Id="813cfbd8-8ed1-4caa-97ff-525c5a7e5185" Title="TablutPage Methods" Url="html/d2ce3ec0-38d8-d7bc-9697-7dcc76e52d95.htm">
+          <HelpTOCNode Title="back_btn_clicked Method " Url="html/c0973d2d-72a0-14d5-3d96-2b4a9637c9f1.htm" />
+          <HelpTOCNode Title="bindRectangles Method " Url="html/58f47a80-a4be-3741-490e-f01375d1c37f.htm" />
+          <HelpTOCNode Title="bw_DoWork Method " Url="html/fed4bcd0-162f-0a64-da2c-22b165d80aed.htm" />
+          <HelpTOCNode Title="bw_RunWorkerCompleted Method " Url="html/db03e0bc-b11f-1ce0-4811-1985adbcbd28.htm" />
+          <HelpTOCNode Title="canEscape Method " Url="html/209f6b44-c3a9-14b6-ba95-734f5acba629.htm" />
+          <HelpTOCNode Title="checkWinAndDisplay Method " Url="html/447f3639-e1c6-d5ba-96c3-7e43dce1c48d.htm" />
+          <HelpTOCNode Title="Connect Method " Url="html/c514131a-f527-6162-85d7-38bdfae73f18.htm" />
+          <HelpTOCNode Title="displayLegalMoves Method " Url="html/0bc47ca9-4b21-a725-7614-4a621b183fcf.htm" />
+          <HelpTOCNode Title="displayMoveNotation Method " Url="html/49913ffb-ccaa-bebf-664b-5c53b73e2dca.htm" />
+          <HelpTOCNode Title="displayPieces Method " Url="html/d29ccade-e833-3a98-27bb-65854274a82a.htm" />
+          <HelpTOCNode Title="fullscreen_btn_clicked Method " Url="html/19dde3b5-21d2-b773-3a82-1e6a40579f28.htm" />
+          <HelpTOCNode Title="gameTimer_Tick Method " Url="html/7542e18b-8aa9-7759-48fa-ed93e3b6b267.htm" />
+          <HelpTOCNode Title="GetBindingConnector Method " Url="html/d695d2a1-9d50-3fc2-39a8-b79998dadd15.htm" />
+          <HelpTOCNode Title="getCPURect Method " Url="html/5343b34c-4ea5-1c79-c9ce-367feeb4b68a.htm" />
+          <HelpTOCNode Title="getRectSquare Method " Url="html/51b4df0c-5805-f121-511d-260132fc8550.htm" />
+          <HelpTOCNode Title="highlightPieces Method " Url="html/91ff573e-7ad6-a096-504d-ec725863f166.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/7368c79d-fddf-824e-e000-8e948864599e.htm" />
+          <HelpTOCNode Title="moveCPU Method " Url="html/a5cb9f1d-0c7e-4172-50cb-b660eb413435.htm" />
+          <HelpTOCNode Title="notifyPlayer Method " Url="html/0a83d2b9-3695-53b1-ea22-d19637045b0c.htm" />
+          <HelpTOCNode Title="OnNavigatedTo Method " Url="html/83b73a5b-03c7-4924-258b-97fb164c082d.htm" />
+          <HelpTOCNode Title="playerOneTimer_Tick Method " Url="html/e2b08de3-7782-1e49-37c6-4e26b2950756.htm" />
+          <HelpTOCNode Title="playerTwoTimer_Tick Method " Url="html/662634a0-7889-798f-46db-66b9d5babecc.htm" />
+          <HelpTOCNode Title="processMove Method " Url="html/3e0ec6b5-9161-29a6-d274-4fd663c6d67d.htm" />
+          <HelpTOCNode Title="rectangle_tapped Method " Url="html/48363365-e322-69fd-00e1-e5cef5cf2efb.htm" />
+          <HelpTOCNode Title="resetPlayerOneTimer Method " Url="html/b3160420-ac21-9608-b70a-cf9b3d8a677f.htm" />
+          <HelpTOCNode Title="resetPlayerTwoTimer Method " Url="html/4a825130-b451-0f68-87df-fb816594d4af.htm" />
+          <HelpTOCNode Title="resignBtn1_tapped Method " Url="html/a47a4811-0d7f-1a44-b955-dbf3c392daf3.htm" />
+          <HelpTOCNode Title="resignBtn2_tapped Method " Url="html/f47a54fc-cb47-e649-cd9b-0f7d495c55bb.htm" />
+          <HelpTOCNode Title="undoBtn_tapped Method " Url="html/78c0adad-28ad-1356-c447-fbfc1fb83c1e.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="TablutPage Events" Url="html/1b80c0f4-9170-c479-7b24-64af95af5064.htm" />
+        <HelpTOCNode Id="eb16998f-99ba-4a25-a767-706d8b261b50" Title="TablutPage Fields" Url="html/d8560d73-0c22-df7b-2e1c-8d724264fffa.htm">
+          <HelpTOCNode Title="_contentLoaded Field" Url="html/7b5a4212-7d28-9659-fe07-1537fd2f918f.htm" />
+          <HelpTOCNode Title="A1 Field" Url="html/e93fe112-eb13-ae74-4f23-d380ef645ee6.htm" />
+          <HelpTOCNode Title="A2 Field" Url="html/ce8e143e-257b-f8ac-5d63-04d423b68534.htm" />
+          <HelpTOCNode Title="A3 Field" Url="html/b6cf1ce6-e4a2-8d03-8563-53412691fabf.htm" />
+          <HelpTOCNode Title="A4 Field" Url="html/f055b7e3-73d9-4bc1-9aea-121cddcd2618.htm" />
+          <HelpTOCNode Title="A5 Field" Url="html/c7be5a36-ab86-8cee-f8da-29f2dfd4eba7.htm" />
+          <HelpTOCNode Title="A6 Field" Url="html/449ca64e-11a4-8c9c-a1eb-34f10a9c116d.htm" />
+          <HelpTOCNode Title="A7 Field" Url="html/9d437403-c4d3-e389-bd6c-490852d05759.htm" />
+          <HelpTOCNode Title="A8 Field" Url="html/58b17d1d-6907-d382-ee90-9eb1f0fbd8a7.htm" />
+          <HelpTOCNode Title="A9 Field" Url="html/cee5c8ca-2fee-6441-bd69-016c9813a6ce.htm" />
+          <HelpTOCNode Title="B1 Field" Url="html/4261653d-6f64-1a70-92a2-1f67bf4971e4.htm" />
+          <HelpTOCNode Title="B2 Field" Url="html/751630ba-4fab-55a9-f1f4-83fd936ce3bd.htm" />
+          <HelpTOCNode Title="B3 Field" Url="html/822ae6d3-84ba-723c-20f4-43579de68cfb.htm" />
+          <HelpTOCNode Title="B4 Field" Url="html/c18cbc67-88f6-3797-82df-7281e48ca39e.htm" />
+          <HelpTOCNode Title="B5 Field" Url="html/d5d2bd39-f1c3-6734-6773-f44830d0867f.htm" />
+          <HelpTOCNode Title="B6 Field" Url="html/14aa6091-1171-0cbb-c5e7-c617ca713a66.htm" />
+          <HelpTOCNode Title="B7 Field" Url="html/12073795-f790-b45b-db5c-1b6b2c49e537.htm" />
+          <HelpTOCNode Title="B8 Field" Url="html/f5280fdf-b59a-dcba-7e8f-ebc1d3a57d89.htm" />
+          <HelpTOCNode Title="B9 Field" Url="html/cc308a0e-4eb6-82df-1463-d5f1fe39f83b.htm" />
+          <HelpTOCNode Title="back_btn Field" Url="html/5ad7d986-d824-3975-4b39-582797d78f6e.htm" />
+          <HelpTOCNode Title="blackImageBrush Field" Url="html/6bd03570-e0e8-e578-46a8-79409da3852b.htm" />
+          <HelpTOCNode Title="board Field" Url="html/9e24c7d5-c3db-1174-3ab0-bc2b0f80ccb8.htm" />
+          <HelpTOCNode Title="bw Field" Url="html/41379a5e-6b70-a76d-47e2-1a64c3edc04c.htm" />
+          <HelpTOCNode Title="c_minuteCount Field" Url="html/142bbb95-42e0-53d8-a0a4-6ddb5711c673.htm" />
+          <HelpTOCNode Title="c_msCount Field" Url="html/ad13504d-218a-8a66-0ee0-684483b119ff.htm" />
+          <HelpTOCNode Title="c_secondCount Field" Url="html/eaa7a2a0-7ddf-e549-8fc1-00988c56775c.htm" />
+          <HelpTOCNode Title="C1 Field" Url="html/21e4ef54-a1d5-67d6-8468-e6020d49f843.htm" />
+          <HelpTOCNode Title="C2 Field" Url="html/d52db642-9dbc-b888-da20-d25f21a6a4ad.htm" />
+          <HelpTOCNode Title="C3 Field" Url="html/4d4121e2-cf63-1d09-9106-fda71fc044ac.htm" />
+          <HelpTOCNode Title="C4 Field" Url="html/54573ae0-2d8f-65c3-91b1-648b27fa32a1.htm" />
+          <HelpTOCNode Title="C5 Field" Url="html/27cadeb0-c6a7-04c9-80e5-78e772d6858e.htm" />
+          <HelpTOCNode Title="C6 Field" Url="html/057a46f7-556d-202e-fb9c-65ccaa76c7b2.htm" />
+          <HelpTOCNode Title="C7 Field" Url="html/d7686b97-ea51-6816-cf01-9603a7e220f6.htm" />
+          <HelpTOCNode Title="C8 Field" Url="html/f39ad549-f39f-d6f4-5205-44c4f0678af0.htm" />
+          <HelpTOCNode Title="C9 Field" Url="html/35c8518f-094b-4763-4076-1c4a429bc0fc.htm" />
+          <HelpTOCNode Title="checkMate Field" Url="html/bfc0b413-22b5-b9b4-45a3-507cefe4e6ce.htm" />
+          <HelpTOCNode Title="cpu_timer_text Field" Url="html/715821f6-dba3-10cc-e0bd-70ffc522d950.htm" />
+          <HelpTOCNode Title="cpuMovesTuple Field" Url="html/7c238378-bd70-3eb6-6f93-5d1a4520fc0b.htm" />
+          <HelpTOCNode Title="D1 Field" Url="html/48441330-288f-7a39-e317-4815409b35b1.htm" />
+          <HelpTOCNode Title="D2 Field" Url="html/9e161735-d820-6b23-1e49-6df4f338da3c.htm" />
+          <HelpTOCNode Title="D3 Field" Url="html/f421a712-6482-1c7a-c461-3ce987aa449b.htm" />
+          <HelpTOCNode Title="D4 Field" Url="html/a7a57445-19d6-56d2-e0ba-e8e38ee267d9.htm" />
+          <HelpTOCNode Title="D5 Field" Url="html/1d6fb51e-db5f-7485-de1d-4308f7a08d52.htm" />
+          <HelpTOCNode Title="D6 Field" Url="html/1bd761a6-651d-f6b8-de8f-a11ebf1d3591.htm" />
+          <HelpTOCNode Title="D7 Field" Url="html/9a1b4159-5631-611c-3309-a7907f2723e7.htm" />
+          <HelpTOCNode Title="D8 Field" Url="html/a4af8037-c758-f35d-5ac2-19d93ec248b8.htm" />
+          <HelpTOCNode Title="D9 Field" Url="html/fe2322af-d574-e8ae-a26f-1cd5e1078cde.htm" />
+          <HelpTOCNode Title="E1 Field" Url="html/22440211-f87e-365d-d732-43ffba0405bd.htm" />
+          <HelpTOCNode Title="E2 Field" Url="html/5c122bbe-cc4c-ef8d-aed2-c13d0692a7c9.htm" />
+          <HelpTOCNode Title="E3 Field" Url="html/159a8d4d-a877-2e1e-eb0f-bd8ccc4c65e1.htm" />
+          <HelpTOCNode Title="E4 Field" Url="html/beb43216-ee9c-7def-1cb0-592bad9cf350.htm" />
+          <HelpTOCNode Title="E5 Field" Url="html/a01d1cec-882b-f104-326a-7d4f9c0bd838.htm" />
+          <HelpTOCNode Title="E6 Field" Url="html/0a68bb78-fa22-580b-7351-da7921bbc798.htm" />
+          <HelpTOCNode Title="E7 Field" Url="html/630d6d1e-647e-f44f-821a-efb9e2c6def0.htm" />
+          <HelpTOCNode Title="E8 Field" Url="html/5c43c29a-dd4d-8014-a288-22c1208e6f2a.htm" />
+          <HelpTOCNode Title="E9 Field" Url="html/883c7717-1de2-15a8-5913-20e0c4b81b71.htm" />
+          <HelpTOCNode Title="F1 Field" Url="html/f63d6789-afa0-be0b-4209-df2071b14927.htm" />
+          <HelpTOCNode Title="F2 Field" Url="html/766b41dc-87ad-ec65-01fd-f6358e2c7087.htm" />
+          <HelpTOCNode Title="F3 Field" Url="html/42ad451e-c89d-77e5-1c5a-6187810b1df6.htm" />
+          <HelpTOCNode Title="F4 Field" Url="html/bdaafb68-e012-44fc-5695-aa416d3e36a3.htm" />
+          <HelpTOCNode Title="F5 Field" Url="html/55dba12e-3b3d-87de-4943-8b7e3fec3f73.htm" />
+          <HelpTOCNode Title="F6 Field" Url="html/ad62cdc9-08c8-bed8-e746-a4dc457b948c.htm" />
+          <HelpTOCNode Title="F7 Field" Url="html/ade174b5-51a7-ce65-b514-f03958c6844f.htm" />
+          <HelpTOCNode Title="F8 Field" Url="html/837c0de2-89c7-2262-9ba2-863cd7f607ee.htm" />
+          <HelpTOCNode Title="F9 Field" Url="html/c818d8e4-939a-f043-b4e8-ec1b0fe0fb8e.htm" />
+          <HelpTOCNode Title="fullscreen_btn Field" Url="html/499964fd-f84a-1c3c-acea-4e536043eb0c.htm" />
+          <HelpTOCNode Title="G1 Field" Url="html/c4e453de-7044-1347-0a38-2b41b8c2ed96.htm" />
+          <HelpTOCNode Title="G2 Field" Url="html/9ccd05ef-f9de-dedf-e068-20e93d60c48f.htm" />
+          <HelpTOCNode Title="G3 Field" Url="html/38a1aab3-7c05-61b1-0003-127683ca7d7a.htm" />
+          <HelpTOCNode Title="G4 Field" Url="html/72b729a3-fc9e-4bd3-7229-959abea61177.htm" />
+          <HelpTOCNode Title="G5 Field" Url="html/ef2d0cae-d054-10a2-89b8-1ebccb28a67c.htm" />
+          <HelpTOCNode Title="G6 Field" Url="html/18c17637-b9da-1cea-f514-5f3011f44993.htm" />
+          <HelpTOCNode Title="G7 Field" Url="html/54f8be52-3af9-ecce-9e44-5daf4415ab8d.htm" />
+          <HelpTOCNode Title="G8 Field" Url="html/259e7d6f-0655-21ac-9f5a-336e481bd35a.htm" />
+          <HelpTOCNode Title="G9 Field" Url="html/e69675cc-12a9-560b-890f-1e87bc6ef955.htm" />
+          <HelpTOCNode Title="game Field" Url="html/89a1d420-7132-ea87-0977-d3f32273e126.htm" />
+          <HelpTOCNode Title="gameStarted Field" Url="html/a304ccca-6aec-e45a-c34b-3802efd3b14c.htm" />
+          <HelpTOCNode Title="gameTimer Field" Url="html/2fef9584-5fec-4ae1-21a3-d759a56fa1c4.htm" />
+          <HelpTOCNode Title="H1 Field" Url="html/b4d33caa-239b-46b6-cb3b-0457da2ff87f.htm" />
+          <HelpTOCNode Title="H2 Field" Url="html/c54d7fbd-8c8d-c818-a6a7-4891299d4b2b.htm" />
+          <HelpTOCNode Title="H3 Field" Url="html/884bd941-bddb-2360-d411-ff2287d6423e.htm" />
+          <HelpTOCNode Title="H4 Field" Url="html/79d5d311-bc35-3638-5ae3-5b1be1829764.htm" />
+          <HelpTOCNode Title="H5 Field" Url="html/6b99fd7e-d751-7a89-d3cc-b9bbd3d57baa.htm" />
+          <HelpTOCNode Title="H6 Field" Url="html/e3151c24-8bdb-69d5-a9e4-2692c8ca4397.htm" />
+          <HelpTOCNode Title="H7 Field" Url="html/6ddad41a-bc47-3925-bfc1-1ccfdae5068f.htm" />
+          <HelpTOCNode Title="H8 Field" Url="html/447cb777-ecdb-9b3d-15a4-fd54b93577c4.htm" />
+          <HelpTOCNode Title="H9 Field" Url="html/d8764d14-6fc9-d92a-bc8f-7ac5ec79af15.htm" />
+          <HelpTOCNode Title="I1 Field" Url="html/a8c52849-2371-854e-7953-36817ff6eca5.htm" />
+          <HelpTOCNode Title="I2 Field" Url="html/7e5d4af4-997f-2914-0f81-79f3a37be953.htm" />
+          <HelpTOCNode Title="I3 Field" Url="html/c4115d2b-3b18-3d6d-d8cf-94fcff649faf.htm" />
+          <HelpTOCNode Title="I4 Field" Url="html/cd8cbd1e-3c1b-0553-ee02-a169b03a4e9a.htm" />
+          <HelpTOCNode Title="I5 Field" Url="html/6103e7f1-45be-2e4f-f8f7-38384f0cc9f3.htm" />
+          <HelpTOCNode Title="I6 Field" Url="html/06a4a9b4-7189-a311-81da-6e0f8796f6b5.htm" />
+          <HelpTOCNode Title="I7 Field" Url="html/29eeb73e-353d-655f-c723-ae6e44ae4cf9.htm" />
+          <HelpTOCNode Title="I8 Field" Url="html/dd58c9b5-0be8-6206-8d91-e54d9bc7c22c.htm" />
+          <HelpTOCNode Title="I9 Field" Url="html/90c0351d-0350-fefc-dc5b-0f4f3db68e7d.htm" />
+          <HelpTOCNode Title="image Field" Url="html/fcd26516-ed78-832b-2e95-cc963fe0d1d6.htm" />
+          <HelpTOCNode Title="image_Copy Field" Url="html/633d761c-232c-969c-41e3-0dfb5f470bc3.htm" />
+          <HelpTOCNode Title="kingImageBrush Field" Url="html/ca9eabea-3c5b-2b5d-89a7-5ed38ab8f78a.htm" />
+          <HelpTOCNode Title="lastTappedRect Field" Url="html/62bbf266-d121-a92b-bf83-0b83cdc1452e.htm" />
+          <HelpTOCNode Title="mctsBoard Field" Url="html/24af48c3-77c6-b77f-e12d-f81912ae76b8.htm" />
+          <HelpTOCNode Title="minuteCount Field" Url="html/8a995f6d-9f85-24dd-c1f8-62258706f4d3.htm" />
+          <HelpTOCNode Title="msCount Field" Url="html/a138b9e5-d934-c80f-82bf-f4ed62d00531.htm" />
+          <HelpTOCNode Title="p_minuteCount Field" Url="html/69f3fb35-533d-cf24-e5c2-28abeb11f2b2.htm" />
+          <HelpTOCNode Title="p_msCount Field" Url="html/8187e552-2dd4-113d-6992-3b6728a75541.htm" />
+          <HelpTOCNode Title="p_secondCount Field" Url="html/7cbce425-2e1c-02d4-f375-e40a33725d6e.htm" />
+          <HelpTOCNode Title="p1MoveList Field" Url="html/1ddf2586-d323-d0fb-4e3c-93de27ea9d1a.htm" />
+          <HelpTOCNode Title="p1MoveListText Field" Url="html/82dbb4be-097b-780e-104d-e6acc52c2534.htm" />
+          <HelpTOCNode Title="p1TurnIndicator Field" Url="html/045d5ae1-796a-b3ef-ab1a-c256f48bd27a.htm" />
+          <HelpTOCNode Title="p2MoveList Field" Url="html/08e948e5-b65e-042c-0ada-4873fd0c18cb.htm" />
+          <HelpTOCNode Title="p2MoveListText Field" Url="html/44b381be-e939-c405-bdf3-aee56050381b.htm" />
+          <HelpTOCNode Title="p2TurnIndicator Field" Url="html/8a5199d3-63f8-9e5b-f566-7b0195971ef8.htm" />
+          <HelpTOCNode Title="parameters Field" Url="html/d70b3a2b-7b5b-0eea-8bfc-45280c3fa962.htm" />
+          <HelpTOCNode Title="player_timer_text Field" Url="html/90b7ef57-f0ba-201a-649e-60d32d5cceed.htm" />
+          <HelpTOCNode Title="player1Rectangle Field" Url="html/30e5f0a4-5b89-66bc-b874-b7c718689937.htm" />
+          <HelpTOCNode Title="player1Text Field" Url="html/182a1c59-94f6-fb08-4c51-5d22638dd441.htm" />
+          <HelpTOCNode Title="player2Rectangle Field" Url="html/27d773e9-c357-9b39-b994-7725b086f7e3.htm" />
+          <HelpTOCNode Title="player2Text Field" Url="html/66bc06fb-4c11-2d06-9c4f-85dbfbc035cd.htm" />
+          <HelpTOCNode Title="playerOneStarted Field" Url="html/33f1e887-4479-35e0-203b-aa5b4851c798.htm" />
+          <HelpTOCNode Title="playerOneTimer Field" Url="html/cbafc58d-50cd-9773-a3c4-fc7bb219dde2.htm" />
+          <HelpTOCNode Title="playerTwoStarted Field" Url="html/517791bc-a663-a5cb-27b5-d30a18bc1e90.htm" />
+          <HelpTOCNode Title="playerTwoTimer Field" Url="html/3ed58a6f-d578-a755-e08f-c768f39207f1.htm" />
+          <HelpTOCNode Title="rectArr Field" Url="html/bfa6c2e6-343c-0814-33eb-d39f5dd25dec.htm" />
+          <HelpTOCNode Title="resignBtn1 Field" Url="html/bdf49ced-f3a6-6e77-5e9e-06e26a295cc7.htm" />
+          <HelpTOCNode Title="resignBtn2 Field" Url="html/996e8b5d-0295-adfd-5aa4-4a88219dec50.htm" />
+          <HelpTOCNode Title="scrollViewerLeft Field" Url="html/11e884a5-c937-ce43-2d7b-7158b412efff.htm" />
+          <HelpTOCNode Title="scrollViewerRight Field" Url="html/8db14362-d4e8-c36d-f023-09692e51110f.htm" />
+          <HelpTOCNode Title="secondCount Field" Url="html/46c519c0-0045-4edb-1e73-b932ec5d89f2.htm" />
+          <HelpTOCNode Title="stationaryStrokeBrush Field" Url="html/89bb78ad-86a2-056b-a3bd-ffa9e92a50b8.htm" />
+          <HelpTOCNode Title="strokeThickness Field" Url="html/e0276084-978d-4cdb-c677-37aaec79f056.htm" />
+          <HelpTOCNode Title="timer_text Field" Url="html/43bd0389-f7cc-169f-ab30-d2797ff31dd2.htm" />
+          <HelpTOCNode Title="transformingStrokeBrush Field" Url="html/d9735ffb-67ea-414b-09a7-b88759da9987.htm" />
+          <HelpTOCNode Title="transformingStrokeThickness Field" Url="html/5ec823f5-c6b8-b837-224d-413fc1ec33d1.htm" />
+          <HelpTOCNode Title="UndoBtn1 Field" Url="html/3c98f2e8-5791-195d-4fd3-5979fa6a306c.htm" />
+          <HelpTOCNode Title="UndoBtn2 Field" Url="html/8d18deef-e6fa-c8a7-1f7a-809ed1405c7b.htm" />
+          <HelpTOCNode Title="whiteImageBrush Field" Url="html/fb30548a-da25-a36a-2fe8-768079a38908.htm" />
+          <HelpTOCNode Title="winText Field" Url="html/6e282e5b-1545-9b99-953d-d9bb7c9e1e8a.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="cdb3eacf-7f25-4a4d-b2de-55f487f23a12" Title="TawlbwrddPage Class" Url="html/3e041f1d-7374-fb7b-2504-0be0ad0cafb5.htm">
+        <HelpTOCNode Title="TawlbwrddPage Constructor " Url="html/42538866-34ea-4033-b259-f9310b5309df.htm" />
+        <HelpTOCNode Title="TawlbwrddPage Properties" Url="html/ac74e8ba-2a34-3a34-4b71-3a4546d43ea4.htm" />
+        <HelpTOCNode Id="35c6b5d0-cef0-42df-b511-0f77ac19caf6" Title="TawlbwrddPage Methods" Url="html/2c9c2803-b31d-7f9d-9bff-142389e7c37a.htm">
+          <HelpTOCNode Title="back_btn_clicked Method " Url="html/4913634c-8bfd-86f0-5937-eb1e12304c60.htm" />
+          <HelpTOCNode Title="bindRectangles Method " Url="html/b55431af-099a-787d-9baa-9bee083bafea.htm" />
+          <HelpTOCNode Title="bw_DoWork Method " Url="html/e4c25eb2-3252-8b34-ba4f-043a856b384f.htm" />
+          <HelpTOCNode Title="bw_RunWorkerCompleted Method " Url="html/1251cbc7-8a71-2592-af6c-fe1afca5fd16.htm" />
+          <HelpTOCNode Title="canEscape Method " Url="html/d6f801a3-78ae-2923-241e-baf53a098931.htm" />
+          <HelpTOCNode Title="checkWinAndDisplay Method " Url="html/516287c5-2b7a-4585-a957-c6d41a21b117.htm" />
+          <HelpTOCNode Title="Connect Method " Url="html/34638315-1554-440c-6dde-11b9a8c5045e.htm" />
+          <HelpTOCNode Title="displayLegalMoves Method " Url="html/0da8f03d-ece0-437f-a639-cd1fc76168ab.htm" />
+          <HelpTOCNode Title="displayMoveNotation Method " Url="html/6c425716-121c-a343-cc21-0d94cbf66a9f.htm" />
+          <HelpTOCNode Title="displayPieces Method " Url="html/3370d1a5-0719-8f9e-fe77-e19461076486.htm" />
+          <HelpTOCNode Title="fullscreen_btn_clicked Method " Url="html/a488c606-839f-6ca6-1596-e97275af1101.htm" />
+          <HelpTOCNode Title="gameTimer_Tick Method " Url="html/6cbb0b55-19ce-d8de-bdb7-392a2e8b8b82.htm" />
+          <HelpTOCNode Title="GetBindingConnector Method " Url="html/1384854e-60e9-6568-7d99-2624836b59b4.htm" />
+          <HelpTOCNode Title="getCPURect Method " Url="html/ec8633cd-c213-7c21-1871-3b12e9b6f5d3.htm" />
+          <HelpTOCNode Title="getRectSquare Method " Url="html/0154cdcd-2c3a-a744-2969-a33f2fd4dc1e.htm" />
+          <HelpTOCNode Title="highlightPieces Method " Url="html/ec58c658-488f-1922-885b-59fc5bfeeaa0.htm" />
+          <HelpTOCNode Title="InitializeComponent Method " Url="html/42e55f42-c2ef-6033-14dd-5043cec18f01.htm" />
+          <HelpTOCNode Title="moveCPU Method " Url="html/04c9679e-5e30-4b60-9b11-fb6163716001.htm" />
+          <HelpTOCNode Title="notifyPlayer Method " Url="html/8bf0a03e-c0de-f988-1271-31b75cd6bdc5.htm" />
+          <HelpTOCNode Title="OnNavigatedTo Method " Url="html/a25719fd-1629-0feb-370f-cbf512d02f3f.htm" />
+          <HelpTOCNode Title="playerOneTimer_Tick Method " Url="html/442c5c76-f887-0d4f-f927-3c22b307309b.htm" />
+          <HelpTOCNode Title="playerTwoTimer_Tick Method " Url="html/5a432aef-1e32-1d3c-9a0f-c4f2bb2f147d.htm" />
+          <HelpTOCNode Title="processMove Method " Url="html/1f9a155b-1306-c9f7-19bc-813670938d6e.htm" />
+          <HelpTOCNode Title="rectangle_tapped Method " Url="html/c932be98-1be0-1e7a-9d3e-7f97c7b4fc77.htm" />
+          <HelpTOCNode Title="resetPlayerOneTimer Method " Url="html/0355ae77-b99a-fd02-d9f9-982e5ee2f85d.htm" />
+          <HelpTOCNode Title="resetPlayerTwoTimer Method " Url="html/ed41cb4e-da29-f141-66dd-83dddf220fb9.htm" />
+          <HelpTOCNode Title="resignBtn1_tapped Method " Url="html/07b1a388-561d-1ffd-a27d-e40198e3bb65.htm" />
+          <HelpTOCNode Title="resignBtn2_tapped Method " Url="html/0c165dfa-f840-04cf-9fde-862d74807844.htm" />
+          <HelpTOCNode Title="undoBtn_tapped Method " Url="html/7ec3c6dc-fa74-856b-9958-64d2e63319ce.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="TawlbwrddPage Events" Url="html/8a27b487-bab9-57cd-3ed9-26abeaee67c0.htm" />
+        <HelpTOCNode Id="f1402da8-750f-422b-9a4f-dbe5f66ff02a" Title="TawlbwrddPage Fields" Url="html/d9773b74-9bb5-59fe-b4c1-92adc6970e44.htm">
+          <HelpTOCNode Title="_contentLoaded Field" Url="html/d5603ffc-d28c-0013-64e9-3f0819d937e6.htm" />
+          <HelpTOCNode Title="A1 Field" Url="html/fbef7b87-22ff-8c00-8fff-a3758406ad25.htm" />
+          <HelpTOCNode Title="A10 Field" Url="html/7b7bc7f0-29fa-57fc-ad0b-5cf9b786a675.htm" />
+          <HelpTOCNode Title="A11 Field" Url="html/915e604a-e7e0-5c4f-aa6d-332976c38759.htm" />
+          <HelpTOCNode Title="A2 Field" Url="html/259960a3-ab8f-166b-04e2-0c1caa6b9461.htm" />
+          <HelpTOCNode Title="A3 Field" Url="html/4eb3582d-7f80-8620-a8a4-78f50a9975a2.htm" />
+          <HelpTOCNode Title="A4 Field" Url="html/6e8959f3-1b67-da83-7f2d-45d4afb7e5d7.htm" />
+          <HelpTOCNode Title="A5 Field" Url="html/6e1c0e85-e124-cbec-7d37-c3e9f28c76d1.htm" />
+          <HelpTOCNode Title="A6 Field" Url="html/10ce3b1b-98e6-43e8-84fe-234657cf6f61.htm" />
+          <HelpTOCNode Title="A7 Field" Url="html/5448a3c0-0017-fddf-a59a-a23686777554.htm" />
+          <HelpTOCNode Title="A8 Field" Url="html/1df216de-e8e5-3929-eabc-0fb27b595956.htm" />
+          <HelpTOCNode Title="A9 Field" Url="html/15c46bd2-f98d-58b8-d87b-2a617d4f0dac.htm" />
+          <HelpTOCNode Title="B1 Field" Url="html/412d29d8-8a59-1452-8ece-6b8d5bf814eb.htm" />
+          <HelpTOCNode Title="B10 Field" Url="html/9f1f3492-b254-26be-cb99-1787bbb496f9.htm" />
+          <HelpTOCNode Title="B11 Field" Url="html/a8930e5b-4efa-0836-97b7-6552986bd6c5.htm" />
+          <HelpTOCNode Title="B2 Field" Url="html/0cb75e72-508e-46d9-6fba-a92f15f85eba.htm" />
+          <HelpTOCNode Title="B3 Field" Url="html/58fcd28b-7b7f-ac72-aa95-764c5e668b14.htm" />
+          <HelpTOCNode Title="B4 Field" Url="html/48dc1243-eaac-c062-3135-cfe3631199bc.htm" />
+          <HelpTOCNode Title="B5 Field" Url="html/afc5a851-a819-eb58-b0bf-33bf4fde20d4.htm" />
+          <HelpTOCNode Title="B6 Field" Url="html/6bba4e1c-2110-82a4-e204-6c03b4e1a75b.htm" />
+          <HelpTOCNode Title="B7 Field" Url="html/6b97f5ca-36a5-03d8-b3f8-92634813372a.htm" />
+          <HelpTOCNode Title="B8 Field" Url="html/7825fc5a-08ca-588f-71fb-4083662f4c49.htm" />
+          <HelpTOCNode Title="B9 Field" Url="html/36082922-35a9-7aae-35d4-a1d2ac4dbf55.htm" />
+          <HelpTOCNode Title="back_btn Field" Url="html/d24b706e-a0f8-081f-cd68-183279d65bb5.htm" />
+          <HelpTOCNode Title="blackImageBrush Field" Url="html/4f3ef8fc-d476-7af0-2311-77ab59a5a36c.htm" />
+          <HelpTOCNode Title="board Field" Url="html/fa337a99-206d-d056-d8bc-0826a878710c.htm" />
+          <HelpTOCNode Title="bw Field" Url="html/5bd9688f-5edb-4e14-6489-185a4a8dd2ad.htm" />
+          <HelpTOCNode Title="c_minuteCount Field" Url="html/22fae0e8-ad9b-4756-61a5-0843cd487be3.htm" />
+          <HelpTOCNode Title="c_msCount Field" Url="html/bb5cd312-09cc-d7cf-f34b-b101544e563d.htm" />
+          <HelpTOCNode Title="c_secondCount Field" Url="html/58b68405-ef30-839f-e91d-84378084ed7c.htm" />
+          <HelpTOCNode Title="C1 Field" Url="html/47ea79ae-23ea-7acd-a5df-c9134482a32c.htm" />
+          <HelpTOCNode Title="C10 Field" Url="html/7312f719-70fc-ebe9-2178-7f96e0d20cd0.htm" />
+          <HelpTOCNode Title="C11 Field" Url="html/29b2b57e-2119-8e22-d9f5-e5ae45f5652a.htm" />
+          <HelpTOCNode Title="C2 Field" Url="html/38c506c4-20e4-68a3-f99b-f2b9101c29fb.htm" />
+          <HelpTOCNode Title="C3 Field" Url="html/448ef297-dbce-4e2f-2ee1-c99d1b9dde6d.htm" />
+          <HelpTOCNode Title="C4 Field" Url="html/66d52745-d497-4816-d157-eeb64dd313b5.htm" />
+          <HelpTOCNode Title="C5 Field" Url="html/64f67047-11c0-e716-3348-49d8628ad6f4.htm" />
+          <HelpTOCNode Title="C6 Field" Url="html/9ddabd48-dddd-ae8b-60bf-62a746b2f343.htm" />
+          <HelpTOCNode Title="C7 Field" Url="html/d276420e-491a-4bad-08db-ea4315847ea7.htm" />
+          <HelpTOCNode Title="C8 Field" Url="html/e972bcc1-f010-24c9-2d3a-b11f7a8a3877.htm" />
+          <HelpTOCNode Title="C9 Field" Url="html/85eb635f-b040-f3ec-cdfe-26b3ed95d8f2.htm" />
+          <HelpTOCNode Title="checkMate Field" Url="html/d93ea4bb-2137-2877-107a-5271935bf20e.htm" />
+          <HelpTOCNode Title="cpu_timer_text Field" Url="html/c3e3a1d5-6a35-a589-704f-881972c62dd2.htm" />
+          <HelpTOCNode Title="cpuMovesTuple Field" Url="html/93e934f6-b725-efa0-28ef-ee4489d369dd.htm" />
+          <HelpTOCNode Title="D1 Field" Url="html/e5a4c733-3f7a-7dad-143e-78be54d509f2.htm" />
+          <HelpTOCNode Title="D10 Field" Url="html/343e6b78-ca96-b73a-e5c7-7003c403e103.htm" />
+          <HelpTOCNode Title="D11 Field" Url="html/09dd3adc-d7ee-ff63-a5b9-01090daf0720.htm" />
+          <HelpTOCNode Title="D2 Field" Url="html/93f5739e-4230-e32b-1141-723e3b440ac5.htm" />
+          <HelpTOCNode Title="D3 Field" Url="html/e1e2f6fa-449d-d6a1-9e93-ba5eb5cadb29.htm" />
+          <HelpTOCNode Title="D4 Field" Url="html/2dda3fd9-e485-a36e-4b33-4151327e65ab.htm" />
+          <HelpTOCNode Title="D5 Field" Url="html/25de53e3-fe1b-94ba-6e76-094667d62928.htm" />
+          <HelpTOCNode Title="D6 Field" Url="html/e5e62c07-3729-a736-7bda-dd89c53de5ac.htm" />
+          <HelpTOCNode Title="D7 Field" Url="html/a99bb5bf-4f57-5aa1-ff67-cf68dac84664.htm" />
+          <HelpTOCNode Title="D8 Field" Url="html/fa084068-f9ca-4a8d-fb9f-ef904e1a75b9.htm" />
+          <HelpTOCNode Title="D9 Field" Url="html/0c96d058-77b6-f03e-7109-cb649c350878.htm" />
+          <HelpTOCNode Title="E1 Field" Url="html/79506399-00bb-0e60-792d-131caa046a39.htm" />
+          <HelpTOCNode Title="E10 Field" Url="html/faa7adb0-c78b-07eb-979a-31a27affa568.htm" />
+          <HelpTOCNode Title="E11 Field" Url="html/0c4184bb-3e9b-1364-a055-a30b77f17248.htm" />
+          <HelpTOCNode Title="E2 Field" Url="html/535eef26-7bd5-2cc4-21c6-b8791e7e4f09.htm" />
+          <HelpTOCNode Title="E3 Field" Url="html/e32734cc-8cf4-6b37-22fd-09cdc485296b.htm" />
+          <HelpTOCNode Title="E4 Field" Url="html/24904907-1284-1a1b-cc16-13bd2d961618.htm" />
+          <HelpTOCNode Title="E5 Field" Url="html/10968804-60aa-4a11-5952-0b91348f6b70.htm" />
+          <HelpTOCNode Title="E6 Field" Url="html/a6bb52c1-e54b-dfc1-1d69-fd8a41c544cd.htm" />
+          <HelpTOCNode Title="E7 Field" Url="html/eb9d4896-37e2-a2be-4191-ee114ba1072d.htm" />
+          <HelpTOCNode Title="E8 Field" Url="html/0f68e2d1-091d-9b64-ca36-7f470c3a6b0c.htm" />
+          <HelpTOCNode Title="E9 Field" Url="html/969b8f85-d03b-f4a6-3b39-902645c9bca0.htm" />
+          <HelpTOCNode Title="F1 Field" Url="html/e0a446c6-350b-49aa-8cbb-9aaf3207b49c.htm" />
+          <HelpTOCNode Title="F10 Field" Url="html/8f91a9e1-e3a4-5015-e58d-9a4d97220739.htm" />
+          <HelpTOCNode Title="F11 Field" Url="html/009c8854-7110-11ea-b065-372891eefb40.htm" />
+          <HelpTOCNode Title="F2 Field" Url="html/0dc2f8b0-354d-b793-a665-27c69249150f.htm" />
+          <HelpTOCNode Title="F3 Field" Url="html/dfe6fece-fffc-c565-1f76-161f14558df6.htm" />
+          <HelpTOCNode Title="F4 Field" Url="html/3828d422-c139-f221-812a-f1f4af2acbbc.htm" />
+          <HelpTOCNode Title="F5 Field" Url="html/50a47220-9e01-50ab-776a-76a595c83966.htm" />
+          <HelpTOCNode Title="F6 Field" Url="html/82148b9a-4698-b842-7932-73ba868f7f51.htm" />
+          <HelpTOCNode Title="F7 Field" Url="html/f36bc687-7e0e-cb0f-6e2f-20f96e405eed.htm" />
+          <HelpTOCNode Title="F8 Field" Url="html/beb9234f-d878-2640-cc79-9c57b417166a.htm" />
+          <HelpTOCNode Title="F9 Field" Url="html/42dc25f3-1c82-f369-2016-678265c6e964.htm" />
+          <HelpTOCNode Title="fullscreen_btn Field" Url="html/da85f65b-ad0f-3916-02ef-3a7e92daaa65.htm" />
+          <HelpTOCNode Title="G1 Field" Url="html/8321217e-67a7-9858-b2e6-9603f305abef.htm" />
+          <HelpTOCNode Title="G10 Field" Url="html/f6a062a2-9fad-d521-4000-64ea51091d42.htm" />
+          <HelpTOCNode Title="G11 Field" Url="html/d601387c-2e59-ad75-4379-a8b689fd774d.htm" />
+          <HelpTOCNode Title="G2 Field" Url="html/af537339-e514-ef7b-8cf5-fdce7277efbc.htm" />
+          <HelpTOCNode Title="G3 Field" Url="html/7588c764-a697-073c-35fc-dbc9508d5e0f.htm" />
+          <HelpTOCNode Title="G4 Field" Url="html/745c37e1-6dc2-84ae-3942-596337b5ee64.htm" />
+          <HelpTOCNode Title="G5 Field" Url="html/97799c6c-1bbf-475c-3262-c67b19904efe.htm" />
+          <HelpTOCNode Title="G6 Field" Url="html/2e3b17eb-4a0f-d87a-7177-47507cdef5e6.htm" />
+          <HelpTOCNode Title="G7 Field" Url="html/7fadc90f-69ce-6c90-bf57-92de65ffda83.htm" />
+          <HelpTOCNode Title="G8 Field" Url="html/e264bc34-4b46-897e-ea26-237fa0f95021.htm" />
+          <HelpTOCNode Title="G9 Field" Url="html/fbc59dfe-854b-cc7a-11d2-2d1612d3c46f.htm" />
+          <HelpTOCNode Title="game Field" Url="html/6f1095b6-c611-3790-15de-f7a642e88f91.htm" />
+          <HelpTOCNode Title="gameStarted Field" Url="html/86f51ced-bc01-d568-670f-42c087ba9b22.htm" />
+          <HelpTOCNode Title="gameTimer Field" Url="html/3cda91d1-057e-f009-0fd1-13cfe0f0f317.htm" />
+          <HelpTOCNode Title="H1 Field" Url="html/5275e20d-76d4-c159-c09a-a88837bd3e8d.htm" />
+          <HelpTOCNode Title="H10 Field" Url="html/0a66c991-24a3-fed5-df67-240c425c2684.htm" />
+          <HelpTOCNode Title="H11 Field" Url="html/2670e4d5-b03d-de76-2c49-28451827a97c.htm" />
+          <HelpTOCNode Title="H2 Field" Url="html/8c00e86b-01ed-1224-77d5-6a0852509ec0.htm" />
+          <HelpTOCNode Title="H3 Field" Url="html/bb351087-8bd6-c630-0d3f-be4f6632893d.htm" />
+          <HelpTOCNode Title="H4 Field" Url="html/f984d1de-154d-24e4-449e-dee052bca4d5.htm" />
+          <HelpTOCNode Title="H5 Field" Url="html/a2995c01-4f97-4bd6-d1e7-b1cd7822d25f.htm" />
+          <HelpTOCNode Title="H6 Field" Url="html/351cd3ba-5a6a-4404-af30-d8fd8bd15532.htm" />
+          <HelpTOCNode Title="H7 Field" Url="html/e6583431-27c2-fb84-84ae-81c3c164e3a0.htm" />
+          <HelpTOCNode Title="H8 Field" Url="html/6327a34e-3764-fb65-4b7f-972560a5d1c8.htm" />
+          <HelpTOCNode Title="H9 Field" Url="html/ff59431d-e896-e6f0-02e1-57417d9fedd4.htm" />
+          <HelpTOCNode Title="I1 Field" Url="html/5484a0ef-2964-c8b7-3ba4-9215411d773f.htm" />
+          <HelpTOCNode Title="I10 Field" Url="html/81c74475-5b83-f7e3-5ed4-759a70107b22.htm" />
+          <HelpTOCNode Title="I11 Field" Url="html/2eb1b44d-99f2-e08e-686a-b825d5128e83.htm" />
+          <HelpTOCNode Title="I2 Field" Url="html/81bfb8f0-34ca-17cd-740a-6288857aeb38.htm" />
+          <HelpTOCNode Title="I3 Field" Url="html/3df3fd23-5b2d-2103-2307-ab8d9d5d50c9.htm" />
+          <HelpTOCNode Title="I4 Field" Url="html/8b3020d1-5553-8db0-6448-ad21bdfc387a.htm" />
+          <HelpTOCNode Title="I5 Field" Url="html/257882be-63c6-eaf5-cf2e-dea7a89fc6af.htm" />
+          <HelpTOCNode Title="I6 Field" Url="html/463025e2-f921-3632-8ac1-9751d09fee7b.htm" />
+          <HelpTOCNode Title="I7 Field" Url="html/2da028a1-160c-3d9a-0a1d-3c5774545e44.htm" />
+          <HelpTOCNode Title="I8 Field" Url="html/4b75db82-9d46-aa07-f8cc-5efb3dcd1351.htm" />
+          <HelpTOCNode Title="I9 Field" Url="html/1cce2940-4304-4a61-9b9b-01455f4c2f0f.htm" />
+          <HelpTOCNode Title="image Field" Url="html/8a3c0d5d-ec53-2200-7834-a89a4e0a75b1.htm" />
+          <HelpTOCNode Title="image_Copy Field" Url="html/9438bfdd-570a-2542-54e9-805140a02cfa.htm" />
+          <HelpTOCNode Title="J1 Field" Url="html/a42fb340-54ea-eac5-1718-ba6f4ca54fe9.htm" />
+          <HelpTOCNode Title="J10 Field" Url="html/a9b0978b-ec03-7fd7-b4b7-095bbcab36c3.htm" />
+          <HelpTOCNode Title="J11 Field" Url="html/4e8eaeb9-b9bd-fd5a-3d76-c58a5691f895.htm" />
+          <HelpTOCNode Title="J2 Field" Url="html/a25c6666-b737-214b-d1b6-772d2caee1c2.htm" />
+          <HelpTOCNode Title="J3 Field" Url="html/e4fa4163-7295-8fc3-43c5-bf459e146d9a.htm" />
+          <HelpTOCNode Title="J4 Field" Url="html/85b9740f-946f-1d0b-3202-370bba8f3614.htm" />
+          <HelpTOCNode Title="J5 Field" Url="html/b9181f58-c0b0-c3af-d283-f0544307b14a.htm" />
+          <HelpTOCNode Title="J6 Field" Url="html/1f136f0f-85b3-4fab-b6ef-ebcc9d3c1e0d.htm" />
+          <HelpTOCNode Title="J7 Field" Url="html/492d6457-ead2-bf02-805f-f813485b2a4a.htm" />
+          <HelpTOCNode Title="J8 Field" Url="html/1f9da45f-33e8-1284-e1c4-422c831e0bea.htm" />
+          <HelpTOCNode Title="J9 Field" Url="html/aaf549fa-aa7e-5d65-9b9a-edfe2a884c7c.htm" />
+          <HelpTOCNode Title="K1 Field" Url="html/4fe6e888-a7bb-b065-593e-29127ed56129.htm" />
+          <HelpTOCNode Title="K10 Field" Url="html/59b9209f-8067-f6ed-93ae-896ec04b2d4e.htm" />
+          <HelpTOCNode Title="K11 Field" Url="html/9b6b08f8-2f0c-de80-08b8-405d62c20f3d.htm" />
+          <HelpTOCNode Title="K2 Field" Url="html/f2fec3ec-3804-81c3-6254-b27e56524736.htm" />
+          <HelpTOCNode Title="K3 Field" Url="html/5e17daa6-e900-bf96-1cef-7ced550ac6af.htm" />
+          <HelpTOCNode Title="K4 Field" Url="html/e852fb07-fff4-a195-2dd3-897bc14ce489.htm" />
+          <HelpTOCNode Title="K5 Field" Url="html/f80f515b-280b-4056-af54-b440b3159bae.htm" />
+          <HelpTOCNode Title="K6 Field" Url="html/5ab81718-3a65-d863-17c9-36bb57088568.htm" />
+          <HelpTOCNode Title="K7 Field" Url="html/ea86aca1-2eaf-b470-a848-48aa3dddd580.htm" />
+          <HelpTOCNode Title="K8 Field" Url="html/7c6c250c-321a-2998-0b33-bfb559d09ef8.htm" />
+          <HelpTOCNode Title="K9 Field" Url="html/1825b30c-07ff-b1f8-1e85-45d5d05591d0.htm" />
+          <HelpTOCNode Title="kingImageBrush Field" Url="html/7f34a2e8-21e7-3896-c4bf-6d6e0074d783.htm" />
+          <HelpTOCNode Title="lastTappedRect Field" Url="html/743f5534-3887-5476-43bb-08cde63a15f2.htm" />
+          <HelpTOCNode Title="mctsBoard Field" Url="html/052f5d9f-aec2-72c5-9fc0-b021076a9620.htm" />
+          <HelpTOCNode Title="minuteCount Field" Url="html/c46df657-cc14-0ba0-76a4-fd03801acbc9.htm" />
+          <HelpTOCNode Title="msCount Field" Url="html/95d08ebc-d5f0-f55c-6202-093c3af522b8.htm" />
+          <HelpTOCNode Title="p_minuteCount Field" Url="html/b211ff23-d334-1677-d7b1-bff5dfc98366.htm" />
+          <HelpTOCNode Title="p_msCount Field" Url="html/d0c30b25-279e-750b-c3c7-bb75f45475fc.htm" />
+          <HelpTOCNode Title="p_secondCount Field" Url="html/c1dcfc2f-140f-7a6b-fb59-ff85fc2c5a78.htm" />
+          <HelpTOCNode Title="p1MoveList Field" Url="html/4a11ab07-9be2-8c27-5e29-5304d01063a2.htm" />
+          <HelpTOCNode Title="p1MoveListText Field" Url="html/01c4aa19-f4bc-3143-ba90-d5d0dfdb2bd2.htm" />
+          <HelpTOCNode Title="p1TurnIndicator Field" Url="html/18f14391-5b39-d62c-e9d0-ff5ff69b8e5a.htm" />
+          <HelpTOCNode Title="p2MoveList Field" Url="html/400502df-719f-e790-ca5d-3bb842d8ac89.htm" />
+          <HelpTOCNode Title="p2MoveListText Field" Url="html/9679fa05-3b58-7494-096e-0046fd325097.htm" />
+          <HelpTOCNode Title="p2TurnIndicator Field" Url="html/da710e31-69db-e0a7-89bb-d35f30b4d469.htm" />
+          <HelpTOCNode Title="parameters Field" Url="html/18696f4e-5c70-10de-0a9f-d6266cbed77e.htm" />
+          <HelpTOCNode Title="player_timer_text Field" Url="html/20e8c2e6-1948-8d77-b7dd-d296e2ce5c73.htm" />
+          <HelpTOCNode Title="player1Rectangle Field" Url="html/28a7ec02-5530-ad78-fe1c-8f960a1325c8.htm" />
+          <HelpTOCNode Title="player1Text Field" Url="html/b7d9a1ff-01e0-1796-55fd-f627454239f8.htm" />
+          <HelpTOCNode Title="player2Rectangle Field" Url="html/4bc81449-c9b0-fd29-213c-bd835ce84640.htm" />
+          <HelpTOCNode Title="player2Text Field" Url="html/2e09ead6-9bf5-4efc-76bd-17be3b0f3363.htm" />
+          <HelpTOCNode Title="playerOneStarted Field" Url="html/c15fd4b1-2819-0bcf-934e-246b875e197e.htm" />
+          <HelpTOCNode Title="playerOneTimer Field" Url="html/f5fb66c9-7199-a1ab-7fad-81e9d7fb131e.htm" />
+          <HelpTOCNode Title="playerTwoStarted Field" Url="html/931ff5ef-5783-4ea8-499e-c72ed6ff25a0.htm" />
+          <HelpTOCNode Title="playerTwoTimer Field" Url="html/5898f2d6-82bb-4ce8-1f9d-a452dc1bb230.htm" />
+          <HelpTOCNode Title="rectArr Field" Url="html/eba5fd3b-0ea7-e367-2f94-fad5a520ec73.htm" />
+          <HelpTOCNode Title="resignBtn1 Field" Url="html/ce0649fc-487d-a083-2daa-2c33453ea7b5.htm" />
+          <HelpTOCNode Title="resignBtn2 Field" Url="html/e3c46d38-585f-e5ec-79cf-e07c1c8524f5.htm" />
+          <HelpTOCNode Title="scrollViewerLeft Field" Url="html/e3c1860d-0b34-49ed-5c5c-d9d50139eceb.htm" />
+          <HelpTOCNode Title="scrollViewerRight Field" Url="html/059f2254-6e3b-2cd2-a7a8-10c7f389e992.htm" />
+          <HelpTOCNode Title="secondCount Field" Url="html/ba1084e3-e175-0108-c32a-02021222db41.htm" />
+          <HelpTOCNode Title="stationaryStrokeBrush Field" Url="html/aa195ebb-d238-255a-01a8-855b5de003d0.htm" />
+          <HelpTOCNode Title="strokeThickness Field" Url="html/9d2f36df-7ad9-8ab9-1823-c22a0d5e0a4e.htm" />
+          <HelpTOCNode Title="timer_text Field" Url="html/a8f36f71-7b45-372d-ed15-261d5ff990b0.htm" />
+          <HelpTOCNode Title="transformingStrokeBrush Field" Url="html/f8498d43-20e3-8466-a4e5-b34f58235509.htm" />
+          <HelpTOCNode Title="transformingStrokeThickness Field" Url="html/d5dd2b3f-e6f8-7a35-f292-67379bf93a49.htm" />
+          <HelpTOCNode Title="UndoBtn1 Field" Url="html/01631249-26a9-93df-961e-cbce52ac09c8.htm" />
+          <HelpTOCNode Title="UndoBtn2 Field" Url="html/0918e4ee-5e33-abe2-7c78-07878414a1cc.htm" />
+          <HelpTOCNode Title="whiteImageBrush Field" Url="html/1f3118f2-7f03-d628-99f7-a8170b10ac94.htm" />
+          <HelpTOCNode Title="winText Field" Url="html/ac2e27d1-d939-89be-24f5-2bf94e04a27b.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="72b8bd40-b5fd-471b-a2aa-fa3700f0b693" Title="VikingChess.Model" Url="html/3e44f708-1696-92dd-ffdf-6fe2ef950316.htm">
+      <HelpTOCNode Id="c6dc3c1d-e6a6-4da7-acf2-7725e5ac92b4" Title="Board Class" Url="html/ae9585ad-a98b-9a2e-e4a8-8a29f5674205.htm">
+        <HelpTOCNode Id="099bc39e-63db-4346-83a5-03ab32a6d4cc" Title="Board Constructor " Url="html/ce448461-aabc-4f3a-3ddb-f06c8250d094.htm">
+          <HelpTOCNode Title="Board Constructor (Board)" Url="html/7fd3488e-1da8-cf23-2765-4d5c93f99941.htm" />
+          <HelpTOCNode Title="Board Constructor (Int32, String)" Url="html/f6d12c52-39d5-6d8d-35b0-6d4b70fbf841.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="27f6921d-1bc7-47f1-9757-5201823611b0" Title="Board Methods" Url="html/31450387-64c4-ad48-4094-d9ac5a70e939.htm">
+          <HelpTOCNode Title="countPieces Method " Url="html/57ad4411-59c7-bfdc-f12b-7e002177f398.htm" />
+          <HelpTOCNode Title="decrementBlackCount Method " Url="html/7fe1169a-d47c-5986-1ea5-2fe7d6c2b3c5.htm" />
+          <HelpTOCNode Title="decrementWhiteCount Method " Url="html/cebfb3f4-8f96-d386-5416-d9337b407789.htm" />
+          <HelpTOCNode Title="GetBoard Method " Url="html/eb93abdf-4e79-efdd-e20f-3193748fff2f.htm" />
+          <HelpTOCNode Title="getCurrentPlayer Method " Url="html/3fe3ec9e-fb45-7012-c9ef-c9b87c8bcd07.htm" />
+          <HelpTOCNode Title="getGameType Method " Url="html/c8427b11-9460-21ce-d0fc-3e0219a2633f.htm" />
+          <HelpTOCNode Title="GetPosition Method " Url="html/789c6d44-c35e-dcaf-ef5a-b83a4a4952e1.htm" />
+          <HelpTOCNode Title="GetSize Method " Url="html/9a4205ad-51e9-a91b-105f-f232e376975e.htm" />
+          <HelpTOCNode Title="GetSquare Method " Url="html/36e9e344-a4d3-a8e2-6d8b-1061f1768168.htm" />
+          <HelpTOCNode Title="InitializeBoard Method " Url="html/2861b9a3-985a-c47f-4593-0019fe905cc9.htm" />
+          <HelpTOCNode Title="PrintBoard Method " Url="html/3e23918a-e401-a148-a2ec-b9d568eae998.htm" />
+          <HelpTOCNode Title="setArdRiPieces Method " Url="html/51bfeade-521d-a6ca-64bb-6983dcb20ac0.htm" />
+          <HelpTOCNode Title="setBrandubhPieces Method " Url="html/2b874a43-de68-2497-64fd-97bd1c3230ad.htm" />
+          <HelpTOCNode Title="setCurrentPlayer Method " Url="html/f444bf9c-c2fe-4a71-c286-6e062305af2a.htm" />
+          <HelpTOCNode Title="setHnefataflPieces Method " Url="html/3e4e2802-421f-5385-6d83-38bf4b858427.htm" />
+          <HelpTOCNode Title="SetNeighbours Method " Url="html/665af797-7d8d-09ac-88fd-0292fe100020.htm" />
+          <HelpTOCNode Title="SetPieces Method " Url="html/e54a613a-9c8e-e04e-5893-d1afe7891bc0.htm" />
+          <HelpTOCNode Title="SetSpecialSquares Method " Url="html/3ed417c7-0a3d-b2ba-62bd-d78c30510e9c.htm" />
+          <HelpTOCNode Title="SetSquare Method " Url="html/b9acdf91-4de0-3665-91f0-ad9facfd0d38.htm" />
+          <HelpTOCNode Title="setTablutPieces Method " Url="html/1bb96f06-0aa9-4223-1a22-201236ec06b4.htm" />
+          <HelpTOCNode Title="setTawlbwrddPieces Method " Url="html/4cf78c3c-3126-5ae4-c27f-08975c3911df.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/8b261c05-f637-969a-f436-854e9cc63ccc.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ece55939-03ed-4484-bf40-40837128a7e8" Title="Board Fields" Url="html/352b0531-5945-4666-f108-f11277ec61a2.htm">
+          <HelpTOCNode Title="blackPieces Field" Url="html/1eb45fad-6662-58a2-ca7c-12ad3c53e200.htm" />
+          <HelpTOCNode Title="board Field" Url="html/64fe4436-2f9a-fd9c-f1c6-b1d3cae0b976.htm" />
+          <HelpTOCNode Title="currentPlayer Field" Url="html/180bdbd8-a837-d177-5df2-a15524969636.htm" />
+          <HelpTOCNode Title="gameType Field" Url="html/6ddae8c2-7421-1485-bcee-11bf7e3f9448.htm" />
+          <HelpTOCNode Title="size Field" Url="html/4ba66b4d-8e8a-fb8d-83e9-051f9ed22dd9.htm" />
+          <HelpTOCNode Title="whitePieces Field" Url="html/6cd3d6cd-faae-3b7c-1028-e3aadfc090f2.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6debc878-ddc9-4d11-8e64-df77f7a52516" Title="Enums Class" Url="html/717daf6f-f680-5bfa-5e2c-51e504944dc0.htm">
+        <HelpTOCNode Title="Enums Constructor " Url="html/547c0ad1-4274-7427-1d0b-586bf5931e55.htm" />
+        <HelpTOCNode Title="Enums Methods" Url="html/c3077b3b-fecc-7ac3-85e5-ffbeb5f133ba.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1af1f49c-8fb7-4c43-8ac1-657843bb2ca8" Title="Enums.Color Class" Url="html/6a52ae81-3b47-1def-2bc7-eada59ead46f.htm">
+        <HelpTOCNode Title="Color Methods" Url="html/eaa0ee44-604e-3e5a-54db-f97ff20aed65.htm" />
+        <HelpTOCNode Id="b73f267f-7c7e-434f-b372-566f9030c5de" Title="Color Fields" Url="html/0b4c6269-e1fb-572d-247a-3905755b52d9.htm">
+          <HelpTOCNode Title="BLACK Field" Url="html/187d7e41-b0c9-fb6c-e7ea-00445b050683.htm" />
+          <HelpTOCNode Title="value__ Field" Url="html/d368a175-2710-8d63-cbf1-4ec70924c42b.htm" />
+          <HelpTOCNode Title="WHITE Field" Url="html/5153a7e1-9fb0-81a3-0431-97a7670edcf9.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d54e5617-9dc1-4488-a72b-ad9cc8fc1d75" Title="Enums.File Class" Url="html/8a97d5e0-2f65-974f-69f9-8e2dcead80e6.htm">
+        <HelpTOCNode Title="File Methods" Url="html/b4603263-0fb0-3847-b6ee-5f220bb4d252.htm" />
+        <HelpTOCNode Id="bbbe9c63-f4d0-4c9e-8790-4563217061b9" Title="File Fields" Url="html/4190d938-d8d5-3411-c255-3aff7b646c10.htm">
+          <HelpTOCNode Title="A Field" Url="html/107fb18f-ee80-54b3-744b-3b60e84c2b0a.htm" />
+          <HelpTOCNode Title="B Field" Url="html/45cdb1a1-6c8a-7f83-efe9-397c203cd800.htm" />
+          <HelpTOCNode Title="C Field" Url="html/c68cb174-5c36-cffe-b361-759d550b065d.htm" />
+          <HelpTOCNode Title="D Field" Url="html/16847d8f-02f6-2069-aec7-268b1024c7c4.htm" />
+          <HelpTOCNode Title="E Field" Url="html/fb8dcc72-6a15-0680-a94e-3edcad47956a.htm" />
+          <HelpTOCNode Title="F Field" Url="html/7dc5a930-bb91-9000-1bad-53912fbd8f89.htm" />
+          <HelpTOCNode Title="G Field" Url="html/93af47ba-7738-ba31-e714-d61977c3d924.htm" />
+          <HelpTOCNode Title="H Field" Url="html/bb5240f9-6617-f897-b276-9e22b86a868e.htm" />
+          <HelpTOCNode Title="I Field" Url="html/82675593-c2c0-50f8-5ece-659a41bb7166.htm" />
+          <HelpTOCNode Title="J Field" Url="html/8fad1165-9cd6-aaee-7e76-82f717dff8ab.htm" />
+          <HelpTOCNode Title="K Field" Url="html/311dcf23-86b2-2f89-a638-7b9338b6e85e.htm" />
+          <HelpTOCNode Title="value__ Field" Url="html/5220d91c-3ca8-c373-11c2-38f7d2739a7d.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d04bc76e-2bc5-4c00-a6a8-f2f5dec2121e" Title="Enums.PieceType Class" Url="html/c52d609b-48ff-9cbb-1308-ee3835711bda.htm">
+        <HelpTOCNode Title="PieceType Methods" Url="html/1f1f1e11-1d79-a82e-a258-ab9f10b74e2f.htm" />
+        <HelpTOCNode Id="a383496b-44ac-41ed-9d9d-d18dd6ae5ba8" Title="PieceType Fields" Url="html/625f0dd5-a84e-ab2f-0c6b-24fd5032c0f9.htm">
+          <HelpTOCNode Title="KING Field" Url="html/5522a8fa-1248-11dc-8352-53a751254ce6.htm" />
+          <HelpTOCNode Title="PAWN Field" Url="html/0a7a519b-4f37-3102-2559-998427040f0f.htm" />
+          <HelpTOCNode Title="value__ Field" Url="html/62410407-84cb-e307-2ef8-17c06d1ba6e6.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="689335b7-8a90-4131-ae06-6f5c43279d12" Title="Enums.PlayerType Class" Url="html/1b7987cf-3d9a-5ebb-9c07-d6c3d4ffe648.htm">
+        <HelpTOCNode Title="PlayerType Methods" Url="html/f7242da1-acdc-b54c-8151-6f080129cd32.htm" />
+        <HelpTOCNode Id="d7b4aa61-b207-4fff-95fc-bfdfc243f2a6" Title="PlayerType Fields" Url="html/af242d50-9e98-ba7d-9ba9-57ac281b16c3.htm">
+          <HelpTOCNode Title="CPU Field" Url="html/edc1e6f7-d98f-335d-9aaf-f4e68bd584c1.htm" />
+          <HelpTOCNode Title="HUMAN Field" Url="html/1d1df512-b780-155f-84a0-aa1bfc0bb792.htm" />
+          <HelpTOCNode Title="value__ Field" Url="html/e5c5f95d-8f3d-b095-d215-684ffc45ae74.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="311daf39-0bc7-49a7-9226-7cc9e7461bdd" Title="Enums.Rank Class" Url="html/3285e8c6-a6b6-a15c-1203-0a64f00238f3.htm">
+        <HelpTOCNode Title="Rank Methods" Url="html/fb7812e8-1ca4-9a92-668c-01306586cd06.htm" />
+        <HelpTOCNode Id="a6969ee3-c659-41cf-9a61-4cdf704b61e9" Title="Rank Fields" Url="html/df651dfb-a2f9-9108-b8eb-984f950b8f40.htm">
+          <HelpTOCNode Title="Eight Field" Url="html/a5206744-4f9e-091c-6b15-dd3a57c94c60.htm" />
+          <HelpTOCNode Title="Eleven Field" Url="html/6e8f88a6-79f5-a0d3-a3b0-7c56e3a0fed5.htm" />
+          <HelpTOCNode Title="Five Field" Url="html/8b338c4d-9206-69a8-9eac-de9ac33a70ef.htm" />
+          <HelpTOCNode Title="Four Field" Url="html/9481eb64-32bf-59f0-51c4-ce1cabcac9be.htm" />
+          <HelpTOCNode Title="Nine Field" Url="html/16644e44-6a33-1468-9fd9-a54b42b1821a.htm" />
+          <HelpTOCNode Title="None Field" Url="html/c0847f14-1116-2b77-acd1-3ae461b0f376.htm" />
+          <HelpTOCNode Title="One Field" Url="html/c3d2a4b7-950a-09bf-b9a0-6e84cd532010.htm" />
+          <HelpTOCNode Title="Seven Field" Url="html/59c7d783-a42b-c7d2-8bee-d73ae24d7e52.htm" />
+          <HelpTOCNode Title="Six Field" Url="html/f1a00031-f294-8396-f335-5b0a35f56d80.htm" />
+          <HelpTOCNode Title="Ten Field" Url="html/68a2839a-037c-2198-3a75-000a3cbee991.htm" />
+          <HelpTOCNode Title="Three Field" Url="html/b7336467-fcd8-37f0-9219-4ed45a73a336.htm" />
+          <HelpTOCNode Title="Two Field" Url="html/e81591a9-dd54-0c00-2bdf-b22bac80c591.htm" />
+          <HelpTOCNode Title="value__ Field" Url="html/897a81a4-f7c2-69fa-a623-55a5bed5a4cf.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="90547744-f26c-46b2-b55b-97e78e0fbefb" Title="Enums.SquareType Class" Url="html/02d02df1-11bd-81a1-c915-b9da86aa8eeb.htm">
+        <HelpTOCNode Title="SquareType Methods" Url="html/a3e4145d-95fe-04da-4a17-8ec8b60fdb13.htm" />
+        <HelpTOCNode Id="d913869b-b498-47e9-9be3-44dc457d56ae" Title="SquareType Fields" Url="html/732457ac-bff4-2d73-6974-ecb7c6b50a35.htm">
+          <HelpTOCNode Title="CORNER Field" Url="html/15b6d69b-6293-cc41-1f8d-bd4dc4afa4bc.htm" />
+          <HelpTOCNode Title="REGULAR Field" Url="html/79bc87d4-02f1-25fd-eb26-c09d6f0c2028.htm" />
+          <HelpTOCNode Title="THRONE Field" Url="html/7773686a-e4ad-2171-63bc-1b1420113d67.htm" />
+          <HelpTOCNode Title="value__ Field" Url="html/4ed13838-7fd9-5439-6cfd-d4b142b2c258.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fb7a8e2c-8cbe-4403-8496-62614bf3dd98" Title="Game Class" Url="html/23726228-a3a2-a63e-b539-731e7e8ca284.htm">
+        <HelpTOCNode Id="19b2c9e6-949d-498f-b2b0-6f8193ccda7d" Title="Game Constructor " Url="html/8ab7ba93-d214-7149-69c1-28c2d6a2131e.htm">
+          <HelpTOCNode Title="Game Constructor " Url="html/0fc4d877-98f3-38ad-3e27-c45c7f8108c8.htm" />
+          <HelpTOCNode Title="Game Constructor (Board)" Url="html/1d45e4e7-fdbc-fb63-0299-7f98bc3d5c47.htm" />
+          <HelpTOCNode Title="Game Constructor (Board, Boolean)" Url="html/a3ba9905-cb1f-7b4e-34f2-4aca6d317f7d.htm" />
+          <HelpTOCNode Title="Game Constructor (Board, Tuple(String, String, String, String, String))" Url="html/6ed42c21-cceb-41c4-b79e-01d04eb499ef.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="0e25dd35-0266-49b7-aec7-9989886e544c" Title="Game Methods" Url="html/5df269dd-921e-9c8f-d2be-7904c5be1311.htm">
+          <HelpTOCNode Title="captureKing Method " Url="html/31ea9d8c-53a0-e4d1-9947-636dfecee8a4.htm" />
+          <HelpTOCNode Title="capturePiece Method " Url="html/0030c31e-22ca-aafe-9f8b-01028024c334.htm" />
+          <HelpTOCNode Title="checkCapture Method " Url="html/1fa122cc-9643-f330-f855-1a82b38fad34.htm" />
+          <HelpTOCNode Title="checkKingMoves Method " Url="html/603f1be2-cc3e-6121-91c6-c3a7673509c7.htm" />
+          <HelpTOCNode Title="checkWin Method " Url="html/07684660-54af-34ab-88d3-e99f2c607f21.htm" />
+          <HelpTOCNode Title="getBoard Method " Url="html/d64e4686-76a1-5090-c929-69acbc9245b2.htm" />
+          <HelpTOCNode Title="getCurrentPlayer Method " Url="html/098e1305-a9d9-49ea-b23b-79f72f73f694.htm" />
+          <HelpTOCNode Title="getPlayer1 Method " Url="html/940bec55-1301-d1fc-d700-83429ca1b464.htm" />
+          <HelpTOCNode Title="getPlayer2 Method " Url="html/c76e9a1b-69db-5ea5-41a8-f55e7aaeea17.htm" />
+          <HelpTOCNode Title="getTurnCount Method " Url="html/682fc3e6-a393-f0d7-0adb-d4f8aa2056c7.htm" />
+          <HelpTOCNode Title="movePiece Method " Url="html/93128f4f-3ace-7b8e-3aaf-889ff6bb311c.htm" />
+          <HelpTOCNode Title="movePieceAndGetBoard Method " Url="html/884ba291-cd33-85ab-f3fe-f00c7e779aeb.htm" />
+          <HelpTOCNode Title="PlaySound Method " Url="html/defeef54-4390-f1ed-7f17-0b20d0193e29.htm" />
+          <HelpTOCNode Title="setCurrentPlayer Method " Url="html/0cfa07d7-b8ea-73bb-d0ee-8a32cd925103.htm" />
+          <HelpTOCNode Title="setScore Method " Url="html/2fb93801-c575-9479-4bad-379f9ec5f638.htm" />
+          <HelpTOCNode Title="undoMove Method " Url="html/c05e4b3a-4a03-062b-b2f3-470e16bffd95.htm" />
+          <HelpTOCNode Title="updateCurrentPlayer Method " Url="html/194c6f3a-82fd-ca6e-1599-3373533ac900.htm" />
+          <HelpTOCNode Title="updateTurnCount Method " Url="html/22c285fe-9af7-0dcb-c7eb-555791030f68.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="08355a83-869c-4b92-a8f5-18fbdce2aa91" Title="Game Fields" Url="html/ac623274-47f4-dc38-a20f-65120c619f33.htm">
+          <HelpTOCNode Title="blackPieces Field" Url="html/3c7a5c52-f757-532b-505f-ffca5706842b.htm" />
+          <HelpTOCNode Title="board Field" Url="html/6ff7c7bd-54b6-3524-2d67-dddf89cb1044.htm" />
+          <HelpTOCNode Title="capturedPiece Field" Url="html/a40e4d40-645c-2b5c-8a78-5790dd580b5d.htm" />
+          <HelpTOCNode Title="currentPlayer Field" Url="html/45436dc5-bb6e-d8d1-1003-df931c2b21d5.htm" />
+          <HelpTOCNode Title="gameOver Field" Url="html/0b5a767c-dc7d-570c-d843-c4c5ccd42a3e.htm" />
+          <HelpTOCNode Title="gameType Field" Url="html/efc0826b-fb11-7766-9ff5-b20b10fd05db.htm" />
+          <HelpTOCNode Title="kingCaptured Field" Url="html/55c91b84-470a-9b46-a3cf-87eedd36ea9f.htm" />
+          <HelpTOCNode Title="kingEscaped Field" Url="html/ef85f4f5-4601-f9e3-b389-00f31e472537.htm" />
+          <HelpTOCNode Title="moveNotation Field" Url="html/df330b15-0a6a-3daf-f14a-6ea78b56d25e.htm" />
+          <HelpTOCNode Title="pieceCaptured Field" Url="html/64b2ac8d-3f78-a8bc-ebef-940db9ec6eef.htm" />
+          <HelpTOCNode Title="player1 Field" Url="html/8e9bbd13-c8f6-228c-bcaf-90dac4f00b91.htm" />
+          <HelpTOCNode Title="player2 Field" Url="html/0bfecd63-9cdd-3bde-e9da-d1cfae6b734a.htm" />
+          <HelpTOCNode Title="score Field" Url="html/7c97c31a-d4d4-7a1a-d3e0-71f392fec994.htm" />
+          <HelpTOCNode Title="simulated Field" Url="html/7585b43e-e43d-9a0c-15f3-15be71af4de1.htm" />
+          <HelpTOCNode Title="stateHistory Field" Url="html/5b5e65b2-4226-e1a8-ea9a-b32b17b748ba.htm" />
+          <HelpTOCNode Title="turnCount Field" Url="html/5d37bb1f-b411-dfe2-9844-805ab32976ea.htm" />
+          <HelpTOCNode Title="whitePieces Field" Url="html/ad37dfcf-9539-efca-7d1a-7920661969f4.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f5269198-0bc1-4a6e-b24e-c603ea3f6dd4" Title="MCTS Class" Url="html/f41168fb-c9cd-986c-4257-3ef9308242f9.htm">
+        <HelpTOCNode Title="MCTS Constructor " Url="html/32ad6a94-38ce-2a05-0f43-d66dcac1271b.htm" />
+        <HelpTOCNode Id="59370695-a413-46e8-9b42-448a31448ccb" Title="MCTS Methods" Url="html/4906efc2-a705-96c1-5eab-ff3fac14d39f.htm">
+          <HelpTOCNode Title="evaluateBoard Method " Url="html/02824a50-da02-37c4-452f-405ab5fb4a59.htm" />
+          <HelpTOCNode Title="evaluateControl Method " Url="html/feca4c78-369c-1b18-04ce-a11496dc889e.htm" />
+          <HelpTOCNode Title="generateNodes Method " Url="html/3da8352d-769c-b44e-3667-8185c8b5c899.htm" />
+          <HelpTOCNode Title="makeMove Method " Url="html/0d94e111-9509-734d-e603-f778ddd84382.htm" />
+          <HelpTOCNode Title="PerformSteps Method " Url="html/61cd2414-6dd0-45ab-3bdb-4a4bc6fb61b4.htm" />
+          <HelpTOCNode Title="scorePieces Method " Url="html/5f9cf102-725c-1c9c-c033-a39bbffc9d25.htm" />
+          <HelpTOCNode Title="SimulateGame Method " Url="html/72e2a4ff-5948-8fd5-23c9-3446b6e9f439.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="613584fb-28ef-42d0-8654-07a544027dcd" Title="MCTS Fields" Url="html/3d447c79-a45e-375d-e0a0-7579cf28165b.htm">
+          <HelpTOCNode Title="alphaPlayer Field" Url="html/dbbb458f-27c1-56ee-5fb9-bb55fc5dc5a7.htm" />
+          <HelpTOCNode Title="LOSS_POINTS Field" Url="html/942bd190-5e2c-7601-7a8d-f39431693634.htm" />
+          <HelpTOCNode Title="PLAYOUTS Field" Url="html/b937c907-2ba6-927f-d84a-5a124ecdf2d6.htm" />
+          <HelpTOCNode Title="root Field" Url="html/24f27df7-0466-9577-7fd6-c2008607ff4c.htm" />
+          <HelpTOCNode Title="SIM_TURNCOUNT Field" Url="html/c2943153-5bf9-580f-c4fd-8fbaeac2e90e.htm" />
+          <HelpTOCNode Title="WIN_POINTS Field" Url="html/ab513385-6424-6284-c364-bc82b3802c9e.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1e741b3b-8273-4a13-ae83-427dda88b9df" Title="NamespaceDoc Class" Url="html/24a817e1-1825-471e-fea1-d1cbcd97cb29.htm">
+        <HelpTOCNode Title="NamespaceDoc Constructor " Url="html/24bde5e3-6860-da5a-aeb2-bf438677806a.htm" />
+        <HelpTOCNode Title="NamespaceDoc Methods" Url="html/7c95b4e6-3510-cc9a-e758-d5f00a217384.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="95699128-b375-4e2c-b960-0e29325dcb72" Title="Node Class" Url="html/8f8524f2-1cf1-2ff9-9d6c-f2674b776468.htm">
+        <HelpTOCNode Id="92789eb0-44a8-48a8-a8e1-9d3e166f0e0f" Title="Node Constructor " Url="html/539e3bc8-99a1-d9e7-ecea-8a97e744331c.htm">
+          <HelpTOCNode Title="Node Constructor (Board)" Url="html/7060623a-928e-d71c-994a-ab154105e39a.htm" />
+          <HelpTOCNode Title="Node Constructor (Node)" Url="html/36807143-0cb1-6329-9ecd-8e3880949308.htm" />
+          <HelpTOCNode Title="Node Constructor (Board, Node)" Url="html/b08e152a-2dac-4be0-245d-6325998f881a.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c622475d-4792-45ad-9fb4-feadde0ad167" Title="Node Methods" Url="html/56d70be9-be66-9533-1d69-125eb9d65e3b.htm">
+          <HelpTOCNode Title="AddChild Method " Url="html/27261d5a-db8b-d3fa-d66d-730e489cdb7b.htm" />
+          <HelpTOCNode Title="ExpandNode Method " Url="html/51ca487a-6666-fa4b-061d-d91b286817a1.htm" />
+          <HelpTOCNode Title="getBestChild Method " Url="html/34e5e440-34c6-4d48-6df0-75f7eb22a1d8.htm" />
+          <HelpTOCNode Title="GetBoard Method " Url="html/a8b0ec18-1270-c20e-8d4e-68db5f133db7.htm" />
+          <HelpTOCNode Title="GetChildren Method " Url="html/514e2733-36fd-5272-2a40-c0873be8100c.htm" />
+          <HelpTOCNode Title="GetLastMove Method " Url="html/d614a07b-9418-9b26-f41a-f93e153434a5.htm" />
+          <HelpTOCNode Title="GetParent Method " Url="html/a1316ef8-3d66-8edf-ddbc-10e0e6e225bc.htm" />
+          <HelpTOCNode Title="GetScore Method " Url="html/619d5eda-7ba5-f92f-6954-d3ebe650ec0f.htm" />
+          <HelpTOCNode Title="GetVisits Method " Url="html/315afed3-0489-2de5-3cef-ee60a4fe8494.htm" />
+          <HelpTOCNode Title="getWin Method " Url="html/65b31d0c-021c-f779-89d1-aebabd856c4f.htm" />
+          <HelpTOCNode Title="getWinChance Method " Url="html/c14684e0-210e-4e7d-f699-ddcc16227b5c.htm" />
+          <HelpTOCNode Title="isLeaf Method " Url="html/7ed3df10-34f4-86b9-fb11-85b9d5baae79.htm" />
+          <HelpTOCNode Title="setLastMove Method " Url="html/705b3a36-9b0d-2360-8cfb-dcc07657cad7.htm" />
+          <HelpTOCNode Title="setWin Method " Url="html/2697d7f1-ae9b-3935-72d6-ae95e7bfea51.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/d5e0b614-4b30-8ba2-32b4-2f1a8d8c11a6.htm" />
+          <HelpTOCNode Title="UCTSelectBest Method " Url="html/9f753429-1593-926f-0150-bc9e7ced974d.htm" />
+          <HelpTOCNode Title="updateScore Method " Url="html/f7ac69fa-3d84-4166-64fa-3a14a2b4c7c2.htm" />
+          <HelpTOCNode Title="updateStats Method " Url="html/45a587ff-1723-740e-8d97-0bfb39047eb4.htm" />
+          <HelpTOCNode Title="updateVisitCount Method " Url="html/a1fab973-f644-87ce-e6b3-090516433ceb.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4d09c0fc-39af-4a43-b609-bc384043529e" Title="Node Fields" Url="html/f462e115-2540-1894-c507-66031903502a.htm">
+          <HelpTOCNode Title="board Field" Url="html/867a3b2e-3e82-4349-a516-0540639ea501.htm" />
+          <HelpTOCNode Title="children Field" Url="html/c9b3c511-12a4-3045-4dda-611dcf63a486.htm" />
+          <HelpTOCNode Title="EPSILON Field" Url="html/fc03533b-a6c9-85db-7267-fb66aae6990c.htm" />
+          <HelpTOCNode Title="hasWon Field" Url="html/d551502d-f68e-7dca-6065-d47547296d86.htm" />
+          <HelpTOCNode Title="lastMoveTuple Field" Url="html/20ab913e-41f5-6659-1448-e1a6e0c8cb66.htm" />
+          <HelpTOCNode Title="parent Field" Url="html/5fb64546-8ea2-23ec-57e7-746f10afb1ed.htm" />
+          <HelpTOCNode Title="score Field" Url="html/cf47f4bd-b087-6d24-1ad9-66a89f6f3e12.htm" />
+          <HelpTOCNode Title="visitCount Field" Url="html/6a63c4a9-061d-538b-2c7c-a30110d82838.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ad456d83-a414-43a3-82f6-7ab6685acd67" Title="Piece Class" Url="html/fda8662c-7b9f-d10b-6732-48a2825fce87.htm">
+        <HelpTOCNode Id="52c2649a-b41e-4ab5-bcaa-eb53f6724725" Title="Piece Constructor " Url="html/631cdf6a-84b4-f2af-1979-a5f755a23319.htm">
+          <HelpTOCNode Title="Piece Constructor " Url="html/cfdd0bd4-d369-c425-544e-684dd12f14f2.htm" />
+          <HelpTOCNode Title="Piece Constructor (Piece)" Url="html/0ce4d09e-e040-c4e3-d73a-43bead43256c.htm" />
+          <HelpTOCNode Title="Piece Constructor (Enums.Color, Enums.PieceType)" Url="html/7334522a-bcb1-b1f2-5fc8-d1091838ec2b.htm" />
+          <HelpTOCNode Title="Piece Constructor (Enums.Color, Enums.PieceType, Enums.Rank, Enums.File)" Url="html/3bb1c77d-2219-bd56-ad2b-095d13752c64.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="33c3f6b1-4263-4789-8614-3bd757d2152a" Title="Piece Methods" Url="html/0c133b87-b15c-25c9-68a6-ec918439e3ed.htm">
+          <HelpTOCNode Title="canMoveTo Method " Url="html/f94f94af-c123-94e5-9141-fb671bf6a4ed.htm" />
+          <HelpTOCNode Title="generateLegalMoves Method " Url="html/eb15145c-5108-72d1-05a5-42a51ee01d3d.htm" />
+          <HelpTOCNode Title="getColor Method " Url="html/879945d8-e785-7311-14fa-67ed81d8a276.htm" />
+          <HelpTOCNode Title="getFile Method " Url="html/a1247b53-dd30-0617-1e1b-4704ad1e924f.htm" />
+          <HelpTOCNode Title="getLocation Method " Url="html/924762a4-905a-72c3-c25c-c0351a800dfe.htm" />
+          <HelpTOCNode Title="getRank Method " Url="html/77816b27-ab5a-ad28-d4c2-6c99e168b6d5.htm" />
+          <HelpTOCNode Title="getType Method " Url="html/b57df193-90c4-bf81-fe99-2c74af4ec707.htm" />
+          <HelpTOCNode Title="setColor Method " Url="html/9c894d6f-d13f-97a5-77b3-6f6c0916d430.htm" />
+          <HelpTOCNode Title="setFile Method " Url="html/c4ae692f-9244-a726-9619-450723eef93b.htm" />
+          <HelpTOCNode Title="setLocation Method " Url="html/50982ca3-61a3-3058-83d1-41844b68aa6a.htm" />
+          <HelpTOCNode Title="setRank Method " Url="html/15f72021-efe2-77e3-0908-0f15039ddd35.htm" />
+          <HelpTOCNode Title="setType Method " Url="html/f5babec0-d4f9-52ad-5dac-0338e982977e.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/d1fb693c-bdc3-5cd3-6259-ec1e81a802a4.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="abfe85a8-a199-4ea6-9417-b539f8868dc1" Title="Piece Fields" Url="html/104ffaa7-f017-94d1-57eb-c0695beecdf4.htm">
+          <HelpTOCNode Title="color Field" Url="html/58c2eb26-b165-f0c6-99e4-0881fdd9ab1e.htm" />
+          <HelpTOCNode Title="file Field" Url="html/437d00b4-f525-f022-2d54-e17a29642e65.htm" />
+          <HelpTOCNode Title="legalMoves Field" Url="html/eeafceb2-bec1-fb1c-62df-cd3d4f8bb14d.htm" />
+          <HelpTOCNode Title="rank Field" Url="html/552db60c-0b1a-19b7-90fd-9762145eef4a.htm" />
+          <HelpTOCNode Title="type Field" Url="html/ec69e724-d09e-e1b6-b4b5-f6ec283e1617.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="20ec76ef-8548-456d-8cd6-ece3b7e74b4f" Title="Player Class" Url="html/ff94db69-fd52-91dc-b948-9dd4936be072.htm">
+        <HelpTOCNode Id="8a28f2d7-07d4-4190-b8ef-debf25effb94" Title="Player Constructor " Url="html/cf1fe44f-b9da-1f60-b00f-5b17fbf50be5.htm">
+          <HelpTOCNode Title="Player Constructor " Url="html/63ad0c0b-0fa9-5c6f-14d4-550ce3e0d6a2.htm" />
+          <HelpTOCNode Title="Player Constructor (Player)" Url="html/cd8c8404-946f-b8ce-0b7b-629b87eb4e0a.htm" />
+          <HelpTOCNode Title="Player Constructor (Enums.Color, Enums.PlayerType)" Url="html/ab6fd759-fe80-e59a-a38e-81fed9629623.htm" />
+          <HelpTOCNode Title="Player Constructor (Enums.Color, String, Enums.PlayerType)" Url="html/105d2166-1d2d-6707-c834-5d7b67075131.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="760a0b80-78df-44f5-8d1f-6af4d2a530c6" Title="Player Methods" Url="html/256c3965-56a3-cf98-6186-e97046c4cf96.htm">
+          <HelpTOCNode Title="captureKing Method " Url="html/1c4bd9f4-7abf-0d7a-8efa-4e650ee81c6d.htm" />
+          <HelpTOCNode Title="capturePiece Method " Url="html/217edc01-1163-a067-8bfd-02b09db44d4a.htm" />
+          <HelpTOCNode Title="escapeKing Method " Url="html/ad53d5a2-5235-9063-8fe1-9a42d96da115.htm" />
+          <HelpTOCNode Title="GetAllPieceSquares Method " Url="html/ce3bfa34-d7f4-7f30-3b58-c659e9985264.htm" />
+          <HelpTOCNode Title="getColor Method " Url="html/0a31cbce-1f74-0003-ca58-4675b89a38c1.htm" />
+          <HelpTOCNode Title="getMoveList Method " Url="html/8685b66a-aca7-83db-7b2a-1cdb119b454b.htm" />
+          <HelpTOCNode Title="getMoveTuple Method " Url="html/9c8e46ef-1408-5cdd-ab23-b03b1f7ed565.htm" />
+          <HelpTOCNode Title="getName Method " Url="html/2c1b9538-3201-6fef-cee0-942f46065ac3.htm" />
+          <HelpTOCNode Title="getType Method " Url="html/2256b861-a1b0-5be1-065d-7b8521120f83.htm" />
+          <HelpTOCNode Title="getWin Method " Url="html/51561e92-bbec-508c-a0cc-cc709af5da47.htm" />
+          <HelpTOCNode Title="GetWinningMove Method " Url="html/f1cbd682-7556-7fa2-1420-dfbca2bb4cb8.htm" />
+          <HelpTOCNode Title="makeMCTSMove Method " Url="html/54c1c317-98eb-12a8-49ea-dec08654b529.htm" />
+          <HelpTOCNode Title="removeFromMoveList Method " Url="html/40fb6314-3819-98d6-4b3f-34f1bafbf4fd.htm" />
+          <HelpTOCNode Title="SelectCaptureSquare Method " Url="html/ddc4d374-c43e-2b85-149d-250952d75f00.htm" />
+          <HelpTOCNode Title="SelectKingSquare Method " Url="html/5c556cc7-b1c7-ce62-1f79-9d93518fd307.htm" />
+          <HelpTOCNode Title="selectPieceSquare Method " Url="html/6875fe15-a02b-667f-2a04-e449ed4d4b0f.htm" />
+          <HelpTOCNode Title="setColor Method " Url="html/cb3c4d82-a5ef-e57d-1f11-0e1d5aff91c5.htm" />
+          <HelpTOCNode Title="setName Method " Url="html/a901238b-b231-b4a9-445b-57221f760578.htm" />
+          <HelpTOCNode Title="setType Method " Url="html/b91deb26-18ea-61ca-72e4-f947fb05a303.htm" />
+          <HelpTOCNode Title="setWin Method " Url="html/1214f01e-e92e-4685-3c28-75324cf96baa.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/1e49cbac-88fc-ec44-71b4-b7447e05ae83.htm" />
+          <HelpTOCNode Title="updateMoveList Method " Url="html/3afce917-2e8c-ae5c-5f16-330974d8c608.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="bdb213be-b2dc-40c2-80d1-f7ba38e5b07d" Title="Player Fields" Url="html/a51c2cc8-77a1-05b5-3532-968b0c8d3666.htm">
+          <HelpTOCNode Title="color Field" Url="html/174d3378-a734-4653-8a20-1a12db658b79.htm" />
+          <HelpTOCNode Title="hasWon Field" Url="html/5cd608d3-71ff-f663-9b9b-4a1fd480df44.htm" />
+          <HelpTOCNode Title="moveList Field" Url="html/b7d58d69-9ce0-9f81-c2b1-7c5e8173c518.htm" />
+          <HelpTOCNode Title="name Field" Url="html/a0790ca5-82b4-be0d-e20c-9dbe23d99b49.htm" />
+          <HelpTOCNode Title="type Field" Url="html/2b41edb3-03de-595a-f65a-46015dd37274.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="784d51ed-5b14-4b70-b139-e78b7eb6f101" Title="Square Class" Url="html/809bedd7-ed7a-ca8e-058a-68202760f1f4.htm">
+        <HelpTOCNode Id="246ccdb7-f626-4c0d-a029-1ac34ebb9ebf" Title="Square Constructor " Url="html/ede80beb-cc45-dcef-c013-edb4f427a40e.htm">
+          <HelpTOCNode Title="Square Constructor " Url="html/1483c2f2-d902-6db1-d686-78be9f0a4c94.htm" />
+          <HelpTOCNode Title="Square Constructor (Square)" Url="html/d14aa356-109a-3e36-792a-9097675e358f.htm" />
+          <HelpTOCNode Title="Square Constructor (Enums.Rank, Enums.File, Piece, Enums.SquareType)" Url="html/98702901-0f72-08f0-d099-591e27ec2546.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="256031c2-154a-4bc8-b153-4247d19e1063" Title="Square Methods" Url="html/998f1f24-6c22-9b01-5ea9-c67f63e27867.htm">
+          <HelpTOCNode Title="getFile Method " Url="html/2c6e5d35-d34c-85d2-338c-24c8b5a8889a.htm" />
+          <HelpTOCNode Title="getLocation Method " Url="html/a48b41a4-754a-8fae-0ebd-052a32784fe5.htm" />
+          <HelpTOCNode Title="getNeighbours Method " Url="html/9f8462ea-3206-bda5-65b0-d875aadbaa01.htm" />
+          <HelpTOCNode Title="getPiece Method " Url="html/afaa9751-c170-2f4d-a30f-ce906783443c.htm" />
+          <HelpTOCNode Title="getRank Method " Url="html/303a950b-7672-d534-cbbd-47dc665efc9d.htm" />
+          <HelpTOCNode Title="getSquareType Method " Url="html/c1d3f0d9-cc75-986d-1ede-0a4ff9476cfe.htm" />
+          <HelpTOCNode Title="setFile Method " Url="html/76b89416-f8c4-adef-4c6f-9387b25c7a34.htm" />
+          <HelpTOCNode Title="setLocation Method " Url="html/5e883925-6b5f-f8e7-e03e-9e68270d1d42.htm" />
+          <HelpTOCNode Title="setNeighbours Method " Url="html/8bac0026-3196-7576-9cc2-fd72c356e9d7.htm" />
+          <HelpTOCNode Title="setPiece Method " Url="html/5121c8f9-4523-6944-5b36-f38b8daa5ec4.htm" />
+          <HelpTOCNode Title="setRank Method " Url="html/12b4322b-cfb3-4cc1-6ada-3f11218b85f6.htm" />
+          <HelpTOCNode Title="setType Method " Url="html/d8dbec97-ac49-fe84-645d-eb68f8fdd2cc.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/e5bdfafb-0a42-87aa-761a-4cca1900edce.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3b61d64a-1c1d-4d10-8188-64cfc57ed73e" Title="Square Fields" Url="html/1feed93b-9b97-468a-009c-37104c775994.htm">
+          <HelpTOCNode Title="file Field" Url="html/118bd8a6-ec17-982d-d017-783957dbbc46.htm" />
+          <HelpTOCNode Title="neighbours Field" Url="html/fe00fbce-6c9f-64ce-fa1f-02de14392cd8.htm" />
+          <HelpTOCNode Title="piece Field" Url="html/eb717a2b-d324-f059-b3fb-834e9dc19b26.htm" />
+          <HelpTOCNode Title="rank Field" Url="html/d61c1f89-cecc-09e7-726e-097dd5c50fed.htm" />
+          <HelpTOCNode Title="type Field" Url="html/95df4c36-a883-3dbd-2423-e0e56d5628e0.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3d94b359-0789-4ee1-b60b-3a4a5d8d4ec2" Title="VikingChess.VikingChess_XamlTypeInfo" Url="html/82d640e9-3952-a6d9-cf03-172ae09a5a64.htm">
+      <HelpTOCNode Id="9124f392-2cef-4a12-9e99-106ecaea1a8f" Title="Activator Class" Url="html/36c4dcf4-d063-8eb8-b411-60f6714241c5.htm">
+        <HelpTOCNode Title="Activator Constructor " Url="html/4933950b-df7f-dfa9-3ac8-30aab873d195.htm" />
+        <HelpTOCNode Title="Activator Properties" Url="html/7568e6ba-43ca-751b-530d-a4ad16db2f07.htm" />
+        <HelpTOCNode Id="4cae7329-60ad-4f20-b249-7e3f72021800" Title="Activator Methods" Url="html/27a1291f-c272-8723-941e-fb9d71c5c426.htm">
+          <HelpTOCNode Title="BeginInvoke Method " Url="html/ec98b883-902b-57ab-8cf9-740869932ac2.htm" />
+          <HelpTOCNode Title="EndInvoke Method " Url="html/1d26b4e2-f3cd-5499-e6a7-49222219a6d0.htm" />
+          <HelpTOCNode Title="Invoke Method " Url="html/52e95c93-9dcc-bc19-7a9e-0d11c1ea20d0.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="788bb1a8-4ef6-4b36-8b6d-bfbc11493853" Title="AddToCollection Class" Url="html/29a32e52-cfe9-c0df-8ef1-5476eeeece7b.htm">
+        <HelpTOCNode Title="AddToCollection Constructor " Url="html/7521a577-35fb-e40d-1e4a-401f3d149158.htm" />
+        <HelpTOCNode Title="AddToCollection Properties" Url="html/cd14d8f8-b98a-3247-ca93-2916f90661cd.htm" />
+        <HelpTOCNode Id="fc02a515-d4d3-4744-ab48-274a2b6c00eb" Title="AddToCollection Methods" Url="html/23f34ef5-5a62-787d-842f-1a4f50ecbd6d.htm">
+          <HelpTOCNode Title="BeginInvoke Method " Url="html/6f1ccf2b-2478-5dc2-e532-a65d43b3135f.htm" />
+          <HelpTOCNode Title="EndInvoke Method " Url="html/c5e271c2-666f-45b8-f653-462bd06b3f52.htm" />
+          <HelpTOCNode Title="Invoke Method " Url="html/fc540b9c-408f-e6a6-c400-aa70eda0780a.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4a8a76cf-bb83-4bdb-ba8f-cd5747e9fa9c" Title="AddToDictionary Class" Url="html/076a3b30-2996-51d2-807e-70d9d8237bb4.htm">
+        <HelpTOCNode Title="AddToDictionary Constructor " Url="html/c4537dff-7183-85b4-1352-a6c039ef00dd.htm" />
+        <HelpTOCNode Title="AddToDictionary Properties" Url="html/d11f256c-05f2-593e-1dee-2b13e89e9377.htm" />
+        <HelpTOCNode Id="0daddcee-6548-49eb-b2f8-bf44251938e6" Title="AddToDictionary Methods" Url="html/525903fc-cb91-9f33-f215-d24dae6d5f87.htm">
+          <HelpTOCNode Title="BeginInvoke Method " Url="html/a29621df-5839-67e6-90b6-e40193a0faa0.htm" />
+          <HelpTOCNode Title="EndInvoke Method " Url="html/51b998d6-7ab3-d88b-65a8-9a6f99da6ba6.htm" />
+          <HelpTOCNode Title="Invoke Method " Url="html/3202883e-f2b5-bb3a-f63b-72cf480129a7.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7f7ef041-9bdb-47d1-8f48-28cd6b16746d" Title="Getter Class" Url="html/b1a3421a-7e18-4721-6885-224b432fb145.htm">
+        <HelpTOCNode Title="Getter Constructor " Url="html/31b8be7f-349c-7490-f5d6-74999c798626.htm" />
+        <HelpTOCNode Title="Getter Properties" Url="html/5cd6b948-19f1-3a8a-3d0a-f983f903912a.htm" />
+        <HelpTOCNode Id="c6c87cc3-be31-4868-89e6-47fcf4f34ea0" Title="Getter Methods" Url="html/e5bf6bbb-e9a5-b65a-6795-fb8c3975b675.htm">
+          <HelpTOCNode Title="BeginInvoke Method " Url="html/2061c69e-8787-ff1f-38f0-9c7cdabcee55.htm" />
+          <HelpTOCNode Title="EndInvoke Method " Url="html/23a32656-abc5-11fc-a8ee-fa09c62c2a3e.htm" />
+          <HelpTOCNode Title="Invoke Method " Url="html/cecf503f-66c4-3973-c41c-62bddc995e73.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7f0b53d9-4510-4f13-b14f-0ae42a76227f" Title="Setter Class" Url="html/f0286202-bf59-0992-5d2b-a0ee488af927.htm">
+        <HelpTOCNode Title="Setter Constructor " Url="html/4e6c6d73-afe4-30fc-0d3c-4cc987b8394e.htm" />
+        <HelpTOCNode Title="Setter Properties" Url="html/ac93ffba-1f2c-56b0-7680-fcd5a327436b.htm" />
+        <HelpTOCNode Id="dabbb399-1482-42b8-91f6-83e5a8ebc19d" Title="Setter Methods" Url="html/2ebe6dbc-c3fd-60b5-04ff-86a612d4df1f.htm">
+          <HelpTOCNode Title="BeginInvoke Method " Url="html/ea924467-a853-3929-f61d-7a707bfe5a3f.htm" />
+          <HelpTOCNode Title="EndInvoke Method " Url="html/e64576be-2cbd-219f-3d1c-152e13d325d9.htm" />
+          <HelpTOCNode Title="Invoke Method " Url="html/1c7623e2-0609-a035-c24f-c7e064cb961d.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ecc361fb-9d00-4120-9024-3349fb9ed257" Title="XamlMember Class" Url="html/ea8db2ca-7056-988e-b559-9c5674487e21.htm">
+        <HelpTOCNode Title="XamlMember Constructor " Url="html/60c6189b-b59d-853f-75e0-a8f72d74c352.htm" />
+        <HelpTOCNode Id="97bbc960-0b59-4abe-a948-aefb1637e39f" Title="XamlMember Properties" Url="html/b0dedcf7-d1ac-64be-1eaa-d712efe7fa67.htm">
+          <HelpTOCNode Title="Getter Property " Url="html/1ce1547c-30be-9eb6-0751-402fa6a8f5a3.htm" />
+          <HelpTOCNode Title="IsAttachable Property " Url="html/7424358b-99ec-92b5-8224-08ebb2004b77.htm" />
+          <HelpTOCNode Title="IsDependencyProperty Property " Url="html/fc7d4d35-eaab-8abe-f06d-4ee58356530f.htm" />
+          <HelpTOCNode Title="IsReadOnly Property " Url="html/7a0d8ad7-10b5-e0e8-cf67-ac5cd6d7db6e.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/323b9e37-82bb-c06b-481c-e90760f36c29.htm" />
+          <HelpTOCNode Title="Setter Property " Url="html/4bdabb70-073e-f6ad-6173-c0f51f663bca.htm" />
+          <HelpTOCNode Title="TargetType Property " Url="html/60f82d54-ba15-5274-5352-bf92245117c6.htm" />
+          <HelpTOCNode Title="Type Property " Url="html/2c890004-c284-aa2f-171c-b8e2f8f803af.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e5d35166-f26d-4fc4-a0e5-5dd69fe3a7ac" Title="XamlMember Methods" Url="html/39b72647-ac59-11dd-626d-6136828fb936.htm">
+          <HelpTOCNode Title="GetValue Method " Url="html/9b30c9a4-9417-f7c5-3ca5-409bf51fd9e3.htm" />
+          <HelpTOCNode Title="SetIsAttachable Method " Url="html/e13f331e-85af-79cc-d70f-5d26ca99d5d3.htm" />
+          <HelpTOCNode Title="SetIsDependencyProperty Method " Url="html/75e16c49-3e0e-b82a-b48b-cf6a5c1ee61d.htm" />
+          <HelpTOCNode Title="SetIsReadOnly Method " Url="html/4a29cf32-95cb-ff59-574a-70d2c5559673.htm" />
+          <HelpTOCNode Title="SetTargetTypeName Method " Url="html/97fa109f-7574-ff18-7503-b94ca34b82af.htm" />
+          <HelpTOCNode Title="SetValue Method " Url="html/137c1a5b-e421-ad73-b804-871a65d987f0.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="48608c7c-6146-408d-9381-9cb9665f8066" Title="XamlMember Fields" Url="html/24176610-4756-810f-bd40-d641cbb1ab52.htm">
+          <HelpTOCNode Title="_isAttachable Field" Url="html/a9c1649d-66b0-f277-4737-dd4f8f6ee558.htm" />
+          <HelpTOCNode Title="_isDependencyProperty Field" Url="html/06bbf789-0c81-55a0-6940-0590ce737e05.htm" />
+          <HelpTOCNode Title="_isReadOnly Field" Url="html/a9a04f35-6e96-d097-91fa-f5f475001e2d.htm" />
+          <HelpTOCNode Title="_name Field" Url="html/43667a4f-51a9-1a14-93a3-202236de2997.htm" />
+          <HelpTOCNode Title="_provider Field" Url="html/65e800fe-7e52-2f77-c041-c0ca44332a40.htm" />
+          <HelpTOCNode Title="_targetTypeName Field" Url="html/9d672fa9-4b48-f680-2eed-4ef61702582c.htm" />
+          <HelpTOCNode Title="_typeName Field" Url="html/dba3f2b2-5aa2-83cd-2f0f-296a2da5414c.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7b966108-fbe7-4a29-8658-1b871a9d2cf8" Title="XamlSystemBaseType Class" Url="html/7e8dfe72-06f2-a8c9-138f-462133ccfda4.htm">
+        <HelpTOCNode Title="XamlSystemBaseType Constructor " Url="html/f3d0b7dc-d8b7-d22b-fcca-08f6c7089bb7.htm" />
+        <HelpTOCNode Id="49cce859-b837-4773-a5a6-802a6539e978" Title="XamlSystemBaseType Properties" Url="html/80a6f842-14fd-afd8-a8b6-af1276f63a6a.htm">
+          <HelpTOCNode Title="BaseType Property " Url="html/9494f42d-86ca-676c-8c3b-f92ddd7df290.htm" />
+          <HelpTOCNode Title="ContentProperty Property " Url="html/72629b03-1ae4-60f0-9368-3b195731f3c6.htm" />
+          <HelpTOCNode Title="FullName Property " Url="html/6d946cba-ae1a-a992-a3ea-36c65ad74d9e.htm" />
+          <HelpTOCNode Title="IsArray Property " Url="html/89e65346-e808-997b-3568-9bd767acd137.htm" />
+          <HelpTOCNode Title="IsBindable Property " Url="html/cefa6ace-69ea-c613-07af-0178596a7d0f.htm" />
+          <HelpTOCNode Title="IsCollection Property " Url="html/60e25b56-fc08-ea24-0e75-a0be2db98b38.htm" />
+          <HelpTOCNode Title="IsConstructible Property " Url="html/21a8dfb2-0077-9515-5ee6-3dfd9ff1fdcb.htm" />
+          <HelpTOCNode Title="IsDictionary Property " Url="html/5e4bac5b-7eaf-784f-e12d-498efbe28737.htm" />
+          <HelpTOCNode Title="IsLocalType Property " Url="html/c27000d9-a912-7e19-7e40-4099b5c2ab8d.htm" />
+          <HelpTOCNode Title="IsMarkupExtension Property " Url="html/2264d1ee-5d42-ac78-dbd1-9e64a572da9b.htm" />
+          <HelpTOCNode Title="IsReturnTypeStub Property " Url="html/ca147b5e-e032-39e5-921d-dcbdffaef000.htm" />
+          <HelpTOCNode Title="ItemType Property " Url="html/152a34f2-09c6-a022-9c21-0fbc2a17d919.htm" />
+          <HelpTOCNode Title="KeyType Property " Url="html/d72c4843-0ae1-d1a5-53ee-bad70388bbed.htm" />
+          <HelpTOCNode Title="UnderlyingType Property " Url="html/3082efa2-eef6-e6b8-aadf-c049ab005e6f.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6a9354ee-99fe-43c6-9267-636ff9ab71f0" Title="XamlSystemBaseType Methods" Url="html/34ab70b9-fedd-dc55-cde5-87cfb2c56470.htm">
+          <HelpTOCNode Title="ActivateInstance Method " Url="html/35073c57-2a17-92a3-dc44-252b85308f79.htm" />
+          <HelpTOCNode Title="AddToMap Method " Url="html/17ac84b2-bae6-b34e-3a94-bd7d8296689e.htm" />
+          <HelpTOCNode Title="AddToVector Method " Url="html/452d25af-285e-c0c7-48bd-bc80e3235d57.htm" />
+          <HelpTOCNode Title="CreateFromString Method " Url="html/a523dea0-d312-ec14-a6a0-8c2212f07a39.htm" />
+          <HelpTOCNode Title="GetMember Method " Url="html/c8512711-d727-a727-c30f-f39bae3ee25e.htm" />
+          <HelpTOCNode Title="RunInitializer Method " Url="html/4fb119d9-e87c-7d28-f02e-e233089f3272.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b27ab5c9-c7ee-4685-a412-081106ec0446" Title="XamlSystemBaseType Fields" Url="html/69084a9a-e860-d8bd-3960-77ffe286b853.htm">
+          <HelpTOCNode Title="_fullName Field" Url="html/62cdafe2-086b-e5b3-5081-13da01d2e0da.htm" />
+          <HelpTOCNode Title="_underlyingType Field" Url="html/e845fcd5-2123-60f4-2f2b-0b5c8cff8d07.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5382f7c5-f42c-4ac4-a7a6-e279f6ab043f" Title="XamlTypeInfoProvider Class" Url="html/fb1a47f1-bf1d-a58e-4bb2-0382384e2582.htm">
+        <HelpTOCNode Title="XamlTypeInfoProvider Constructor " Url="html/1fa42a75-7f10-eb09-e243-2c2693d0fa66.htm" />
+        <HelpTOCNode Id="51f946b2-96b1-4044-b55d-64ae372b540a" Title="XamlTypeInfoProvider Methods" Url="html/96607a26-b22c-e44b-1028-a6b08ba2785a.htm">
+          <HelpTOCNode Title="Activate_0_AboutPage Method " Url="html/390d0a24-8d4a-7dbe-1a30-56f972bb2474.htm" />
+          <HelpTOCNode Title="Activate_13_RulesPage Method " Url="html/dffa6e2c-6587-3d33-d0ee-c507bda38c8d.htm" />
+          <HelpTOCNode Title="Activate_14_HnefataflPage Method " Url="html/7d10e1b7-1dca-6594-7130-7b445be11db9.htm" />
+          <HelpTOCNode Title="Activate_15_SettingsPage Method " Url="html/0ccf8287-a59f-0d67-3ea9-007209979152.htm" />
+          <HelpTOCNode Title="Activate_16_MainPage Method " Url="html/b5eb4926-53fc-d831-5507-d61ba42f06ec.htm" />
+          <HelpTOCNode Title="Activate_17_TablutPage Method " Url="html/2cab3187-2041-0bf7-deb6-d4dc8653eef1.htm" />
+          <HelpTOCNode Title="Activate_18_TawlbwrddPage Method " Url="html/bdf455c6-2057-472f-ad04-5ac82a968c80.htm" />
+          <HelpTOCNode Title="Activate_3_ArdRiPage Method " Url="html/de806bff-8356-964b-ce26-b9e4d4a9e50e.htm" />
+          <HelpTOCNode Title="Activate_4_BrandubhPage Method " Url="html/708eda72-ab99-7d1e-78b4-eb4d4da01f91.htm" />
+          <HelpTOCNode Title="CreateXamlMember Method " Url="html/822e397e-b1da-ede4-1975-8d5aae162d5d.htm" />
+          <HelpTOCNode Title="CreateXamlType Method " Url="html/710d3c32-7d8d-bdb8-6f7c-82222b9c2595.htm" />
+          <HelpTOCNode Title="get_0_AnimationBehavior_SourceUri Method " Url="html/f8b559e6-1e00-8855-4da9-41e5276ee141.htm" />
+          <HelpTOCNode Title="get_1_AnimationBehavior_RepeatBehavior Method " Url="html/82c36088-3975-64b9-f3ca-2da3ad87ee8a.htm" />
+          <HelpTOCNode Title="get_2_AnimationBehavior_SourceStream Method " Url="html/734a5372-49cd-45fc-5418-0c66b4165737.htm" />
+          <HelpTOCNode Title="get_3_AnimationBehavior_AutoStart Method " Url="html/fe46ce21-6cf5-08b9-6737-121599a128c6.htm" />
+          <HelpTOCNode Title="get_4_AnimationBehavior_AnimateInDesignMode Method " Url="html/3636e132-b921-8243-5805-e9cdde091aa4.htm" />
+          <HelpTOCNode Title="GetMemberByLongName Method " Url="html/9d938aa7-541d-f6fe-ff40-a168dad0c2bb.htm" />
+          <HelpTOCNode Title="GetXamlTypeByName Method " Url="html/4281b805-9d2d-0776-491b-0c5b80e50483.htm" />
+          <HelpTOCNode Title="GetXamlTypeByType Method " Url="html/d82b7899-dde6-9cc4-e8b2-2c8d0790921b.htm" />
+          <HelpTOCNode Title="InitTypeTables Method " Url="html/c365d02d-1309-7243-23bf-8beecf6a39a1.htm" />
+          <HelpTOCNode Title="LookupTypeIndexByName Method " Url="html/ff6eaa9e-5e8e-513a-076e-620c596bb8bc.htm" />
+          <HelpTOCNode Title="LookupTypeIndexByType Method " Url="html/585b8569-f05c-d3a4-6ca2-4c3782f177cb.htm" />
+          <HelpTOCNode Title="set_0_AnimationBehavior_SourceUri Method " Url="html/eb48442f-3f3e-cbc4-9c69-84bb7bf61161.htm" />
+          <HelpTOCNode Title="set_1_AnimationBehavior_RepeatBehavior Method " Url="html/9df3f05f-fbc0-2d7b-1318-45db9e717968.htm" />
+          <HelpTOCNode Title="set_2_AnimationBehavior_SourceStream Method " Url="html/7c676506-e5e7-705d-d6cf-b080fe6f9076.htm" />
+          <HelpTOCNode Title="set_3_AnimationBehavior_AutoStart Method " Url="html/16827783-5cb1-ce80-9b32-76f0771ed7e1.htm" />
+          <HelpTOCNode Title="set_4_AnimationBehavior_AnimateInDesignMode Method " Url="html/4eeaed40-e8ba-0fc5-c5b9-617cb5980772.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="96bee187-21b0-461c-a0b3-414fd225a9fc" Title="XamlTypeInfoProvider Fields" Url="html/8590d2ae-c27b-bdbc-a686-f83b9722bdfb.htm">
+          <HelpTOCNode Title="_typeNameTable Field" Url="html/ef186e23-6723-3f33-f852-e99dc97a57c9.htm" />
+          <HelpTOCNode Title="_typeTable Field" Url="html/95500ac5-07d6-13bd-bb96-ea06ba4b4efb.htm" />
+          <HelpTOCNode Title="_xamlMembers Field" Url="html/9147159f-b3ad-52cc-bd8e-64bf4871ba02.htm" />
+          <HelpTOCNode Title="_xamlTypeCacheByName Field" Url="html/eca9a96e-5f1f-9b80-7d5c-c10d13433263.htm" />
+          <HelpTOCNode Title="_xamlTypeCacheByType Field" Url="html/5525eca3-d4a7-f761-e1f2-5b892f8790ed.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f2b243e0-f330-48ac-a77e-47138ded4661" Title="XamlUserType Class" Url="html/6c81db98-6d5b-12d4-129c-d56e2e1734d5.htm">
+        <HelpTOCNode Title="XamlUserType Constructor " Url="html/1a5b036e-e0ca-c87f-5625-6e06dc0b244d.htm" />
+        <HelpTOCNode Id="53f36a8f-d446-43e6-9cce-94e50a97415a" Title="XamlUserType Properties" Url="html/52a16b35-d37e-063f-8f07-94c330446f8b.htm">
+          <HelpTOCNode Title="Activator Property " Url="html/9e1bfdaa-6118-b0b2-6b5b-d3ae96c22ef6.htm" />
+          <HelpTOCNode Title="BaseType Property " Url="html/61394997-38fa-6086-36ee-6862df014e43.htm" />
+          <HelpTOCNode Title="CollectionAdd Property " Url="html/5608f97b-964b-b7f7-9be1-fd996afca99d.htm" />
+          <HelpTOCNode Title="ContentProperty Property " Url="html/6c5b7634-c78a-ad48-28f8-a9b1637818ea.htm" />
+          <HelpTOCNode Title="DictionaryAdd Property " Url="html/e8f4afe1-7ffc-d6f3-6a42-a08e17286088.htm" />
+          <HelpTOCNode Title="IsArray Property " Url="html/9d4fbcd4-5205-b778-09f4-1ec8c489086c.htm" />
+          <HelpTOCNode Title="IsBindable Property " Url="html/1fe31450-a5e4-8244-5a54-cfced6b5cf32.htm" />
+          <HelpTOCNode Title="IsCollection Property " Url="html/61376b7e-7750-8191-d006-756c3b269507.htm" />
+          <HelpTOCNode Title="IsConstructible Property " Url="html/c2ddbb00-cc59-2e8c-efee-0f19ac6c8bd5.htm" />
+          <HelpTOCNode Title="IsDictionary Property " Url="html/c81d6e08-3f26-9112-7b63-7f4991575249.htm" />
+          <HelpTOCNode Title="IsLocalType Property " Url="html/d2cf56d2-cf3f-f0bf-dfa0-5128299aa94d.htm" />
+          <HelpTOCNode Title="IsMarkupExtension Property " Url="html/5a788054-5f41-2494-c452-ff045817712c.htm" />
+          <HelpTOCNode Title="IsReturnTypeStub Property " Url="html/e83e9628-5686-68a2-aef1-cc1cc21ada57.htm" />
+          <HelpTOCNode Title="ItemType Property " Url="html/3111255f-450c-69ef-ebb9-11e1ca95edff.htm" />
+          <HelpTOCNode Title="KeyType Property " Url="html/dab28a21-8dbf-751b-403a-dff43a48b517.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="27d7c48b-4b63-4b1a-bae6-e62ad03953a9" Title="XamlUserType Methods" Url="html/f0773d49-71d9-47d7-6826-67deb176de1f.htm">
+          <HelpTOCNode Title="ActivateInstance Method " Url="html/2a5e9029-ee38-5228-59a9-1f833818e225.htm" />
+          <HelpTOCNode Title="AddEnumValue Method " Url="html/a8a4715e-1025-72d1-8414-57ab5f5a81a0.htm" />
+          <HelpTOCNode Title="AddMemberName Method " Url="html/a3008af1-735a-cde2-b903-61f5c109204d.htm" />
+          <HelpTOCNode Title="AddToMap Method " Url="html/ed338eaf-744a-e154-a819-6b63ad32a674.htm" />
+          <HelpTOCNode Title="AddToVector Method " Url="html/09e9e681-5f55-5730-3af4-6a82bcedfd9c.htm" />
+          <HelpTOCNode Title="CreateFromString Method " Url="html/416b39b8-85f5-6802-c819-55bdfd2789a4.htm" />
+          <HelpTOCNode Title="GetMember Method " Url="html/28b192d7-aae8-cde2-7715-9e3458aaf16f.htm" />
+          <HelpTOCNode Title="RunInitializer Method " Url="html/7783b383-4a9f-5d55-d55a-0302fe83cdaa.htm" />
+          <HelpTOCNode Title="SetContentPropertyName Method " Url="html/649beea8-f104-1642-f4d9-a29373f4d90d.htm" />
+          <HelpTOCNode Title="SetIsArray Method " Url="html/a38e1d2c-9f57-11d7-f683-f9c051e55247.htm" />
+          <HelpTOCNode Title="SetIsBindable Method " Url="html/4dd228dd-fb19-ef1e-98b8-91184969bb0c.htm" />
+          <HelpTOCNode Title="SetIsLocalType Method " Url="html/760edc1a-db9f-9b6a-e43a-67ed7616c37d.htm" />
+          <HelpTOCNode Title="SetIsMarkupExtension Method " Url="html/642aeab0-3db6-8ca8-90fe-285190af6a49.htm" />
+          <HelpTOCNode Title="SetIsReturnTypeStub Method " Url="html/600e5a5b-815f-9e74-9f83-ac716edf7ed0.htm" />
+          <HelpTOCNode Title="SetItemTypeName Method " Url="html/258d4f35-0b8f-3155-5c56-42ea7422d38e.htm" />
+          <HelpTOCNode Title="SetKeyTypeName Method " Url="html/be22430e-eb0a-1c05-ed00-44efb25476a5.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="66646e79-03d7-44c2-90d7-6ae16c6a097b" Title="XamlUserType Fields" Url="html/8825a6fb-c137-0d6c-d582-bf9af541b01a.htm">
+          <HelpTOCNode Title="_baseType Field" Url="html/247d7f15-a213-e9cc-68bf-9a20f29db6a0.htm" />
+          <HelpTOCNode Title="_contentPropertyName Field" Url="html/f5b93bc9-4e51-ef4f-43e1-f682a8cb1a43.htm" />
+          <HelpTOCNode Title="_enumValues Field" Url="html/e911dc4c-4480-17f6-14ce-e1755692d5fe.htm" />
+          <HelpTOCNode Title="_isArray Field" Url="html/c305a2de-8e00-0664-6496-34e43dd59000.htm" />
+          <HelpTOCNode Title="_isBindable Field" Url="html/8b422caa-88fe-11b1-5d23-4f2be9442353.htm" />
+          <HelpTOCNode Title="_isLocalType Field" Url="html/f8b86c30-0ecf-eb57-e87e-9fdccd3589f0.htm" />
+          <HelpTOCNode Title="_isMarkupExtension Field" Url="html/279d163b-b37e-0365-2746-53012c9dcf38.htm" />
+          <HelpTOCNode Title="_isReturnTypeStub Field" Url="html/ff0cfc30-d411-4bc5-86eb-9cba642b3e5e.htm" />
+          <HelpTOCNode Title="_itemTypeName Field" Url="html/3de978b6-20cc-e621-27b2-8ffa7508abb8.htm" />
+          <HelpTOCNode Title="_keyTypeName Field" Url="html/88224a8a-0537-3938-4ea7-8fea6bc55b0a.htm" />
+          <HelpTOCNode Title="_memberNames Field" Url="html/b2319874-bf46-7d72-c4f0-51d34140e59c.htm" />
+          <HelpTOCNode Title="_provider Field" Url="html/a63a102b-b8c4-8d3b-ecc4-39df7bcb6e22.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

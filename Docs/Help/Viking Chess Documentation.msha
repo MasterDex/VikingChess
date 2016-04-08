@@ -1,0 +1,20 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Viking Chess MCTS Class Library</title>
+</head>
+<body class="vendor-book">
+    <div class="details">
+        <span class="vendor">Declan Murphy</span>
+        <span class="locale">en-us</span>
+        <span class="product">Viking Chess</span>
+        <span class="name">Viking Chess MCTS Class Library</span>
+    </div>
+    <div class="package-list">
+        <div class="package">
+            <!-- NOTE: The "name" span value cannot contain any periods! -->
+            <span class="name">Viking Chess Documentation</span>
+            <a class="current-link" href="Viking Chess Documentation.mshc">Viking Chess Documentation.mshc</a>
+        </div>
+    </div>
+</body>
+</html>

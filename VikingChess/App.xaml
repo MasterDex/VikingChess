@@ -1,0 +1,11 @@
+﻿<Application
+    x:Class="VikingChess.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:VikingChess"
+    RequestedTheme="Light">
+
+    <Application.Resources>
+        <FontFamily x:Key="ContentControlThemeFontFamily">Assets/Fonts/VIKING-N.TTF#vikingNormal</FontFamily>
+    </Application.Resources>
+</Application>
