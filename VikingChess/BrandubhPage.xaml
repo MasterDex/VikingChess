@@ -271,13 +271,13 @@
         <Image x:Name="image" HorizontalAlignment="Left" Height="103" Margin="178,0,0,321" VerticalAlignment="Bottom" Width="101" Source="Assets/PieceBlack.png"/>
         <Image x:Name="image_Copy" HorizontalAlignment="Right" Height="104" Margin="0,0,303,321" VerticalAlignment="Bottom" Width="102" Source="Assets/PieceWhite.png"/>
         <TextBlock x:Name="winText" IsHitTestVisible="False" HorizontalAlignment="Left" Margin="640,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="40" Width="640" TextAlignment="Center" FontSize="32" FontFamily="Assets/Fonts/VIKING-N.TTF#Viking-Normal" Foreground="#FFFFA200" IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsTapEnabled="False" IsRightTapEnabled="False" ManipulationMode="None" d:LayoutOverrides="VerticalAlignment"/>
-        <Rectangle Height="20" StrokeThickness="10" VerticalAlignment="Top" Fill="#FF6B2509" />
+        <Rectangle Height="20" StrokeThickness="10" VerticalAlignment="Top" Fill="#FF6B2509" Width="1920" />
         <Button x:Name="fullscreen_btn" Style="{StaticResource topbarButtonStyle}" Content="" Click="fullscreen_btn_clicked" HorizontalAlignment="Right" Height="18" VerticalAlignment="Top" Width="18" Margin="0,1,10,0">
             <Button.Background>
                 <ImageBrush ImageSource="Assets/fullscreen-arrows.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button x:Name="back_btn" Style="{StaticResource topbarButtonStyle}" Content=""  Click="back_btn_clicked" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="20">
+        <Button x:Name="back_btn" Style="{StaticResource topbarButtonStyle}" Content="" Click="back_btn_clicked"  HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="20">
             <Button.Background>
                 <ImageBrush ImageSource="Assets/back-arrow.png" Stretch="Uniform"/>
             </Button.Background>

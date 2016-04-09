@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="d1e19e7e-4c0c-4b87-86dd-8274f8e7db98" Publisher="CN=Declan Murphy" Version="1.0.0.0" />
+  <Identity Name="12100BlacklionStudios.VikingChess" Publisher="CN=BC6BFDE4-E288-4FAB-8029-7F35FB2A69D9" Version="1.0.0.0" />
   <mp:PhoneIdentity PhoneProductId="d1e19e7e-4c0c-4b87-86dd-8274f8e7db98" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>VikingChess</DisplayName>
-    <PublisherDisplayName>Declan Murphy</PublisherDisplayName>
+    <DisplayName>Viking Chess</DisplayName>
+    <PublisherDisplayName>Blacklion Studios</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
@@ -31,7 +31,4 @@
       </uap:VisualElements>
     </Application>
   </Applications>
-  <Capabilities>
-    <Capability Name="internetClient" />
-  </Capabilities>
 </Package>

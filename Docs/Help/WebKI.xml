@@ -88,64 +88,7 @@
   <HelpKINode Title="AboutPage.GetBindingConnector method" Url="html/3ff61374-f468-2421-7079-761fcdcd41f3.htm" />
   <HelpKINode Title="AboutPage.InitializeComponent method" Url="html/d8da2956-5e54-06f8-09cb-781c122b86b9.htm" />
   <HelpKINode Title="AboutPage._contentLoaded field" Url="html/03938582-17d4-ba43-74f9-1b73d04dd28b.htm" />
-  <HelpKINode Title="ActivateInstance method">
-    <HelpKINode Title="XamlSystemBaseType.ActivateInstance Method " Url="html/35073c57-2a17-92a3-dc44-252b85308f79.htm" />
-    <HelpKINode Title="XamlUserType.ActivateInstance Method " Url="html/2a5e9029-ee38-5228-59a9-1f833818e225.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Activate_0_AboutPage method" Url="html/390d0a24-8d4a-7dbe-1a30-56f972bb2474.htm" />
-  <HelpKINode Title="Activate_13_RulesPage method" Url="html/dffa6e2c-6587-3d33-d0ee-c507bda38c8d.htm" />
-  <HelpKINode Title="Activate_14_HnefataflPage method" Url="html/7d10e1b7-1dca-6594-7130-7b445be11db9.htm" />
-  <HelpKINode Title="Activate_15_SettingsPage method" Url="html/0ccf8287-a59f-0d67-3ea9-007209979152.htm" />
-  <HelpKINode Title="Activate_16_MainPage method" Url="html/b5eb4926-53fc-d831-5507-d61ba42f06ec.htm" />
-  <HelpKINode Title="Activate_17_TablutPage method" Url="html/2cab3187-2041-0bf7-deb6-d4dc8653eef1.htm" />
-  <HelpKINode Title="Activate_18_TawlbwrddPage method" Url="html/bdf455c6-2057-472f-ad04-5ac82a968c80.htm" />
-  <HelpKINode Title="Activate_3_ArdRiPage method" Url="html/de806bff-8356-964b-ce26-b9e4d4a9e50e.htm" />
-  <HelpKINode Title="Activate_4_BrandubhPage method" Url="html/708eda72-ab99-7d1e-78b4-eb4d4da01f91.htm" />
-  <HelpKINode Title="Activator class">
-    <HelpKINode Title="Activator Class" Url="html/36c4dcf4-d063-8eb8-b411-60f6714241c5.htm" />
-    <HelpKINode Title="about Activator class" Url="html/36c4dcf4-d063-8eb8-b411-60f6714241c5.htm" />
-    <HelpKINode Title="constructor" Url="html/4933950b-df7f-dfa9-3ac8-30aab873d195.htm" />
-    <HelpKINode Title="methods" Url="html/27a1291f-c272-8723-941e-fb9d71c5c426.htm" />
-    <HelpKINode Title="properties" Url="html/7568e6ba-43ca-751b-530d-a4ad16db2f07.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Activator property" Url="html/9e1bfdaa-6118-b0b2-6b5b-d3ae96c22ef6.htm" />
-  <HelpKINode Title="Activator.Activator constructor" Url="html/4933950b-df7f-dfa9-3ac8-30aab873d195.htm" />
-  <HelpKINode Title="Activator.BeginInvoke method" Url="html/ec98b883-902b-57ab-8cf9-740869932ac2.htm" />
-  <HelpKINode Title="Activator.EndInvoke method" Url="html/1d26b4e2-f3cd-5499-e6a7-49222219a6d0.htm" />
-  <HelpKINode Title="Activator.Invoke method" Url="html/52e95c93-9dcc-bc19-7a9e-0d11c1ea20d0.htm" />
   <HelpKINode Title="AddChild method" Url="html/27261d5a-db8b-d3fa-d66d-730e489cdb7b.htm" />
-  <HelpKINode Title="AddEnumValue method" Url="html/a8a4715e-1025-72d1-8414-57ab5f5a81a0.htm" />
-  <HelpKINode Title="AddMemberName method" Url="html/a3008af1-735a-cde2-b903-61f5c109204d.htm" />
-  <HelpKINode Title="AddToCollection class">
-    <HelpKINode Title="AddToCollection Class" Url="html/29a32e52-cfe9-c0df-8ef1-5476eeeece7b.htm" />
-    <HelpKINode Title="about AddToCollection class" Url="html/29a32e52-cfe9-c0df-8ef1-5476eeeece7b.htm" />
-    <HelpKINode Title="constructor" Url="html/7521a577-35fb-e40d-1e4a-401f3d149158.htm" />
-    <HelpKINode Title="methods" Url="html/23f34ef5-5a62-787d-842f-1a4f50ecbd6d.htm" />
-    <HelpKINode Title="properties" Url="html/cd14d8f8-b98a-3247-ca93-2916f90661cd.htm" />
-  </HelpKINode>
-  <HelpKINode Title="AddToCollection.AddToCollection constructor" Url="html/7521a577-35fb-e40d-1e4a-401f3d149158.htm" />
-  <HelpKINode Title="AddToCollection.BeginInvoke method" Url="html/6f1ccf2b-2478-5dc2-e532-a65d43b3135f.htm" />
-  <HelpKINode Title="AddToCollection.EndInvoke method" Url="html/c5e271c2-666f-45b8-f653-462bd06b3f52.htm" />
-  <HelpKINode Title="AddToCollection.Invoke method" Url="html/fc540b9c-408f-e6a6-c400-aa70eda0780a.htm" />
-  <HelpKINode Title="AddToDictionary class">
-    <HelpKINode Title="AddToDictionary Class" Url="html/076a3b30-2996-51d2-807e-70d9d8237bb4.htm" />
-    <HelpKINode Title="about AddToDictionary class" Url="html/076a3b30-2996-51d2-807e-70d9d8237bb4.htm" />
-    <HelpKINode Title="constructor" Url="html/c4537dff-7183-85b4-1352-a6c039ef00dd.htm" />
-    <HelpKINode Title="methods" Url="html/525903fc-cb91-9f33-f215-d24dae6d5f87.htm" />
-    <HelpKINode Title="properties" Url="html/d11f256c-05f2-593e-1dee-2b13e89e9377.htm" />
-  </HelpKINode>
-  <HelpKINode Title="AddToDictionary.AddToDictionary constructor" Url="html/c4537dff-7183-85b4-1352-a6c039ef00dd.htm" />
-  <HelpKINode Title="AddToDictionary.BeginInvoke method" Url="html/a29621df-5839-67e6-90b6-e40193a0faa0.htm" />
-  <HelpKINode Title="AddToDictionary.EndInvoke method" Url="html/51b998d6-7ab3-d88b-65a8-9a6f99da6ba6.htm" />
-  <HelpKINode Title="AddToDictionary.Invoke method" Url="html/3202883e-f2b5-bb3a-f63b-72cf480129a7.htm" />
-  <HelpKINode Title="AddToMap method">
-    <HelpKINode Title="XamlSystemBaseType.AddToMap Method " Url="html/17ac84b2-bae6-b34e-3a94-bd7d8296689e.htm" />
-    <HelpKINode Title="XamlUserType.AddToMap Method " Url="html/ed338eaf-744a-e154-a819-6b63ad32a674.htm" />
-  </HelpKINode>
-  <HelpKINode Title="AddToVector method">
-    <HelpKINode Title="XamlSystemBaseType.AddToVector Method " Url="html/452d25af-285e-c0c7-48bd-bc80e3235d57.htm" />
-    <HelpKINode Title="XamlUserType.AddToVector Method " Url="html/09e9e681-5f55-5730-3af4-6a82bcedfd9c.htm" />
-  </HelpKINode>
   <HelpKINode Title="alphaPlayer field" Url="html/dbbb458f-27c1-56ee-5fb9-bb55fc5dc5a7.htm" />
   <HelpKINode Title="App class">
     <HelpKINode Title="App Class" Url="html/fcda28eb-4035-64d3-1de7-f74113ccca09.htm" />
@@ -402,17 +345,6 @@
     <HelpKINode Title="SettingsPage.back_btn_clicked Method " Url="html/55276a6b-3d20-ef43-dc4f-eb0ad89f6ca4.htm" />
     <HelpKINode Title="TablutPage.back_btn_clicked Method " Url="html/c0973d2d-72a0-14d5-3d96-2b4a9637c9f1.htm" />
     <HelpKINode Title="TawlbwrddPage.back_btn_clicked Method " Url="html/4913634c-8bfd-86f0-5937-eb1e12304c60.htm" />
-  </HelpKINode>
-  <HelpKINode Title="BaseType property">
-    <HelpKINode Title="XamlSystemBaseType.BaseType Property " Url="html/9494f42d-86ca-676c-8c3b-f92ddd7df290.htm" />
-    <HelpKINode Title="XamlUserType.BaseType Property " Url="html/61394997-38fa-6086-36ee-6862df014e43.htm" />
-  </HelpKINode>
-  <HelpKINode Title="BeginInvoke method">
-    <HelpKINode Title="Activator.BeginInvoke Method " Url="html/ec98b883-902b-57ab-8cf9-740869932ac2.htm" />
-    <HelpKINode Title="AddToCollection.BeginInvoke Method " Url="html/6f1ccf2b-2478-5dc2-e532-a65d43b3135f.htm" />
-    <HelpKINode Title="AddToDictionary.BeginInvoke Method " Url="html/a29621df-5839-67e6-90b6-e40193a0faa0.htm" />
-    <HelpKINode Title="Getter.BeginInvoke Method " Url="html/2061c69e-8787-ff1f-38f0-9c7cdabcee55.htm" />
-    <HelpKINode Title="Setter.BeginInvoke Method " Url="html/ea924467-a853-3929-f61d-7a707bfe5a3f.htm" />
   </HelpKINode>
   <HelpKINode Title="bindRectangles method">
     <HelpKINode Title="ArdRiPage.bindRectangles Method " Url="html/cf361a8c-9cd4-d946-48d5-c13d998d07e8.htm" />
@@ -754,7 +686,6 @@
     <HelpKINode Title="TawlbwrddPage.checkWinAndDisplay Method " Url="html/516287c5-2b7a-4585-a957-c6d41a21b117.htm" />
   </HelpKINode>
   <HelpKINode Title="children field" Url="html/c9b3c511-12a4-3045-4dda-611dcf63a486.htm" />
-  <HelpKINode Title="CollectionAdd property" Url="html/5608f97b-964b-b7f7-9be1-fd996afca99d.htm" />
   <HelpKINode Title="Color class">
     <HelpKINode Title="fields" Url="html/0b4c6269-e1fb-572d-247a-3905755b52d9.htm" />
     <HelpKINode Title="methods" Url="html/eaa0ee44-604e-3e5a-54db-f97ff20aed65.htm" />
@@ -778,10 +709,6 @@
     <HelpKINode Title="TablutPage.Connect Method " Url="html/c514131a-f527-6162-85d7-38bdfae73f18.htm" />
     <HelpKINode Title="TawlbwrddPage.Connect Method " Url="html/34638315-1554-440c-6dde-11b9a8c5045e.htm" />
   </HelpKINode>
-  <HelpKINode Title="ContentProperty property">
-    <HelpKINode Title="XamlSystemBaseType.ContentProperty Property " Url="html/72629b03-1ae4-60f0-9368-3b195731f3c6.htm" />
-    <HelpKINode Title="XamlUserType.ContentProperty Property " Url="html/6c5b7634-c78a-ad48-28f8-a9b1637818ea.htm" />
-  </HelpKINode>
   <HelpKINode Title="CORNER field" Url="html/15b6d69b-6293-cc41-1f8d-bd4dc4afa4bc.htm" />
   <HelpKINode Title="countPieces method" Url="html/57ad4411-59c7-bfdc-f12b-7e002177f398.htm" />
   <HelpKINode Title="CPU field" Url="html/edc1e6f7-d98f-335d-9aaf-f4e68bd584c1.htm" />
@@ -799,12 +726,6 @@
     <HelpKINode Title="TablutPage.cpu_timer_text Field" Url="html/715821f6-dba3-10cc-e0bd-70ffc522d950.htm" />
     <HelpKINode Title="TawlbwrddPage.cpu_timer_text Field" Url="html/c3e3a1d5-6a35-a589-704f-881972c62dd2.htm" />
   </HelpKINode>
-  <HelpKINode Title="CreateFromString method">
-    <HelpKINode Title="XamlSystemBaseType.CreateFromString Method " Url="html/a523dea0-d312-ec14-a6a0-8c2212f07a39.htm" />
-    <HelpKINode Title="XamlUserType.CreateFromString Method " Url="html/416b39b8-85f5-6802-c819-55bdfd2789a4.htm" />
-  </HelpKINode>
-  <HelpKINode Title="CreateXamlMember method" Url="html/822e397e-b1da-ede4-1975-8d5aae162d5d.htm" />
-  <HelpKINode Title="CreateXamlType method" Url="html/710d3c32-7d8d-bdb8-6f7c-82222b9c2595.htm" />
   <HelpKINode Title="currentPlayer field">
     <HelpKINode Title="Board.currentPlayer Field" Url="html/180bdbd8-a837-d177-5df2-a15524969636.htm" />
     <HelpKINode Title="Game.currentPlayer Field" Url="html/45436dc5-bb6e-d8d1-1003-df931c2b21d5.htm" />
@@ -900,7 +821,6 @@
   </HelpKINode>
   <HelpKINode Title="decrementBlackCount method" Url="html/7fe1169a-d47c-5986-1ea5-2fe7d6c2b3c5.htm" />
   <HelpKINode Title="decrementWhiteCount method" Url="html/cebfb3f4-8f96-d386-5416-d9337b407789.htm" />
-  <HelpKINode Title="DictionaryAdd property" Url="html/e8f4afe1-7ffc-d6f3-6a42-a08e17286088.htm" />
   <HelpKINode Title="displayLegalMoves method">
     <HelpKINode Title="ArdRiPage.displayLegalMoves Method " Url="html/e202d11d-32a7-7de7-1303-c27306530274.htm" />
     <HelpKINode Title="BrandubhPage.displayLegalMoves Method " Url="html/277c57b1-415d-2b30-3f40-c953c0d8b598.htm" />
@@ -992,13 +912,6 @@
   </HelpKINode>
   <HelpKINode Title="Eight field" Url="html/a5206744-4f9e-091c-6b15-dd3a57c94c60.htm" />
   <HelpKINode Title="Eleven field" Url="html/6e8f88a6-79f5-a0d3-a3b0-7c56e3a0fed5.htm" />
-  <HelpKINode Title="EndInvoke method">
-    <HelpKINode Title="Activator.EndInvoke Method " Url="html/1d26b4e2-f3cd-5499-e6a7-49222219a6d0.htm" />
-    <HelpKINode Title="AddToCollection.EndInvoke Method " Url="html/c5e271c2-666f-45b8-f653-462bd06b3f52.htm" />
-    <HelpKINode Title="AddToDictionary.EndInvoke Method " Url="html/51b998d6-7ab3-d88b-65a8-9a6f99da6ba6.htm" />
-    <HelpKINode Title="Getter.EndInvoke Method " Url="html/23a32656-abc5-11fc-a8ee-fa09c62c2a3e.htm" />
-    <HelpKINode Title="Setter.EndInvoke Method " Url="html/e64576be-2cbd-219f-3d1c-152e13d325d9.htm" />
-  </HelpKINode>
   <HelpKINode Title="Enums class">
     <HelpKINode Title="Enums Class" Url="html/717daf6f-f680-5bfa-5e2c-51e504944dc0.htm" />
     <HelpKINode Title="about Enums class" Url="html/717daf6f-f680-5bfa-5e2c-51e504944dc0.htm" />
@@ -1152,7 +1065,6 @@
   <HelpKINode Title="FilledOrNarrow field" Url="html/11716da6-57e3-60fa-0161-b3dfd42bdf6c.htm" />
   <HelpKINode Title="Five field" Url="html/8b338c4d-9206-69a8-9eac-de9ac33a70ef.htm" />
   <HelpKINode Title="Four field" Url="html/9481eb64-32bf-59f0-51c4-ce1cabcac9be.htm" />
-  <HelpKINode Title="FullName property" Url="html/6d946cba-ae1a-a992-a3ea-36c65ad74d9e.htm" />
   <HelpKINode Title="FullScreenLandscapeOrWide field" Url="html/f6c391cb-5f7c-d794-eae0-2e881084ffc6.htm" />
   <HelpKINode Title="FullScreenPortrait field" Url="html/371044fe-04d3-2a83-89a2-3c900a580260.htm" />
   <HelpKINode Title="FullScreenPortrait_Detail field" Url="html/b5247f4d-c0f2-e7b2-824c-9414ae44a367.htm" />
@@ -1371,11 +1283,6 @@
     <HelpKINode Title="Piece.getLocation Method " Url="html/924762a4-905a-72c3-c25c-c0351a800dfe.htm" />
     <HelpKINode Title="Square.getLocation Method " Url="html/a48b41a4-754a-8fae-0ebd-052a32784fe5.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetMember method">
-    <HelpKINode Title="XamlSystemBaseType.GetMember Method " Url="html/c8512711-d727-a727-c30f-f39bae3ee25e.htm" />
-    <HelpKINode Title="XamlUserType.GetMember Method " Url="html/28b192d7-aae8-cde2-7715-9e3458aaf16f.htm" />
-  </HelpKINode>
-  <HelpKINode Title="GetMemberByLongName method" Url="html/9d938aa7-541d-f6fe-ff40-a168dad0c2bb.htm" />
   <HelpKINode Title="getMoveList method" Url="html/8685b66a-aca7-83db-7b2a-1cdb119b454b.htm" />
   <HelpKINode Title="getMoveTuple method" Url="html/9c8e46ef-1408-5cdd-ab23-b03b1f7ed565.htm" />
   <HelpKINode Title="getName method" Url="html/2c1b9538-3201-6fef-cee0-942f46065ac3.htm" />
@@ -1401,24 +1308,11 @@
   <HelpKINode Title="GetSize method" Url="html/9a4205ad-51e9-a91b-105f-f232e376975e.htm" />
   <HelpKINode Title="GetSquare method" Url="html/36e9e344-a4d3-a8e2-6d8b-1061f1768168.htm" />
   <HelpKINode Title="getSquareType method" Url="html/c1d3f0d9-cc75-986d-1ede-0a4ff9476cfe.htm" />
-  <HelpKINode Title="Getter class">
-    <HelpKINode Title="Getter Class" Url="html/b1a3421a-7e18-4721-6885-224b432fb145.htm" />
-    <HelpKINode Title="about Getter class" Url="html/b1a3421a-7e18-4721-6885-224b432fb145.htm" />
-    <HelpKINode Title="constructor" Url="html/31b8be7f-349c-7490-f5d6-74999c798626.htm" />
-    <HelpKINode Title="methods" Url="html/e5bf6bbb-e9a5-b65a-6795-fb8c3975b675.htm" />
-    <HelpKINode Title="properties" Url="html/5cd6b948-19f1-3a8a-3d0a-f983f903912a.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Getter property" Url="html/1ce1547c-30be-9eb6-0751-402fa6a8f5a3.htm" />
-  <HelpKINode Title="Getter.BeginInvoke method" Url="html/2061c69e-8787-ff1f-38f0-9c7cdabcee55.htm" />
-  <HelpKINode Title="Getter.EndInvoke method" Url="html/23a32656-abc5-11fc-a8ee-fa09c62c2a3e.htm" />
-  <HelpKINode Title="Getter.Getter constructor" Url="html/31b8be7f-349c-7490-f5d6-74999c798626.htm" />
-  <HelpKINode Title="Getter.Invoke method" Url="html/cecf503f-66c4-3973-c41c-62bddc995e73.htm" />
   <HelpKINode Title="getTurnCount method" Url="html/682fc3e6-a393-f0d7-0adb-d4f8aa2056c7.htm" />
   <HelpKINode Title="getType method">
     <HelpKINode Title="Piece.getType Method " Url="html/b57df193-90c4-bf81-fe99-2c74af4ec707.htm" />
     <HelpKINode Title="Player.getType Method " Url="html/2256b861-a1b0-5be1-065d-7b8521120f83.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetValue method" Url="html/9b30c9a4-9417-f7c5-3ca5-409bf51fd9e3.htm" />
   <HelpKINode Title="GetVisits method" Url="html/315afed3-0489-2de5-3cef-ee60a4fe8494.htm" />
   <HelpKINode Title="getWin method">
     <HelpKINode Title="Node.getWin Method " Url="html/65b31d0c-021c-f779-89d1-aebabd856c4f.htm" />
@@ -1427,14 +1321,7 @@
   <HelpKINode Title="getWinChance method" Url="html/c14684e0-210e-4e7d-f699-ddcc16227b5c.htm" />
   <HelpKINode Title="GetWinningMove method" Url="html/f1cbd682-7556-7fa2-1420-dfbca2bb4cb8.htm" />
   <HelpKINode Title="GetXamlType method" Url="html/b3891016-d650-99c0-5cc3-2a026d140fef.htm" />
-  <HelpKINode Title="GetXamlTypeByName method" Url="html/4281b805-9d2d-0776-491b-0c5b80e50483.htm" />
-  <HelpKINode Title="GetXamlTypeByType method" Url="html/d82b7899-dde6-9cc4-e8b2-2c8d0790921b.htm" />
   <HelpKINode Title="GetXmlnsDefinitions method" Url="html/3eaa74e0-43c2-a74e-2e77-27455bcf52a0.htm" />
-  <HelpKINode Title="get_0_AnimationBehavior_SourceUri method" Url="html/f8b559e6-1e00-8855-4da9-41e5276ee141.htm" />
-  <HelpKINode Title="get_1_AnimationBehavior_RepeatBehavior method" Url="html/82c36088-3975-64b9-f3ca-2da3ad87ee8a.htm" />
-  <HelpKINode Title="get_2_AnimationBehavior_SourceStream method" Url="html/734a5372-49cd-45fc-5418-0c66b4165737.htm" />
-  <HelpKINode Title="get_3_AnimationBehavior_AutoStart method" Url="html/fe46ce21-6cf5-08b9-6737-121599a128c6.htm" />
-  <HelpKINode Title="get_4_AnimationBehavior_AnimateInDesignMode method" Url="html/3636e132-b921-8243-5805-e9cdde091aa4.htm" />
   <HelpKINode Title="gifImg field" Url="html/1220bd00-fd48-c3f9-3273-4337e515a0ab.htm" />
   <HelpKINode Title="grid field" Url="html/7fbf9f7b-fe30-b612-6096-faa9b702d344.htm" />
   <HelpKINode Title="H field" Url="html/bb5240f9-6617-f897-b276-9e22b86a868e.htm" />
@@ -1812,54 +1699,7 @@
     <HelpKINode Title="TablutPage.InitializeComponent Method " Url="html/7368c79d-fddf-824e-e000-8e948864599e.htm" />
     <HelpKINode Title="TawlbwrddPage.InitializeComponent Method " Url="html/42e55f42-c2ef-6033-14dd-5043cec18f01.htm" />
   </HelpKINode>
-  <HelpKINode Title="InitTypeTables method" Url="html/c365d02d-1309-7243-23bf-8beecf6a39a1.htm" />
-  <HelpKINode Title="Invoke method">
-    <HelpKINode Title="Activator.Invoke Method " Url="html/52e95c93-9dcc-bc19-7a9e-0d11c1ea20d0.htm" />
-    <HelpKINode Title="AddToCollection.Invoke Method " Url="html/fc540b9c-408f-e6a6-c400-aa70eda0780a.htm" />
-    <HelpKINode Title="AddToDictionary.Invoke Method " Url="html/3202883e-f2b5-bb3a-f63b-72cf480129a7.htm" />
-    <HelpKINode Title="Getter.Invoke Method " Url="html/cecf503f-66c4-3973-c41c-62bddc995e73.htm" />
-    <HelpKINode Title="Setter.Invoke Method " Url="html/1c7623e2-0609-a035-c24f-c7e064cb961d.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IsArray property">
-    <HelpKINode Title="XamlSystemBaseType.IsArray Property " Url="html/89e65346-e808-997b-3568-9bd767acd137.htm" />
-    <HelpKINode Title="XamlUserType.IsArray Property " Url="html/9d4fbcd4-5205-b778-09f4-1ec8c489086c.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IsAttachable property" Url="html/7424358b-99ec-92b5-8224-08ebb2004b77.htm" />
-  <HelpKINode Title="IsBindable property">
-    <HelpKINode Title="XamlSystemBaseType.IsBindable Property " Url="html/cefa6ace-69ea-c613-07af-0178596a7d0f.htm" />
-    <HelpKINode Title="XamlUserType.IsBindable Property " Url="html/1fe31450-a5e4-8244-5a54-cfced6b5cf32.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IsCollection property">
-    <HelpKINode Title="XamlSystemBaseType.IsCollection Property " Url="html/60e25b56-fc08-ea24-0e75-a0be2db98b38.htm" />
-    <HelpKINode Title="XamlUserType.IsCollection Property " Url="html/61376b7e-7750-8191-d006-756c3b269507.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IsConstructible property">
-    <HelpKINode Title="XamlSystemBaseType.IsConstructible Property " Url="html/21a8dfb2-0077-9515-5ee6-3dfd9ff1fdcb.htm" />
-    <HelpKINode Title="XamlUserType.IsConstructible Property " Url="html/c2ddbb00-cc59-2e8c-efee-0f19ac6c8bd5.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IsDependencyProperty property" Url="html/fc7d4d35-eaab-8abe-f06d-4ee58356530f.htm" />
-  <HelpKINode Title="IsDictionary property">
-    <HelpKINode Title="XamlSystemBaseType.IsDictionary Property " Url="html/5e4bac5b-7eaf-784f-e12d-498efbe28737.htm" />
-    <HelpKINode Title="XamlUserType.IsDictionary Property " Url="html/c81d6e08-3f26-9112-7b63-7f4991575249.htm" />
-  </HelpKINode>
   <HelpKINode Title="isLeaf method" Url="html/7ed3df10-34f4-86b9-fb11-85b9d5baae79.htm" />
-  <HelpKINode Title="IsLocalType property">
-    <HelpKINode Title="XamlSystemBaseType.IsLocalType Property " Url="html/c27000d9-a912-7e19-7e40-4099b5c2ab8d.htm" />
-    <HelpKINode Title="XamlUserType.IsLocalType Property " Url="html/d2cf56d2-cf3f-f0bf-dfa0-5128299aa94d.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IsMarkupExtension property">
-    <HelpKINode Title="XamlSystemBaseType.IsMarkupExtension Property " Url="html/2264d1ee-5d42-ac78-dbd1-9e64a572da9b.htm" />
-    <HelpKINode Title="XamlUserType.IsMarkupExtension Property " Url="html/5a788054-5f41-2494-c452-ff045817712c.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IsReadOnly property" Url="html/7a0d8ad7-10b5-e0e8-cf67-ac5cd6d7db6e.htm" />
-  <HelpKINode Title="IsReturnTypeStub property">
-    <HelpKINode Title="XamlSystemBaseType.IsReturnTypeStub Property " Url="html/ca147b5e-e032-39e5-921d-dcbdffaef000.htm" />
-    <HelpKINode Title="XamlUserType.IsReturnTypeStub Property " Url="html/e83e9628-5686-68a2-aef1-cc1cc21ada57.htm" />
-  </HelpKINode>
-  <HelpKINode Title="ItemType property">
-    <HelpKINode Title="XamlSystemBaseType.ItemType Property " Url="html/152a34f2-09c6-a022-9c21-0fbc2a17d919.htm" />
-    <HelpKINode Title="XamlUserType.ItemType Property " Url="html/3111255f-450c-69ef-ebb9-11e1ca95edff.htm" />
-  </HelpKINode>
   <HelpKINode Title="J field" Url="html/8fad1165-9cd6-aaee-7e76-82f717dff8ab.htm" />
   <HelpKINode Title="J1 field">
     <HelpKINode Title="HnefataflPage.J1 Field" Url="html/4b942810-add3-695b-6dc6-6c38a714d1d0.htm" />
@@ -1950,10 +1790,6 @@
     <HelpKINode Title="HnefataflPage.K9 Field" Url="html/b6cbe3b0-2ce9-cfec-3ee0-b19f2328485b.htm" />
     <HelpKINode Title="TawlbwrddPage.K9 Field" Url="html/1825b30c-07ff-b1f8-1e85-45d5d05591d0.htm" />
   </HelpKINode>
-  <HelpKINode Title="KeyType property">
-    <HelpKINode Title="XamlSystemBaseType.KeyType Property " Url="html/d72c4843-0ae1-d1a5-53ee-bad70388bbed.htm" />
-    <HelpKINode Title="XamlUserType.KeyType Property " Url="html/dab28a21-8dbf-751b-403a-dff43a48b517.htm" />
-  </HelpKINode>
   <HelpKINode Title="KING field" Url="html/5522a8fa-1248-11dc-8352-53a751254ce6.htm" />
   <HelpKINode Title="kingCaptured field" Url="html/55c91b84-470a-9b46-a3cf-87eedd36ea9f.htm" />
   <HelpKINode Title="kingEscaped field" Url="html/ef85f4f5-4601-f9e3-b389-00f31e472537.htm" />
@@ -1974,8 +1810,6 @@
   </HelpKINode>
   <HelpKINode Title="legalMoves field" Url="html/eeafceb2-bec1-fb1c-62df-cd3d4f8bb14d.htm" />
   <HelpKINode Title="LoadingBar field" Url="html/34c9e855-8a56-3344-b3ff-1799bdb2eadb.htm" />
-  <HelpKINode Title="LookupTypeIndexByName method" Url="html/ff6eaa9e-5e8e-513a-076e-620c596bb8bc.htm" />
-  <HelpKINode Title="LookupTypeIndexByType method" Url="html/585b8569-f05c-d3a4-6ca2-4c3782f177cb.htm" />
   <HelpKINode Title="LOSS_POINTS field" Url="html/942bd190-5e2c-7601-7a8d-f39431693634.htm" />
   <HelpKINode Title="Main method" Url="html/39a5dddb-84ce-6704-4498-8c1819308025.htm" />
   <HelpKINode Title="MainPage class">
@@ -2068,12 +1902,11 @@
     <HelpKINode Title="TawlbwrddPage.msCount Field" Url="html/95d08ebc-d5f0-f55c-6202-093c3af522b8.htm" />
   </HelpKINode>
   <HelpKINode Title="name field" Url="html/a0790ca5-82b4-be0d-e20c-9dbe23d99b49.htm" />
-  <HelpKINode Title="Name property" Url="html/323b9e37-82bb-c06b-481c-e90760f36c29.htm" />
   <HelpKINode Title="NamespaceDoc class">
     <HelpKINode Title="NamespaceDoc Class" Url="html/5e5751ce-37cb-073a-b4ef-6fa008d46307.htm" />
     <HelpKINode Title="NamespaceDoc Class" Url="html/24a817e1-1825-471e-fea1-d1cbcd97cb29.htm" />
-    <HelpKINode Title="about NamespaceDoc class" Url="html/24a817e1-1825-471e-fea1-d1cbcd97cb29.htm" />
     <HelpKINode Title="about NamespaceDoc class" Url="html/5e5751ce-37cb-073a-b4ef-6fa008d46307.htm" />
+    <HelpKINode Title="about NamespaceDoc class" Url="html/24a817e1-1825-471e-fea1-d1cbcd97cb29.htm" />
     <HelpKINode Title="constructor" Url="html/24bde5e3-6860-da5a-aeb2-bf438677806a.htm" />
     <HelpKINode Title="constructor" Url="html/f926fe6a-1517-16bd-9312-3a363b6a2918.htm" />
     <HelpKINode Title="methods" Url="html/7c95b4e6-3510-cc9a-e758-d5f00a217384.htm" />
@@ -2484,10 +2317,6 @@
   <HelpKINode Title="RulesPage.winDefBtn_clicked method" Url="html/69b3b811-2d3b-33bc-c059-fbacd847ed79.htm" />
   <HelpKINode Title="RulesPage.winDefendBtn field" Url="html/3e6360d5-4188-6123-6dca-38366364d350.htm" />
   <HelpKINode Title="RulesPage._contentLoaded field" Url="html/3d2286d8-badc-af42-a311-12f41128416c.htm" />
-  <HelpKINode Title="RunInitializer method">
-    <HelpKINode Title="XamlSystemBaseType.RunInitializer Method " Url="html/4fb119d9-e87c-7d28-f02e-e233089f3272.htm" />
-    <HelpKINode Title="XamlUserType.RunInitializer Method " Url="html/7783b383-4a9f-5d55-d55a-0302fe83cdaa.htm" />
-  </HelpKINode>
   <HelpKINode Title="score field">
     <HelpKINode Title="Game.score Field" Url="html/7c97c31a-d4d4-7a1a-d3e0-71f392fec994.htm" />
     <HelpKINode Title="Node.score Field" Url="html/cf47f4bd-b087-6d24-1ad9-66a89f6f3e12.htm" />
@@ -2523,7 +2352,6 @@
     <HelpKINode Title="Piece.setColor Method " Url="html/9c894d6f-d13f-97a5-77b3-6f6c0916d430.htm" />
     <HelpKINode Title="Player.setColor Method " Url="html/cb3c4d82-a5ef-e57d-1f11-0e1d5aff91c5.htm" />
   </HelpKINode>
-  <HelpKINode Title="SetContentPropertyName method" Url="html/649beea8-f104-1642-f4d9-a29373f4d90d.htm" />
   <HelpKINode Title="setCurrentPlayer method">
     <HelpKINode Title="Board.setCurrentPlayer Method " Url="html/f444bf9c-c2fe-4a71-c286-6e062305af2a.htm" />
     <HelpKINode Title="Game.setCurrentPlayer Method " Url="html/0cfa07d7-b8ea-73bb-d0ee-8a32cd925103.htm" />
@@ -2533,16 +2361,6 @@
     <HelpKINode Title="Square.setFile Method " Url="html/76b89416-f8c4-adef-4c6f-9387b25c7a34.htm" />
   </HelpKINode>
   <HelpKINode Title="setHnefataflPieces method" Url="html/3e4e2802-421f-5385-6d83-38bf4b858427.htm" />
-  <HelpKINode Title="SetIsArray method" Url="html/a38e1d2c-9f57-11d7-f683-f9c051e55247.htm" />
-  <HelpKINode Title="SetIsAttachable method" Url="html/e13f331e-85af-79cc-d70f-5d26ca99d5d3.htm" />
-  <HelpKINode Title="SetIsBindable method" Url="html/4dd228dd-fb19-ef1e-98b8-91184969bb0c.htm" />
-  <HelpKINode Title="SetIsDependencyProperty method" Url="html/75e16c49-3e0e-b82a-b48b-cf6a5c1ee61d.htm" />
-  <HelpKINode Title="SetIsLocalType method" Url="html/760edc1a-db9f-9b6a-e43a-67ed7616c37d.htm" />
-  <HelpKINode Title="SetIsMarkupExtension method" Url="html/642aeab0-3db6-8ca8-90fe-285190af6a49.htm" />
-  <HelpKINode Title="SetIsReadOnly method" Url="html/4a29cf32-95cb-ff59-574a-70d2c5559673.htm" />
-  <HelpKINode Title="SetIsReturnTypeStub method" Url="html/600e5a5b-815f-9e74-9f83-ac716edf7ed0.htm" />
-  <HelpKINode Title="SetItemTypeName method" Url="html/258d4f35-0b8f-3155-5c56-42ea7422d38e.htm" />
-  <HelpKINode Title="SetKeyTypeName method" Url="html/be22430e-eb0a-1c05-ed00-44efb25476a5.htm" />
   <HelpKINode Title="setLastMove method" Url="html/705b3a36-9b0d-2360-8cfb-dcc07657cad7.htm" />
   <HelpKINode Title="setLocation method">
     <HelpKINode Title="Piece.setLocation Method " Url="html/50982ca3-61a3-3058-83d1-41844b68aa6a.htm" />
@@ -2561,20 +2379,7 @@
   <HelpKINode Title="SetSpecialSquares method" Url="html/3ed417c7-0a3d-b2ba-62bd-d78c30510e9c.htm" />
   <HelpKINode Title="SetSquare method" Url="html/b9acdf91-4de0-3665-91f0-ad9facfd0d38.htm" />
   <HelpKINode Title="setTablutPieces method" Url="html/1bb96f06-0aa9-4223-1a22-201236ec06b4.htm" />
-  <HelpKINode Title="SetTargetTypeName method" Url="html/97fa109f-7574-ff18-7503-b94ca34b82af.htm" />
   <HelpKINode Title="setTawlbwrddPieces method" Url="html/4cf78c3c-3126-5ae4-c27f-08975c3911df.htm" />
-  <HelpKINode Title="Setter class">
-    <HelpKINode Title="Setter Class" Url="html/f0286202-bf59-0992-5d2b-a0ee488af927.htm" />
-    <HelpKINode Title="about Setter class" Url="html/f0286202-bf59-0992-5d2b-a0ee488af927.htm" />
-    <HelpKINode Title="constructor" Url="html/4e6c6d73-afe4-30fc-0d3c-4cc987b8394e.htm" />
-    <HelpKINode Title="methods" Url="html/2ebe6dbc-c3fd-60b5-04ff-86a612d4df1f.htm" />
-    <HelpKINode Title="properties" Url="html/ac93ffba-1f2c-56b0-7680-fcd5a327436b.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Setter property" Url="html/4bdabb70-073e-f6ad-6173-c0f51f663bca.htm" />
-  <HelpKINode Title="Setter.BeginInvoke method" Url="html/ea924467-a853-3929-f61d-7a707bfe5a3f.htm" />
-  <HelpKINode Title="Setter.EndInvoke method" Url="html/e64576be-2cbd-219f-3d1c-152e13d325d9.htm" />
-  <HelpKINode Title="Setter.Invoke method" Url="html/1c7623e2-0609-a035-c24f-c7e064cb961d.htm" />
-  <HelpKINode Title="Setter.Setter constructor" Url="html/4e6c6d73-afe4-30fc-0d3c-4cc987b8394e.htm" />
   <HelpKINode Title="SettingsPage class">
     <HelpKINode Title="SettingsPage Class" Url="html/bf972126-bf77-ca62-ec3a-851b86c212df.htm" />
     <HelpKINode Title="about SettingsPage class" Url="html/bf972126-bf77-ca62-ec3a-851b86c212df.htm" />
@@ -2628,16 +2433,10 @@
     <HelpKINode Title="Player.setType Method " Url="html/b91deb26-18ea-61ca-72e4-f947fb05a303.htm" />
     <HelpKINode Title="Square.setType Method " Url="html/d8dbec97-ac49-fe84-645d-eb68f8fdd2cc.htm" />
   </HelpKINode>
-  <HelpKINode Title="SetValue method" Url="html/137c1a5b-e421-ad73-b804-871a65d987f0.htm" />
   <HelpKINode Title="setWin method">
     <HelpKINode Title="Node.setWin Method " Url="html/2697d7f1-ae9b-3935-72d6-ae95e7bfea51.htm" />
     <HelpKINode Title="Player.setWin Method " Url="html/1214f01e-e92e-4685-3c28-75324cf96baa.htm" />
   </HelpKINode>
-  <HelpKINode Title="set_0_AnimationBehavior_SourceUri method" Url="html/eb48442f-3f3e-cbc4-9c69-84bb7bf61161.htm" />
-  <HelpKINode Title="set_1_AnimationBehavior_RepeatBehavior method" Url="html/9df3f05f-fbc0-2d7b-1318-45db9e717968.htm" />
-  <HelpKINode Title="set_2_AnimationBehavior_SourceStream method" Url="html/7c676506-e5e7-705d-d6cf-b080fe6f9076.htm" />
-  <HelpKINode Title="set_3_AnimationBehavior_AutoStart method" Url="html/16827783-5cb1-ce80-9b32-76f0771ed7e1.htm" />
-  <HelpKINode Title="set_4_AnimationBehavior_AnimateInDesignMode method" Url="html/4eeaed40-e8ba-0fc5-c5b9-617cb5980772.htm" />
   <HelpKINode Title="Seven field" Url="html/59c7d783-a42b-c7d2-8bee-d73ae24d7e52.htm" />
   <HelpKINode Title="simulated field" Url="html/7585b43e-e43d-9a0c-15f3-15be71af4de1.htm" />
   <HelpKINode Title="SimulateGame method" Url="html/72e2a4ff-5948-8fd5-23c9-3446b6e9f439.htm" />
@@ -2872,7 +2671,6 @@
   <HelpKINode Title="TablutPage.whiteImageBrush field" Url="html/fb30548a-da25-a36a-2fe8-768079a38908.htm" />
   <HelpKINode Title="TablutPage.winText field" Url="html/6e282e5b-1545-9b99-953d-d9bb7c9e1e8a.htm" />
   <HelpKINode Title="TablutPage._contentLoaded field" Url="html/7b5a4212-7d28-9659-fe07-1537fd2f918f.htm" />
-  <HelpKINode Title="TargetType property" Url="html/60f82d54-ba15-5274-5352-bf92245117c6.htm" />
   <HelpKINode Title="TawlbwrddBtn field" Url="html/643d863b-646e-343b-43c5-b63b63b64ce6.htm" />
   <HelpKINode Title="TawlbwrddBtn_Clicked method" Url="html/5f394157-8e1b-a851-606a-d9729fba1a5f.htm" />
   <HelpKINode Title="TawlbwrddLabel field" Url="html/733a8219-443f-2180-7214-583f24358ad7.htm" />
@@ -3132,9 +2930,7 @@
     <HelpKINode Title="Player.type Field" Url="html/2b41edb3-03de-595a-f65a-46015dd37274.htm" />
     <HelpKINode Title="Square.type Field" Url="html/95df4c36-a883-3dbd-2423-e0e56d5628e0.htm" />
   </HelpKINode>
-  <HelpKINode Title="Type property" Url="html/2c890004-c284-aa2f-171c-b8e2f8f803af.htm" />
   <HelpKINode Title="UCTSelectBest method" Url="html/9f753429-1593-926f-0150-bc9e7ced974d.htm" />
-  <HelpKINode Title="UnderlyingType property" Url="html/3082efa2-eef6-e6b8-aadf-c049ab005e6f.htm" />
   <HelpKINode Title="UndoBtn1 field">
     <HelpKINode Title="ArdRiPage.UndoBtn1 Field" Url="html/488bf674-d316-5363-a6b2-0f6640c25fcc.htm" />
     <HelpKINode Title="BrandubhPage.UndoBtn1 Field" Url="html/33c91120-81a0-ea1b-929c-c85d25430f84.htm" />
@@ -3200,16 +2996,6 @@
   <HelpKINode Title="VikingChess.SettingsPage class" Url="html/bf972126-bf77-ca62-ec3a-851b86c212df.htm" />
   <HelpKINode Title="VikingChess.TablutPage class" Url="html/48302e70-5b61-7252-81b8-cd4c2b63653e.htm" />
   <HelpKINode Title="VikingChess.TawlbwrddPage class" Url="html/3e041f1d-7374-fb7b-2504-0be0ad0cafb5.htm" />
-  <HelpKINode Title="VikingChess.VikingChess_XamlTypeInfo namespace" Url="html/82d640e9-3952-a6d9-cf03-172ae09a5a64.htm" />
-  <HelpKINode Title="VikingChess.VikingChess_XamlTypeInfo.Activator class" Url="html/36c4dcf4-d063-8eb8-b411-60f6714241c5.htm" />
-  <HelpKINode Title="VikingChess.VikingChess_XamlTypeInfo.AddToCollection class" Url="html/29a32e52-cfe9-c0df-8ef1-5476eeeece7b.htm" />
-  <HelpKINode Title="VikingChess.VikingChess_XamlTypeInfo.AddToDictionary class" Url="html/076a3b30-2996-51d2-807e-70d9d8237bb4.htm" />
-  <HelpKINode Title="VikingChess.VikingChess_XamlTypeInfo.Getter class" Url="html/b1a3421a-7e18-4721-6885-224b432fb145.htm" />
-  <HelpKINode Title="VikingChess.VikingChess_XamlTypeInfo.Setter class" Url="html/f0286202-bf59-0992-5d2b-a0ee488af927.htm" />
-  <HelpKINode Title="VikingChess.VikingChess_XamlTypeInfo.XamlMember class" Url="html/ea8db2ca-7056-988e-b559-9c5674487e21.htm" />
-  <HelpKINode Title="VikingChess.VikingChess_XamlTypeInfo.XamlSystemBaseType class" Url="html/7e8dfe72-06f2-a8c9-138f-462133ccfda4.htm" />
-  <HelpKINode Title="VikingChess.VikingChess_XamlTypeInfo.XamlTypeInfoProvider class" Url="html/fb1a47f1-bf1d-a58e-4bb2-0382384e2582.htm" />
-  <HelpKINode Title="VikingChess.VikingChess_XamlTypeInfo.XamlUserType class" Url="html/6c81db98-6d5b-12d4-129c-d56e2e1734d5.htm" />
   <HelpKINode Title="visitCount field" Url="html/6a63c4a9-061d-538b-2c7c-a30110d82838.htm" />
   <HelpKINode Title="VisualStateGroup field" Url="html/c441b34a-86ca-70a2-a354-62573ba2bc18.htm" />
   <HelpKINode Title="vsCpuLabel field" Url="html/bf1c9a17-a7a9-cd0e-00ab-59c2ac08a52e.htm" />
@@ -3240,164 +3026,10 @@
     <HelpKINode Title="TawlbwrddPage.winText Field" Url="html/ac2e27d1-d939-89be-24f5-2bf94e04a27b.htm" />
   </HelpKINode>
   <HelpKINode Title="WIN_POINTS field" Url="html/ab513385-6424-6284-c364-bc82b3802c9e.htm" />
-  <HelpKINode Title="XamlMember class">
-    <HelpKINode Title="XamlMember Class" Url="html/ea8db2ca-7056-988e-b559-9c5674487e21.htm" />
-    <HelpKINode Title="about XamlMember class" Url="html/ea8db2ca-7056-988e-b559-9c5674487e21.htm" />
-    <HelpKINode Title="constructor" Url="html/60c6189b-b59d-853f-75e0-a8f72d74c352.htm" />
-    <HelpKINode Title="fields" Url="html/24176610-4756-810f-bd40-d641cbb1ab52.htm" />
-    <HelpKINode Title="methods" Url="html/39b72647-ac59-11dd-626d-6136828fb936.htm" />
-    <HelpKINode Title="properties" Url="html/b0dedcf7-d1ac-64be-1eaa-d712efe7fa67.htm" />
-  </HelpKINode>
-  <HelpKINode Title="XamlMember.Getter property" Url="html/1ce1547c-30be-9eb6-0751-402fa6a8f5a3.htm" />
-  <HelpKINode Title="XamlMember.GetValue method" Url="html/9b30c9a4-9417-f7c5-3ca5-409bf51fd9e3.htm" />
-  <HelpKINode Title="XamlMember.IsAttachable property" Url="html/7424358b-99ec-92b5-8224-08ebb2004b77.htm" />
-  <HelpKINode Title="XamlMember.IsDependencyProperty property" Url="html/fc7d4d35-eaab-8abe-f06d-4ee58356530f.htm" />
-  <HelpKINode Title="XamlMember.IsReadOnly property" Url="html/7a0d8ad7-10b5-e0e8-cf67-ac5cd6d7db6e.htm" />
-  <HelpKINode Title="XamlMember.Name property" Url="html/323b9e37-82bb-c06b-481c-e90760f36c29.htm" />
-  <HelpKINode Title="XamlMember.SetIsAttachable method" Url="html/e13f331e-85af-79cc-d70f-5d26ca99d5d3.htm" />
-  <HelpKINode Title="XamlMember.SetIsDependencyProperty method" Url="html/75e16c49-3e0e-b82a-b48b-cf6a5c1ee61d.htm" />
-  <HelpKINode Title="XamlMember.SetIsReadOnly method" Url="html/4a29cf32-95cb-ff59-574a-70d2c5559673.htm" />
-  <HelpKINode Title="XamlMember.SetTargetTypeName method" Url="html/97fa109f-7574-ff18-7503-b94ca34b82af.htm" />
-  <HelpKINode Title="XamlMember.Setter property" Url="html/4bdabb70-073e-f6ad-6173-c0f51f663bca.htm" />
-  <HelpKINode Title="XamlMember.SetValue method" Url="html/137c1a5b-e421-ad73-b804-871a65d987f0.htm" />
-  <HelpKINode Title="XamlMember.TargetType property" Url="html/60f82d54-ba15-5274-5352-bf92245117c6.htm" />
-  <HelpKINode Title="XamlMember.Type property" Url="html/2c890004-c284-aa2f-171c-b8e2f8f803af.htm" />
-  <HelpKINode Title="XamlMember.XamlMember constructor" Url="html/60c6189b-b59d-853f-75e0-a8f72d74c352.htm" />
-  <HelpKINode Title="XamlMember._isAttachable field" Url="html/a9c1649d-66b0-f277-4737-dd4f8f6ee558.htm" />
-  <HelpKINode Title="XamlMember._isDependencyProperty field" Url="html/06bbf789-0c81-55a0-6940-0590ce737e05.htm" />
-  <HelpKINode Title="XamlMember._isReadOnly field" Url="html/a9a04f35-6e96-d097-91fa-f5f475001e2d.htm" />
-  <HelpKINode Title="XamlMember._name field" Url="html/43667a4f-51a9-1a14-93a3-202236de2997.htm" />
-  <HelpKINode Title="XamlMember._provider field" Url="html/65e800fe-7e52-2f77-c041-c0ca44332a40.htm" />
-  <HelpKINode Title="XamlMember._targetTypeName field" Url="html/9d672fa9-4b48-f680-2eed-4ef61702582c.htm" />
-  <HelpKINode Title="XamlMember._typeName field" Url="html/dba3f2b2-5aa2-83cd-2f0f-296a2da5414c.htm" />
-  <HelpKINode Title="XamlSystemBaseType class">
-    <HelpKINode Title="XamlSystemBaseType Class" Url="html/7e8dfe72-06f2-a8c9-138f-462133ccfda4.htm" />
-    <HelpKINode Title="about XamlSystemBaseType class" Url="html/7e8dfe72-06f2-a8c9-138f-462133ccfda4.htm" />
-    <HelpKINode Title="constructor" Url="html/f3d0b7dc-d8b7-d22b-fcca-08f6c7089bb7.htm" />
-    <HelpKINode Title="fields" Url="html/69084a9a-e860-d8bd-3960-77ffe286b853.htm" />
-    <HelpKINode Title="methods" Url="html/34ab70b9-fedd-dc55-cde5-87cfb2c56470.htm" />
-    <HelpKINode Title="properties" Url="html/80a6f842-14fd-afd8-a8b6-af1276f63a6a.htm" />
-  </HelpKINode>
-  <HelpKINode Title="XamlSystemBaseType.ActivateInstance method" Url="html/35073c57-2a17-92a3-dc44-252b85308f79.htm" />
-  <HelpKINode Title="XamlSystemBaseType.AddToMap method" Url="html/17ac84b2-bae6-b34e-3a94-bd7d8296689e.htm" />
-  <HelpKINode Title="XamlSystemBaseType.AddToVector method" Url="html/452d25af-285e-c0c7-48bd-bc80e3235d57.htm" />
-  <HelpKINode Title="XamlSystemBaseType.BaseType property" Url="html/9494f42d-86ca-676c-8c3b-f92ddd7df290.htm" />
-  <HelpKINode Title="XamlSystemBaseType.ContentProperty property" Url="html/72629b03-1ae4-60f0-9368-3b195731f3c6.htm" />
-  <HelpKINode Title="XamlSystemBaseType.CreateFromString method" Url="html/a523dea0-d312-ec14-a6a0-8c2212f07a39.htm" />
-  <HelpKINode Title="XamlSystemBaseType.FullName property" Url="html/6d946cba-ae1a-a992-a3ea-36c65ad74d9e.htm" />
-  <HelpKINode Title="XamlSystemBaseType.GetMember method" Url="html/c8512711-d727-a727-c30f-f39bae3ee25e.htm" />
-  <HelpKINode Title="XamlSystemBaseType.IsArray property" Url="html/89e65346-e808-997b-3568-9bd767acd137.htm" />
-  <HelpKINode Title="XamlSystemBaseType.IsBindable property" Url="html/cefa6ace-69ea-c613-07af-0178596a7d0f.htm" />
-  <HelpKINode Title="XamlSystemBaseType.IsCollection property" Url="html/60e25b56-fc08-ea24-0e75-a0be2db98b38.htm" />
-  <HelpKINode Title="XamlSystemBaseType.IsConstructible property" Url="html/21a8dfb2-0077-9515-5ee6-3dfd9ff1fdcb.htm" />
-  <HelpKINode Title="XamlSystemBaseType.IsDictionary property" Url="html/5e4bac5b-7eaf-784f-e12d-498efbe28737.htm" />
-  <HelpKINode Title="XamlSystemBaseType.IsLocalType property" Url="html/c27000d9-a912-7e19-7e40-4099b5c2ab8d.htm" />
-  <HelpKINode Title="XamlSystemBaseType.IsMarkupExtension property" Url="html/2264d1ee-5d42-ac78-dbd1-9e64a572da9b.htm" />
-  <HelpKINode Title="XamlSystemBaseType.IsReturnTypeStub property" Url="html/ca147b5e-e032-39e5-921d-dcbdffaef000.htm" />
-  <HelpKINode Title="XamlSystemBaseType.ItemType property" Url="html/152a34f2-09c6-a022-9c21-0fbc2a17d919.htm" />
-  <HelpKINode Title="XamlSystemBaseType.KeyType property" Url="html/d72c4843-0ae1-d1a5-53ee-bad70388bbed.htm" />
-  <HelpKINode Title="XamlSystemBaseType.RunInitializer method" Url="html/4fb119d9-e87c-7d28-f02e-e233089f3272.htm" />
-  <HelpKINode Title="XamlSystemBaseType.UnderlyingType property" Url="html/3082efa2-eef6-e6b8-aadf-c049ab005e6f.htm" />
-  <HelpKINode Title="XamlSystemBaseType.XamlSystemBaseType constructor" Url="html/f3d0b7dc-d8b7-d22b-fcca-08f6c7089bb7.htm" />
-  <HelpKINode Title="XamlSystemBaseType._fullName field" Url="html/62cdafe2-086b-e5b3-5081-13da01d2e0da.htm" />
-  <HelpKINode Title="XamlSystemBaseType._underlyingType field" Url="html/e845fcd5-2123-60f4-2f2b-0b5c8cff8d07.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider class">
-    <HelpKINode Title="XamlTypeInfoProvider Class" Url="html/fb1a47f1-bf1d-a58e-4bb2-0382384e2582.htm" />
-    <HelpKINode Title="about XamlTypeInfoProvider class" Url="html/fb1a47f1-bf1d-a58e-4bb2-0382384e2582.htm" />
-    <HelpKINode Title="constructor" Url="html/1fa42a75-7f10-eb09-e243-2c2693d0fa66.htm" />
-    <HelpKINode Title="fields" Url="html/8590d2ae-c27b-bdbc-a686-f83b9722bdfb.htm" />
-    <HelpKINode Title="methods" Url="html/96607a26-b22c-e44b-1028-a6b08ba2785a.htm" />
-  </HelpKINode>
-  <HelpKINode Title="XamlTypeInfoProvider.Activate_0_AboutPage method" Url="html/390d0a24-8d4a-7dbe-1a30-56f972bb2474.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.Activate_13_RulesPage method" Url="html/dffa6e2c-6587-3d33-d0ee-c507bda38c8d.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.Activate_14_HnefataflPage method" Url="html/7d10e1b7-1dca-6594-7130-7b445be11db9.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.Activate_15_SettingsPage method" Url="html/0ccf8287-a59f-0d67-3ea9-007209979152.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.Activate_16_MainPage method" Url="html/b5eb4926-53fc-d831-5507-d61ba42f06ec.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.Activate_17_TablutPage method" Url="html/2cab3187-2041-0bf7-deb6-d4dc8653eef1.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.Activate_18_TawlbwrddPage method" Url="html/bdf455c6-2057-472f-ad04-5ac82a968c80.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.Activate_3_ArdRiPage method" Url="html/de806bff-8356-964b-ce26-b9e4d4a9e50e.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.Activate_4_BrandubhPage method" Url="html/708eda72-ab99-7d1e-78b4-eb4d4da01f91.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.CreateXamlMember method" Url="html/822e397e-b1da-ede4-1975-8d5aae162d5d.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.CreateXamlType method" Url="html/710d3c32-7d8d-bdb8-6f7c-82222b9c2595.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.GetMemberByLongName method" Url="html/9d938aa7-541d-f6fe-ff40-a168dad0c2bb.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.GetXamlTypeByName method" Url="html/4281b805-9d2d-0776-491b-0c5b80e50483.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.GetXamlTypeByType method" Url="html/d82b7899-dde6-9cc4-e8b2-2c8d0790921b.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.get_0_AnimationBehavior_SourceUri method" Url="html/f8b559e6-1e00-8855-4da9-41e5276ee141.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.get_1_AnimationBehavior_RepeatBehavior method" Url="html/82c36088-3975-64b9-f3ca-2da3ad87ee8a.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.get_2_AnimationBehavior_SourceStream method" Url="html/734a5372-49cd-45fc-5418-0c66b4165737.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.get_3_AnimationBehavior_AutoStart method" Url="html/fe46ce21-6cf5-08b9-6737-121599a128c6.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.get_4_AnimationBehavior_AnimateInDesignMode method" Url="html/3636e132-b921-8243-5805-e9cdde091aa4.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.InitTypeTables method" Url="html/c365d02d-1309-7243-23bf-8beecf6a39a1.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.LookupTypeIndexByName method" Url="html/ff6eaa9e-5e8e-513a-076e-620c596bb8bc.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.LookupTypeIndexByType method" Url="html/585b8569-f05c-d3a4-6ca2-4c3782f177cb.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.set_0_AnimationBehavior_SourceUri method" Url="html/eb48442f-3f3e-cbc4-9c69-84bb7bf61161.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.set_1_AnimationBehavior_RepeatBehavior method" Url="html/9df3f05f-fbc0-2d7b-1318-45db9e717968.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.set_2_AnimationBehavior_SourceStream method" Url="html/7c676506-e5e7-705d-d6cf-b080fe6f9076.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.set_3_AnimationBehavior_AutoStart method" Url="html/16827783-5cb1-ce80-9b32-76f0771ed7e1.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.set_4_AnimationBehavior_AnimateInDesignMode method" Url="html/4eeaed40-e8ba-0fc5-c5b9-617cb5980772.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider.XamlTypeInfoProvider constructor" Url="html/1fa42a75-7f10-eb09-e243-2c2693d0fa66.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider._typeNameTable field" Url="html/ef186e23-6723-3f33-f852-e99dc97a57c9.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider._typeTable field" Url="html/95500ac5-07d6-13bd-bb96-ea06ba4b4efb.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider._xamlMembers field" Url="html/9147159f-b3ad-52cc-bd8e-64bf4871ba02.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider._xamlTypeCacheByName field" Url="html/eca9a96e-5f1f-9b80-7d5c-c10d13433263.htm" />
-  <HelpKINode Title="XamlTypeInfoProvider._xamlTypeCacheByType field" Url="html/5525eca3-d4a7-f761-e1f2-5b892f8790ed.htm" />
-  <HelpKINode Title="XamlUserType class">
-    <HelpKINode Title="XamlUserType Class" Url="html/6c81db98-6d5b-12d4-129c-d56e2e1734d5.htm" />
-    <HelpKINode Title="about XamlUserType class" Url="html/6c81db98-6d5b-12d4-129c-d56e2e1734d5.htm" />
-    <HelpKINode Title="constructor" Url="html/1a5b036e-e0ca-c87f-5625-6e06dc0b244d.htm" />
-    <HelpKINode Title="fields" Url="html/8825a6fb-c137-0d6c-d582-bf9af541b01a.htm" />
-    <HelpKINode Title="methods" Url="html/f0773d49-71d9-47d7-6826-67deb176de1f.htm" />
-    <HelpKINode Title="properties" Url="html/52a16b35-d37e-063f-8f07-94c330446f8b.htm" />
-  </HelpKINode>
-  <HelpKINode Title="XamlUserType.ActivateInstance method" Url="html/2a5e9029-ee38-5228-59a9-1f833818e225.htm" />
-  <HelpKINode Title="XamlUserType.Activator property" Url="html/9e1bfdaa-6118-b0b2-6b5b-d3ae96c22ef6.htm" />
-  <HelpKINode Title="XamlUserType.AddEnumValue method" Url="html/a8a4715e-1025-72d1-8414-57ab5f5a81a0.htm" />
-  <HelpKINode Title="XamlUserType.AddMemberName method" Url="html/a3008af1-735a-cde2-b903-61f5c109204d.htm" />
-  <HelpKINode Title="XamlUserType.AddToMap method" Url="html/ed338eaf-744a-e154-a819-6b63ad32a674.htm" />
-  <HelpKINode Title="XamlUserType.AddToVector method" Url="html/09e9e681-5f55-5730-3af4-6a82bcedfd9c.htm" />
-  <HelpKINode Title="XamlUserType.BaseType property" Url="html/61394997-38fa-6086-36ee-6862df014e43.htm" />
-  <HelpKINode Title="XamlUserType.CollectionAdd property" Url="html/5608f97b-964b-b7f7-9be1-fd996afca99d.htm" />
-  <HelpKINode Title="XamlUserType.ContentProperty property" Url="html/6c5b7634-c78a-ad48-28f8-a9b1637818ea.htm" />
-  <HelpKINode Title="XamlUserType.CreateFromString method" Url="html/416b39b8-85f5-6802-c819-55bdfd2789a4.htm" />
-  <HelpKINode Title="XamlUserType.DictionaryAdd property" Url="html/e8f4afe1-7ffc-d6f3-6a42-a08e17286088.htm" />
-  <HelpKINode Title="XamlUserType.GetMember method" Url="html/28b192d7-aae8-cde2-7715-9e3458aaf16f.htm" />
-  <HelpKINode Title="XamlUserType.IsArray property" Url="html/9d4fbcd4-5205-b778-09f4-1ec8c489086c.htm" />
-  <HelpKINode Title="XamlUserType.IsBindable property" Url="html/1fe31450-a5e4-8244-5a54-cfced6b5cf32.htm" />
-  <HelpKINode Title="XamlUserType.IsCollection property" Url="html/61376b7e-7750-8191-d006-756c3b269507.htm" />
-  <HelpKINode Title="XamlUserType.IsConstructible property" Url="html/c2ddbb00-cc59-2e8c-efee-0f19ac6c8bd5.htm" />
-  <HelpKINode Title="XamlUserType.IsDictionary property" Url="html/c81d6e08-3f26-9112-7b63-7f4991575249.htm" />
-  <HelpKINode Title="XamlUserType.IsLocalType property" Url="html/d2cf56d2-cf3f-f0bf-dfa0-5128299aa94d.htm" />
-  <HelpKINode Title="XamlUserType.IsMarkupExtension property" Url="html/5a788054-5f41-2494-c452-ff045817712c.htm" />
-  <HelpKINode Title="XamlUserType.IsReturnTypeStub property" Url="html/e83e9628-5686-68a2-aef1-cc1cc21ada57.htm" />
-  <HelpKINode Title="XamlUserType.ItemType property" Url="html/3111255f-450c-69ef-ebb9-11e1ca95edff.htm" />
-  <HelpKINode Title="XamlUserType.KeyType property" Url="html/dab28a21-8dbf-751b-403a-dff43a48b517.htm" />
-  <HelpKINode Title="XamlUserType.RunInitializer method" Url="html/7783b383-4a9f-5d55-d55a-0302fe83cdaa.htm" />
-  <HelpKINode Title="XamlUserType.SetContentPropertyName method" Url="html/649beea8-f104-1642-f4d9-a29373f4d90d.htm" />
-  <HelpKINode Title="XamlUserType.SetIsArray method" Url="html/a38e1d2c-9f57-11d7-f683-f9c051e55247.htm" />
-  <HelpKINode Title="XamlUserType.SetIsBindable method" Url="html/4dd228dd-fb19-ef1e-98b8-91184969bb0c.htm" />
-  <HelpKINode Title="XamlUserType.SetIsLocalType method" Url="html/760edc1a-db9f-9b6a-e43a-67ed7616c37d.htm" />
-  <HelpKINode Title="XamlUserType.SetIsMarkupExtension method" Url="html/642aeab0-3db6-8ca8-90fe-285190af6a49.htm" />
-  <HelpKINode Title="XamlUserType.SetIsReturnTypeStub method" Url="html/600e5a5b-815f-9e74-9f83-ac716edf7ed0.htm" />
-  <HelpKINode Title="XamlUserType.SetItemTypeName method" Url="html/258d4f35-0b8f-3155-5c56-42ea7422d38e.htm" />
-  <HelpKINode Title="XamlUserType.SetKeyTypeName method" Url="html/be22430e-eb0a-1c05-ed00-44efb25476a5.htm" />
-  <HelpKINode Title="XamlUserType.XamlUserType constructor" Url="html/1a5b036e-e0ca-c87f-5625-6e06dc0b244d.htm" />
-  <HelpKINode Title="XamlUserType._baseType field" Url="html/247d7f15-a213-e9cc-68bf-9a20f29db6a0.htm" />
-  <HelpKINode Title="XamlUserType._contentPropertyName field" Url="html/f5b93bc9-4e51-ef4f-43e1-f682a8cb1a43.htm" />
-  <HelpKINode Title="XamlUserType._enumValues field" Url="html/e911dc4c-4480-17f6-14ce-e1755692d5fe.htm" />
-  <HelpKINode Title="XamlUserType._isArray field" Url="html/c305a2de-8e00-0664-6496-34e43dd59000.htm" />
-  <HelpKINode Title="XamlUserType._isBindable field" Url="html/8b422caa-88fe-11b1-5d23-4f2be9442353.htm" />
-  <HelpKINode Title="XamlUserType._isLocalType field" Url="html/f8b86c30-0ecf-eb57-e87e-9fdccd3589f0.htm" />
-  <HelpKINode Title="XamlUserType._isMarkupExtension field" Url="html/279d163b-b37e-0365-2746-53012c9dcf38.htm" />
-  <HelpKINode Title="XamlUserType._isReturnTypeStub field" Url="html/ff0cfc30-d411-4bc5-86eb-9cba642b3e5e.htm" />
-  <HelpKINode Title="XamlUserType._itemTypeName field" Url="html/3de978b6-20cc-e621-27b2-8ffa7508abb8.htm" />
-  <HelpKINode Title="XamlUserType._keyTypeName field" Url="html/88224a8a-0537-3938-4ea7-8fea6bc55b0a.htm" />
-  <HelpKINode Title="XamlUserType._memberNames field" Url="html/b2319874-bf46-7d72-c4f0-51d34140e59c.htm" />
-  <HelpKINode Title="XamlUserType._provider field" Url="html/a63a102b-b8c4-8d3b-ecc4-39df7bcb6e22.htm" />
   <HelpKINode Title="_1024x768 field" Url="html/942e580e-e401-6639-7b76-53195a610b4f.htm" />
   <HelpKINode Title="_1280x720 field" Url="html/243c05e9-8a61-9ca8-322e-1cf946d486e5.htm" />
   <HelpKINode Title="_1280x800 field" Url="html/e55ae832-1236-b044-9db0-03d3335c8a15.htm" />
   <HelpKINode Title="_1920x1080 field" Url="html/8d6fdb63-c8be-2149-6e85-1b9885e39823.htm" />
-  <HelpKINode Title="_baseType field" Url="html/247d7f15-a213-e9cc-68bf-9a20f29db6a0.htm" />
   <HelpKINode Title="_contentLoaded field">
     <HelpKINode Title="AboutPage._contentLoaded Field" Url="html/03938582-17d4-ba43-74f9-1b73d04dd28b.htm" />
     <HelpKINode Title="App._contentLoaded Field" Url="html/363138bf-dc81-834f-a961-bd7240ebc67b.htm" />
@@ -3410,32 +3042,5 @@
     <HelpKINode Title="TablutPage._contentLoaded Field" Url="html/7b5a4212-7d28-9659-fe07-1537fd2f918f.htm" />
     <HelpKINode Title="TawlbwrddPage._contentLoaded Field" Url="html/d5603ffc-d28c-0013-64e9-3f0819d937e6.htm" />
   </HelpKINode>
-  <HelpKINode Title="_contentPropertyName field" Url="html/f5b93bc9-4e51-ef4f-43e1-f682a8cb1a43.htm" />
-  <HelpKINode Title="_enumValues field" Url="html/e911dc4c-4480-17f6-14ce-e1755692d5fe.htm" />
-  <HelpKINode Title="_fullName field" Url="html/62cdafe2-086b-e5b3-5081-13da01d2e0da.htm" />
-  <HelpKINode Title="_isArray field" Url="html/c305a2de-8e00-0664-6496-34e43dd59000.htm" />
-  <HelpKINode Title="_isAttachable field" Url="html/a9c1649d-66b0-f277-4737-dd4f8f6ee558.htm" />
-  <HelpKINode Title="_isBindable field" Url="html/8b422caa-88fe-11b1-5d23-4f2be9442353.htm" />
-  <HelpKINode Title="_isDependencyProperty field" Url="html/06bbf789-0c81-55a0-6940-0590ce737e05.htm" />
-  <HelpKINode Title="_isLocalType field" Url="html/f8b86c30-0ecf-eb57-e87e-9fdccd3589f0.htm" />
-  <HelpKINode Title="_isMarkupExtension field" Url="html/279d163b-b37e-0365-2746-53012c9dcf38.htm" />
-  <HelpKINode Title="_isReadOnly field" Url="html/a9a04f35-6e96-d097-91fa-f5f475001e2d.htm" />
-  <HelpKINode Title="_isReturnTypeStub field" Url="html/ff0cfc30-d411-4bc5-86eb-9cba642b3e5e.htm" />
-  <HelpKINode Title="_itemTypeName field" Url="html/3de978b6-20cc-e621-27b2-8ffa7508abb8.htm" />
-  <HelpKINode Title="_keyTypeName field" Url="html/88224a8a-0537-3938-4ea7-8fea6bc55b0a.htm" />
-  <HelpKINode Title="_memberNames field" Url="html/b2319874-bf46-7d72-c4f0-51d34140e59c.htm" />
-  <HelpKINode Title="_name field" Url="html/43667a4f-51a9-1a14-93a3-202236de2997.htm" />
-  <HelpKINode Title="_provider field">
-    <HelpKINode Title="App._provider Field" Url="html/bf4fee68-3f56-db1c-f8ed-79627f1e893e.htm" />
-    <HelpKINode Title="XamlMember._provider Field" Url="html/65e800fe-7e52-2f77-c041-c0ca44332a40.htm" />
-    <HelpKINode Title="XamlUserType._provider Field" Url="html/a63a102b-b8c4-8d3b-ecc4-39df7bcb6e22.htm" />
-  </HelpKINode>
-  <HelpKINode Title="_targetTypeName field" Url="html/9d672fa9-4b48-f680-2eed-4ef61702582c.htm" />
-  <HelpKINode Title="_typeName field" Url="html/dba3f2b2-5aa2-83cd-2f0f-296a2da5414c.htm" />
-  <HelpKINode Title="_typeNameTable field" Url="html/ef186e23-6723-3f33-f852-e99dc97a57c9.htm" />
-  <HelpKINode Title="_typeTable field" Url="html/95500ac5-07d6-13bd-bb96-ea06ba4b4efb.htm" />
-  <HelpKINode Title="_underlyingType field" Url="html/e845fcd5-2123-60f4-2f2b-0b5c8cff8d07.htm" />
-  <HelpKINode Title="_xamlMembers field" Url="html/9147159f-b3ad-52cc-bd8e-64bf4871ba02.htm" />
-  <HelpKINode Title="_xamlTypeCacheByName field" Url="html/eca9a96e-5f1f-9b80-7d5c-c10d13433263.htm" />
-  <HelpKINode Title="_xamlTypeCacheByType field" Url="html/5525eca3-d4a7-f761-e1f2-5b892f8790ed.htm" />
+  <HelpKINode Title="_provider field" Url="html/bf4fee68-3f56-db1c-f8ed-79627f1e893e.htm" />
 </HelpKI>

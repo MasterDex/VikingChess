@@ -24,7 +24,7 @@ namespace VikingChess.Model
         /// <summary>
         /// The number of times the steps of the MCTS algorithm run before the best node is chosen.
         /// </summary>
-        private const double PLAYOUTS = 5000;
+        private const double PLAYOUTS = 1000;
         /// <summary>
         /// The number of moves to process during the simulation step.
         /// </summary>
@@ -47,7 +47,7 @@ namespace VikingChess.Model
             Board mctsBoard = new Board(board);
             root = new Node(mctsBoard);
             alphaPlayer = new Player(mctsBoard.getCurrentPlayer());
-            generateNodes(mctsBoard);
+            //generateNodes(mctsBoard);
         }
 
         /// <summary>
@@ -293,7 +293,6 @@ namespace VikingChess.Model
             // Else if player 1 has won and it is not the alpha player
             else if (game.getPlayer1().getWin() && alphaPlayer.getColor().Equals(Enums.Color.WHITE))
             {
-
                 // Score negative
                 score += LOSS_POINTS;
             }

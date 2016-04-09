@@ -429,9 +429,28 @@ namespace VikingChess.Model
         {
             if(selectedPiece.getType() == Enums.PieceType.KING)
             {
-                if(destination.getRank() == Enums.Rank.Eleven || destination.getRank() == Enums.Rank.One || destination.getFile() == Enums.File.A || destination.getFile() == Enums.File.K)
+                for (int k = 1; k < board.GetSize() - 2; ++k)
                 {
-                    kingEscaped = true;
+                    // Top
+                    if (board.GetSquare(1, k).Equals(destination))
+                    {
+                        kingEscaped = true;
+                    }
+                    // Left
+                    else if (board.GetSquare(k, 1).Equals(destination))
+                    {
+                        kingEscaped = true;
+                    }
+                    // Vottom
+                    else if (board.GetSquare(board.GetSize() - 2, k).Equals(destination))
+                    {
+                        kingEscaped = true;
+                    }
+                    // Right
+                    else if (board.GetSquare(k, board.GetSize() - 2).Equals(destination))
+                    {
+                        kingEscaped = true;
+                    }
                 }
             }
         }

@@ -36,7 +36,7 @@ namespace VikingChess
         private async void newGameBtn_Click(object sender, RoutedEventArgs e)
         {
             game.PlaySound("btn_click.wav");
-            await Task.Delay(TimeSpan.FromSeconds(2));
+            await Task.Delay(TimeSpan.FromSeconds(1));
             this.Frame.Navigate(typeof(SettingsPage));
         }
 
@@ -48,7 +48,7 @@ namespace VikingChess
         private async void howToBtn_Click(object sender, RoutedEventArgs e)
         {
             game.PlaySound("btn_click.wav");
-            await Task.Delay(TimeSpan.FromSeconds(2));
+            await Task.Delay(TimeSpan.FromSeconds(1));
             this.Frame.Navigate(typeof(RulesPage));
         }
 
@@ -60,7 +60,7 @@ namespace VikingChess
         private async void aboutBtn_Click(object sender, RoutedEventArgs e)
         {
             game.PlaySound("btn_click.wav");
-            await Task.Delay(TimeSpan.FromSeconds(2));
+            await Task.Delay(TimeSpan.FromSeconds(1));
             this.Frame.Navigate(typeof(AboutPage));
         }
 

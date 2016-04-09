@@ -490,25 +490,76 @@ namespace VikingChess.Model
                         if (currPiece != null && currPiece.getType().Equals(Enums.PieceType.KING))
                         {
                             Square kingSquare = currSquare;
+                            Tuple<int, int> kingIndex = board.GetPosition(new Tuple<Enums.Rank, Enums.File>(kingSquare.getRank(), kingSquare.getFile()));
                             Square[] kingNeighbours = kingSquare.getNeighbours();
+                            List<Square> kingMoves = kingSquare.getPiece().generateLegalMoves(board);
 
                             for (int k = 0; k < squareList.Count; ++k)
                             {
                                 Square selectedSquare = squareList[k] as Square;
                                 Piece selectedPiece = selectedSquare.getPiece();
                                 List<Square> moves = selectedPiece.generateLegalMoves(board);
-
-                                for (int l = 0; l < moves.Count; ++l)
+                                if (selectedPiece.getColor().Equals(Enums.Color.BLACK))
                                 {
-                                    for (int m = 0; m < kingNeighbours.Length; ++m)
+                                    Square blockingSquare = null;
+
+                                    // First see if the King can escape and find the square to block it.
+                                    for (int l = 0; l < kingMoves.Count; ++l)
                                     {
-                                        if (moves[l].Equals(kingNeighbours[m]))
+                                        for (int m = 1; m < board.GetSize() - 2; ++m)
                                         {
-                                            Square destination = moves[l] as Square;
+                                            Square currMove = kingMoves[l] as Square;
+                                            // Top
+                                            if (board.GetSquare(1, m).Equals(currMove))
+                                            {
+                                                blockingSquare = board.GetSquare(kingIndex.Item1 - 1, m);
+                                            }
+                                            // Left
+                                            else if (board.GetSquare(m, 1).Equals(currSquare))
+                                            {
+                                                blockingSquare = board.GetSquare(m, kingIndex.Item2 - 1);
+                                            }
+                                            // Bottom
+                                            else if (board.GetSquare(board.GetSize() - 2, m).Equals(currSquare))
+                                            {
+                                                blockingSquare = board.GetSquare(kingIndex.Item1 + 1, m);
+                                            }
+                                            // Right
+                                            else if (board.GetSquare(m, board.GetSize() - 2).Equals(currSquare))
+                                            {
+                                                blockingSquare = board.GetSquare(m, kingIndex.Item2 + 1);
+                                            }
+                                        }
 
-                                            Tuple<Square, Piece, Square> moveTuple = new Tuple<Square, Piece, Square>(selectedSquare, selectedPiece, destination);
+                                    }
 
-                                            return moveTuple;
+                                    Square destination = null;
+
+                                    for (int l = 0; l < moves.Count; ++l)
+                                    {
+                                        // If you can block the king then do so
+                                        if (blockingSquare != null)
+                                        {
+                                            if (moves[l].Equals(blockingSquare))
+                                            {
+                                                Tuple<Square, Piece, Square> moveTuple = new Tuple<Square, Piece, Square>(selectedSquare, selectedPiece, blockingSquare);
+
+                                                return moveTuple;
+                                            }
+                                        }
+                                        else
+                                        {
+                                            for (int m = 0; m < kingNeighbours.Length; ++m)
+                                            {
+                                                if (moves[l].Equals(kingNeighbours[m]))
+                                                {
+                                                    destination = moves[l] as Square;
+
+                                                    Tuple<Square, Piece, Square> moveTuple = new Tuple<Square, Piece, Square>(selectedSquare, selectedPiece, destination);
+
+                                                    return moveTuple;
+                                                }
+                                            }
                                         }
                                     }
                                 }
@@ -548,18 +599,22 @@ namespace VikingChess.Model
                         for(int k = 1; k < board.GetSize()-2; ++k)
                         {
                             Square currSquare = moveList[j] as Square;
+                            // Top
                             if (board.GetSquare(1, k).Equals(currSquare))
                             {
                                 destination = currSquare;
                             }
+                            // Left
                             else if(board.GetSquare(k, 1).Equals(currSquare))
                             {
                                 destination = currSquare;
                             }
+                            // Bottom
                             else if (board.GetSquare(board.GetSize()-2, k).Equals(currSquare))
                             {
                                 destination = currSquare;
                             }
+                            // Right
                             else if (board.GetSquare(k, board.GetSize()-2).Equals(currSquare))
                             {
                                 destination = currSquare;

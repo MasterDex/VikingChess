@@ -15,27 +15,27 @@ IF "%1%"=="H21" GOTO HelpViewer22
 IF "%1%"=="h21" GOTO HelpViewer22
 
 REM Help Viewer 1.0
-HelpLibraryManagerLauncher.exe /product "VS" /version "100" /locale en-us /uninstall /silent /vendor "Declan Murphy" /productName "Viking Chess" /mediaBookList "Viking Chess MCTS Class Library"
+HelpLibraryManagerLauncher.exe /product "VS" /version "100" /locale en-us /uninstall /silent /vendor "Declan Murphy" /productName "Viking Chess" /mediaBookList "Viking Chess Documentation"
 
 GOTO Exit
 
 :HelpViewer2
 
 REM Help Viewer 2.0
-HelpLibraryManagerLauncher.exe /viewerVersion 2.0  /locale en-us /wait 0 /operation uninstall /vendor "Declan Murphy" /productName "Viking Chess" /bookList "Viking Chess MCTS Class Library"
+HelpLibraryManagerLauncher.exe /viewerVersion 2.0  /locale en-us /wait 0 /operation uninstall /vendor "Declan Murphy" /productName "Viking Chess" /bookList "Viking Chess Documentation"
 
 GOTO Exit
 
 :HelpViewer21
 
 REM Help Viewer 2.1
-HelpLibraryManagerLauncher.exe /viewerVersion 2.1  /locale en-us /wait 0 /operation uninstall /vendor "Declan Murphy" /productName "Viking Chess" /bookList "Viking Chess MCTS Class Library"
+HelpLibraryManagerLauncher.exe /viewerVersion 2.1  /locale en-us /wait 0 /operation uninstall /vendor "Declan Murphy" /productName "Viking Chess" /bookList "Viking Chess Documentation"
 
 GOTO Exit
 
 :HelpViewer22
 
 REM Help Viewer 2.2
-HelpLibraryManagerLauncher.exe /viewerVersion 2.2  /locale en-us /wait 0 /operation uninstall /vendor "Declan Murphy" /productName "Viking Chess" /bookList "Viking Chess MCTS Class Library"
+HelpLibraryManagerLauncher.exe /viewerVersion 2.2  /locale en-us /wait 0 /operation uninstall /vendor "Declan Murphy" /productName "Viking Chess" /bookList "Viking Chess Documentation"
 
 :Exit

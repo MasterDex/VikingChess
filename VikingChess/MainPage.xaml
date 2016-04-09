@@ -284,13 +284,13 @@
                 </Button.Background>
             </Button>
         </RelativePanel>
-        <Rectangle Height="20" StrokeThickness="10" VerticalAlignment="Top" Fill="#FF6B2509" />
-        <Button x:Name="fullscreen_btn" Style="{StaticResource topbarButtonStyle}" Content="" Click="fullscreen_btn_clicked" HorizontalAlignment="Right" Height="18" VerticalAlignment="Top" Width="18" Margin="1,1,12,1">
+        <Rectangle Height="20" StrokeThickness="10" VerticalAlignment="Top" Fill="#FF6B2509" Width="1920" />
+        <Button x:Name="fullscreen_btn" Style="{StaticResource topbarButtonStyle}" Content="" Click="fullscreen_btn_clicked" HorizontalAlignment="Right" Height="18" VerticalAlignment="Top" Width="18" Margin="0,1,10,0">
             <Button.Background>
                 <ImageBrush ImageSource="Assets/fullscreen-arrows.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button x:Name="back_btn" Style="{StaticResource topbarButtonStyle}" Content="" Click="back_btn_clicked"  HorizontalAlignment="Left" Height="14" VerticalAlignment="Top" Width="20">
+        <Button x:Name="back_btn" Style="{StaticResource topbarButtonStyle}" Content="" Click="back_btn_clicked"  HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="20">
             <Button.Background>
                 <ImageBrush ImageSource="Assets/back-arrow.png" Stretch="Uniform"/>
             </Button.Background>

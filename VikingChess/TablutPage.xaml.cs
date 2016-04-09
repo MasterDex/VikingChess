@@ -310,14 +310,14 @@ namespace VikingChess
         private void bindRectangles()
         {
 
-            int row = 11;
+            int row = board.GetSize() - 2;
             int col = 1;
             int i = 0;
 
             // Loops through each square on the board and binds each rectangle to its corresponding square
-            for (col = 1; col < 12; ++col)
+            for (col = 1; col <= board.GetSize() - 2; ++col)
             {
-                for (row = 11; row > 0; --row)
+                for (row = board.GetSize() - 2; row > 0; --row)
                 {
                     rectArr[i].DataContext = board.GetSquare(row, col);
                     ++i;
