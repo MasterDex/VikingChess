@@ -22,7 +22,9 @@ namespace VikingChess.Model
         /// </summary>
         private const double LOSS_POINTS = -100;
         /// <summary>
-        /// The number of times the steps of the MCTS algorithm run before the best node is chosen.
+        /// The number of times the steps of the MCTS algorithm run before the best node is chosen. 
+        /// Increasing this value may result in a better decision by the CPU at the cost of an 
+        /// increase in the time taken to produce a result and a higher memory cost.
         /// </summary>
         private const double PLAYOUTS = 1000;
         /// <summary>

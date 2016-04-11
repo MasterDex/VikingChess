@@ -70,6 +70,7 @@ namespace VikingChess
 
             // Initalize the background worker.
             bw.DoWork += new DoWorkEventHandler(bw_DoWork);
+            bw.WorkerSupportsCancellation = true;
             bw.RunWorkerCompleted += new RunWorkerCompletedEventHandler(bw_RunWorkerCompleted);
 
             // Initialize Game Timer
@@ -156,12 +157,19 @@ namespace VikingChess
         {
             BackgroundWorker worker = sender as BackgroundWorker;
 
-            // If the current player is a CPU player then get the move tuple for their current turn.
-            if (game.getCurrentPlayer().getType().Equals(Enums.PlayerType.CPU) && game.checkWin() == false)
+            if (!bw.CancellationPending)
             {
-                cpuMovesTuple = null;
-                // Make CPU Move
-                cpuMovesTuple = game.getCurrentPlayer().makeMCTSMove(mctsBoard);
+                // If the current player is a CPU player then get the move tuple for their current turn.
+                if (game.getCurrentPlayer().getType().Equals(Enums.PlayerType.CPU) && game.checkWin() == false)
+                {
+                    cpuMovesTuple = null;
+                    // Make CPU Move
+                    cpuMovesTuple = game.getCurrentPlayer().makeMCTSMove(mctsBoard);
+                }
+            }
+            else if (bw.CancellationPending)
+            {
+                e.Cancel = true;
             }
         }
 
@@ -530,6 +538,9 @@ namespace VikingChess
         /// <param name="e"></param>
         private async void resignBtn1_tapped(object sender, RoutedEventArgs e)
         {
+            playerOneTimer.Stop();
+            playerTwoTimer.Stop();
+            bw.CancelAsync();
             // If the current player is player 1
             if (game.getCurrentPlayer().getColor() == Enums.Color.BLACK)
             {
@@ -549,6 +560,7 @@ namespace VikingChess
         /// <param name="e"></param>
         private void back_btn_clicked(object sender, RoutedEventArgs e)
         {
+            bw.CancelAsync();
             if (this.Frame.CanGoBack)
             {
                 this.Frame.GoBack();
@@ -587,6 +599,9 @@ namespace VikingChess
         /// <param name="e"></param>
         private async void resignBtn2_tapped(object sender, RoutedEventArgs e)
         {
+            playerOneTimer.Stop();
+            playerTwoTimer.Stop();
+            bw.CancelAsync();
             // If the current player is player 2
             if (game.getCurrentPlayer().getColor().Equals(Enums.Color.WHITE))
             {
@@ -606,6 +621,20 @@ namespace VikingChess
         /// <param name="e"></param>
         private void undoBtn_tapped(object sender, RoutedEventArgs e)
         {
+            if (game.getCurrentPlayer().getColor().Equals(Enums.Color.BLACK))
+            {
+                playerOneTimer.Stop();
+                resetPlayerTwoTimer();
+                playerTwoTimer.Start();
+
+            }
+            else
+            {
+                playerTwoTimer.Stop();
+                resetPlayerOneTimer();
+                playerOneTimer.Start();
+            }
+            bw.CancelAsync();
             game.PlaySound("btn_click.wav");
             board = game.undoMove();
             bindRectangles();
