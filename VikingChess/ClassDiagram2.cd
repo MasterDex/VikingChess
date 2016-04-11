@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VikingChess.AboutPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>AboutPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VikingChess.App" Collapsed="true">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAQAAIAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VikingChess.ArdRiPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAaAyCgBUFqQKEiBAgAAShwAAyACJAMooBEIJRCgCKg=</HashCode>
+      <FileName>ArdRiPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VikingChess.BrandubhPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAaAyCgBUFqQKEiBAgAAShwAAyACJAMooBEIJRCgCKg=</HashCode>
+      <FileName>BrandubhPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VikingChess.HnefataflPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAaAyCgBUFqQKEiBAgAAShwAAyACJAMooBEIJRCgCKg=</HashCode>
+      <FileName>HnefataflPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VikingChess.MainPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAIAAIIAgAAAAA=</HashCode>
+      <FileName>MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VikingChess.NamespaceDoc" Collapsed="true">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NamespaceDoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VikingChess.RulesPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAEAEAAAAAAAIAAIACAAYAAAIAAAAAAA=</HashCode>
+      <FileName>RulesPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VikingChess.SettingsPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAEAAAAAAAAAAAACAAACIgAAKAAAIAAA=</HashCode>
+      <FileName>SettingsPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VikingChess.TablutPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAaAyCgBUFqQKEiBAgAAShwAAyACJAMooBEIJRCgCKg=</HashCode>
+      <FileName>TablutPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VikingChess.TawlbwrddPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAaAyCgBUFqQKEiBAgAAShwAAyACJAMooBEIJRCgCKg=</HashCode>
+      <FileName>TawlbwrddPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VikingChess.Model.Board" Collapsed="true">
+    <Position X="13" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQCCAEAAyKAAAhiEAYAAIAEAABACCACEIEAAAAAQAAA=</HashCode>
+      <FileName>Model\Board.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VikingChess.Model.Enums" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VikingChess.Model.Game" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>4QCiACAAEADAAAgZAQAIIAgAAQggCECILAEggAAQAIA=</HashCode>
+      <FileName>Model\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VikingChess.Model.MCTS" Collapsed="true">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAACgAAAwAABAAgAAAAAAAIISAACAAEA=</HashCode>
+      <FileName>Model\MCTS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VikingChess.Model.NamespaceDoc" Collapsed="true">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\NamespaceDoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VikingChess.Model.Node" Collapsed="true">
+    <Position X="11.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAIAigggEEAREAAAIAAAAFBCAQEAAIAAEkAQAAEA=</HashCode>
+      <FileName>Model\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VikingChess.Model.Piece" Collapsed="true">
+    <Position X="13" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAQQABEAAEEAAAAAAAAXABAISABAAAgAAIAAA=</HashCode>
+      <FileName>Model\Piece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VikingChess.Model.Player">
+    <Position X="3" Y="1" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>gAEAAAhAAgAAMAAUAAQAAAAEBRAFAQDAAAEEgAAIAEI=</HashCode>
+      <FileName>Model\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VikingChess.Model.Square" Collapsed="true">
+    <Position X="11.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAQABEACEAAAAAAAAAHABAAQgDiACACAAAAA=</HashCode>
+      <FileName>Model\Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

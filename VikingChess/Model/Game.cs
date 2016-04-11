@@ -504,7 +504,7 @@ namespace VikingChess.Model
         /// </summary>
         /// <param name="kingSquare">The <see cref="Square"/> that the king <see cref="Piece"/> is on.</param>
         /// <returns>A <see cref="bool"/> representing if the king is surrounded or not.</returns>
-        public bool captureKing(Square kingSquare)
+        public bool checkKingCapture(Square kingSquare)
         {
             Boolean isNull = true;
             Square[] kingNeighbours = kingSquare.getNeighbours();
@@ -603,7 +603,7 @@ namespace VikingChess.Model
                     else if (neighbourSquares[direction].getPiece() != null && neighbourSquares[direction].getPiece().getType() == Enums.PieceType.KING)
                     {
                         // If the king is surrounded
-                        if (captureKing(neighbourSquares[direction]))
+                        if (checkKingCapture(neighbourSquares[direction]))
                         {
                             capturedPiece = neighbourSquares[direction].getPiece();
 
@@ -619,12 +619,12 @@ namespace VikingChess.Model
         /// <summary>
         /// Loops through each of the nieghbours of the destination <see cref="Square"/> and checks if any piece has been captured.
         /// </summary>
-        /// <param name="destinationSquare">The <see cref="Square"/> to check the neighbours of.</param>
+        /// <param name="destination">The <see cref="Square"/> to check the neighbours of.</param>
         /// <param name="selectedPiece">The <see cref="Piece"/> capturing.</param>
-        public void capturePiece(Square destinationSquare, Piece selectedPiece)
+        public void capturePiece(Square destination, Piece selectedPiece)
         {
             // Get the neighbours of the destination square
-            Square[] neighbourSquares = destinationSquare.getNeighbours();
+            Square[] neighbourSquares = destination.getNeighbours();
 
             for(int i = 0; i < 4; ++i)
             {
