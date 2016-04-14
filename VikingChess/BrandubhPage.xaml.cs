@@ -152,9 +152,11 @@ namespace VikingChess
         /// <param name="e"></param>
         private void bw_DoWork(object sender, DoWorkEventArgs e)
         {
-            BackgroundWorker worker = sender as BackgroundWorker;
-
-            if (!bw.CancellationPending)
+            if (bw.CancellationPending)
+            {
+                e.Cancel = true;
+            }
+            else
             {
                 // If the current player is a CPU player then get the move tuple for their current turn.
                 if (game.getCurrentPlayer().getType().Equals(Enums.PlayerType.CPU) && game.checkWin() == false)
@@ -163,10 +165,6 @@ namespace VikingChess
                     // Make CPU Move
                     cpuMovesTuple = game.getCurrentPlayer().makeMCTSMove(mctsBoard);
                 }
-            }
-            else if (bw.CancellationPending)
-            {
-                e.Cancel = true;
             }
         }
 

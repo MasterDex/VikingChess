@@ -194,7 +194,6 @@ namespace VikingChess.Model
                 curr.ExpandNode();
                 bestChild = curr.UCTSelectBest();
             }
-
             if (bestChild == null)
             {
                 // Best child is terminal state
@@ -285,24 +284,48 @@ namespace VikingChess.Model
             {
                 // Score positive
                 score += WIN_POINTS;
+
+                // Get a count of pieces
+                score += scorePieces(board, game);
+
+                // Evaluate control of rank and file
+                score += evaluateControl(board, game);
             }
             // Else if player 2 has won and it is the alpha player
             else if (game.getPlayer2().getWin() && alphaPlayer.getColor().Equals(Enums.Color.WHITE))
             {
                 // Score positive
                 score += WIN_POINTS;
+
+                // Get a count of pieces
+                score += scorePieces(board, game);
+
+                // Evaluate control of rank and file
+                score += evaluateControl(board, game);
             }
             // Else if player 1 has won and it is not the alpha player
             else if (game.getPlayer1().getWin() && alphaPlayer.getColor().Equals(Enums.Color.WHITE))
             {
                 // Score negative
                 score += LOSS_POINTS;
+
+                // Get a count of pieces
+                score += scorePieces(board, game);
+
+                // Evaluate control of rank and file
+                score += evaluateControl(board, game);
             }
             // Else if player 2 has won and it is not the alpha player
             else if (game.getPlayer2().getWin() && alphaPlayer.getColor().Equals(Enums.Color.BLACK))
             {
                 // Score negative
                 score += LOSS_POINTS;
+
+                // Get a count of pieces
+                score += scorePieces(board, game);
+
+                // Evaluate control of rank and file
+                score += evaluateControl(board, game);
             }
             else
             {
@@ -481,14 +504,14 @@ namespace VikingChess.Model
             {
                 // Reflect the importance of a low defender count by penalizing boards with a high defender count
                 score += (blackCount);
-                score -= (whiteCount * 3);
+                score -= (whiteCount);
             }
             // If the AlphaPlayer is Defending
             else if (alphaPlayer.getColor().Equals(Enums.Color.WHITE))
             {
                 // Reflect the importance of a high defender count by rewarding boards with a high defender count;
                 score -= (blackCount);
-                score += (whiteCount * 3);
+                score += (whiteCount);
             }
 
             return score;

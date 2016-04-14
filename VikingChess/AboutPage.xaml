@@ -167,6 +167,7 @@
                 <ImageBrush Stretch="Uniform" ImageSource="Assets/VikingChessLogoMainPage.png"/>
             </Rectangle.Fill>
         </Rectangle>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Version: 1.0.0" VerticalAlignment="Center" Margin="1724,1040,5,5" Height="35" Width="191" Foreground="#FFFFA200" FontFamily="Assets/Fonts/VIKING-N.TTF#Viking-Normal" FontSize="18" TextAlignment="Center"/>
 
     </Grid>
 </Page>
