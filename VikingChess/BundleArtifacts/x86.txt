@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Declan\documents\visual studio 2015\Projects\VikingChess\VikingChess\bin\x86\Release\VikingChess_1.1.0.0_x86.appx
+SymbolPackage=C:\Users\Declan\documents\visual studio 2015\Projects\VikingChess\VikingChess\AppPackages\VikingChess_1.1.0.0_Test\VikingChess_1.1.0.0_x86.appxsym

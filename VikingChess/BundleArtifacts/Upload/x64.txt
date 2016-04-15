@@ -1,0 +1,6 @@
+MainPackage=C:\Users\Declan\documents\visual studio 2015\Projects\VikingChess\VikingChess\bin\x64\Release\Upload\VikingChess_1.1.0.0_x64.appx
+SymbolPackage=C:\Users\Declan\documents\visual studio 2015\Projects\VikingChess\VikingChess\AppPackages\VikingChess_1.1.0.0\VikingChess_1.1.0.0_x64.appxsym
+ResourcePack=C:\Users\Declan\documents\visual studio 2015\Projects\VikingChess\VikingChess\_scale-100.appx
+ResourcePack=C:\Users\Declan\documents\visual studio 2015\Projects\VikingChess\VikingChess\_scale-125.appx
+ResourcePack=C:\Users\Declan\documents\visual studio 2015\Projects\VikingChess\VikingChess\_scale-150.appx
+ResourcePack=C:\Users\Declan\documents\visual studio 2015\Projects\VikingChess\VikingChess\_scale-400.appx

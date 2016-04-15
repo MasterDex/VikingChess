@@ -660,15 +660,13 @@
   <HelpKINode Title="captureBtn field" Url="html/bc47f6c1-4d7e-e1de-0117-57fddd037ab9.htm" />
   <HelpKINode Title="captureBtn_clicked method" Url="html/882ee937-abcd-6955-6dc6-1c1693fa8c31.htm" />
   <HelpKINode Title="capturedPiece field" Url="html/a40e4d40-645c-2b5c-8a78-5790dd580b5d.htm" />
-  <HelpKINode Title="captureKing method">
-    <HelpKINode Title="Game.captureKing Method " Url="html/31ea9d8c-53a0-e4d1-9947-636dfecee8a4.htm" />
-    <HelpKINode Title="Player.captureKing Method " Url="html/1c4bd9f4-7abf-0d7a-8efa-4e650ee81c6d.htm" />
-  </HelpKINode>
+  <HelpKINode Title="captureKing method" Url="html/1c4bd9f4-7abf-0d7a-8efa-4e650ee81c6d.htm" />
   <HelpKINode Title="capturePiece method">
     <HelpKINode Title="Game.capturePiece Method " Url="html/0030c31e-22ca-aafe-9f8b-01028024c334.htm" />
     <HelpKINode Title="Player.capturePiece Method " Url="html/217edc01-1163-a067-8bfd-02b09db44d4a.htm" />
   </HelpKINode>
   <HelpKINode Title="checkCapture method" Url="html/1fa122cc-9643-f330-f855-1a82b38fad34.htm" />
+  <HelpKINode Title="checkKingCapture method" Url="html/7fdefdd7-b931-5999-d260-a491cd65129b.htm" />
   <HelpKINode Title="checkKingMoves method" Url="html/603f1be2-cc3e-6121-91c6-c3a7673509c7.htm" />
   <HelpKINode Title="checkMate field">
     <HelpKINode Title="ArdRiPage.checkMate Field" Url="html/3ef7e36c-ac2e-8c58-0746-752bb6ea5e3f.htm" />
@@ -1178,9 +1176,9 @@
   <HelpKINode Title="Game.blackPieces field" Url="html/3c7a5c52-f757-532b-505f-ffca5706842b.htm" />
   <HelpKINode Title="Game.board field" Url="html/6ff7c7bd-54b6-3524-2d67-dddf89cb1044.htm" />
   <HelpKINode Title="Game.capturedPiece field" Url="html/a40e4d40-645c-2b5c-8a78-5790dd580b5d.htm" />
-  <HelpKINode Title="Game.captureKing method" Url="html/31ea9d8c-53a0-e4d1-9947-636dfecee8a4.htm" />
   <HelpKINode Title="Game.capturePiece method" Url="html/0030c31e-22ca-aafe-9f8b-01028024c334.htm" />
   <HelpKINode Title="Game.checkCapture method" Url="html/1fa122cc-9643-f330-f855-1a82b38fad34.htm" />
+  <HelpKINode Title="Game.checkKingCapture method" Url="html/7fdefdd7-b931-5999-d260-a491cd65129b.htm" />
   <HelpKINode Title="Game.checkKingMoves method" Url="html/603f1be2-cc3e-6121-91c6-c3a7673509c7.htm" />
   <HelpKINode Title="Game.checkWin method" Url="html/07684660-54af-34ab-88d3-e99f2c607f21.htm" />
   <HelpKINode Title="Game.currentPlayer field" Url="html/45436dc5-bb6e-d8d1-1003-df931c2b21d5.htm" />
@@ -2367,8 +2365,8 @@
     <HelpKINode Title="Square.setLocation Method " Url="html/5e883925-6b5f-f8e7-e03e-9e68270d1d42.htm" />
   </HelpKINode>
   <HelpKINode Title="setName method" Url="html/a901238b-b231-b4a9-445b-57221f760578.htm" />
-  <HelpKINode Title="setNeighbours method" Url="html/8bac0026-3196-7576-9cc2-fd72c356e9d7.htm" />
   <HelpKINode Title="SetNeighbours method" Url="html/665af797-7d8d-09ac-88fd-0292fe100020.htm" />
+  <HelpKINode Title="setNeighbours method" Url="html/8bac0026-3196-7576-9cc2-fd72c356e9d7.htm" />
   <HelpKINode Title="setPiece method" Url="html/5121c8f9-4523-6944-5b36-f38b8daa5ec4.htm" />
   <HelpKINode Title="SetPieces method" Url="html/e54a613a-9c8e-e04e-5893-d1afe7891bc0.htm" />
   <HelpKINode Title="setRank method">

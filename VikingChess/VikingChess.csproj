@@ -17,8 +17,10 @@
     <EnableDotNetNativeCompatibleProfile>true</EnableDotNetNativeCompatibleProfile>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <PackageCertificateKeyFile>VikingChess_TemporaryKey.pfx</PackageCertificateKeyFile>
-    <PackageCertificateThumbprint>33A9167B1C7B7A2444091830F14E00E0F602B690</PackageCertificateThumbprint>
+    <PackageCertificateKeyFile>VikingChess_StoreKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateThumbprint>92DDBB5B5F45AC13FFEDEF7CBBC1B359E045CE86</PackageCertificateThumbprint>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxBundlePlatforms>x86|x64</AppxBundlePlatforms>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
     <DebugSymbols>true</DebugSymbols>
@@ -167,6 +169,7 @@
     <AppxManifest Include="Package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <None Include="VikingChess_StoreKey.pfx" />
     <None Include="VikingChess_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
@@ -257,6 +260,7 @@
     <Content Include="Assets\WinDefendersButton.png" />
     <Content Include="Assets\WinDefenderText.gif" />
     <Content Include="Assets\windowed-arrows.png" />
+    <None Include="Package.StoreAssociation.xml" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
